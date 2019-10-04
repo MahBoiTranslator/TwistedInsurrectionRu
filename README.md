@@ -14,9 +14,10 @@
 	_/Localizayion/language_1024x720.dll -> ~/Recources/
 
 # Благодарности
-Роман [Damfoos] Платов     - консультации - Roman [Damfoos]#2082
-Владислав Veron_ Афлетунов - пруфрид      - Veron_#9146
-Юрий HellKing666           - пруфрид      - HellKing666#0213
+
+	Роман [Damfoos] Платов     - консультации - Roman [Damfoos]#2082
+	Владислав Veron_ Афлетунов - пруфрид      - Veron_#9146
+	Юрий HellKing666           - пруфрид      - HellKing666#0213
 
 
 # PS

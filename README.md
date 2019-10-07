@@ -15,9 +15,10 @@
 
 ## Благодарности
 
-	Роман [Damfoos] Платов     - консультации - Roman [Damfoos]#2082
-	Владислав Veron_ Афлетунов - пруфрид      - Veron_#9146
-	Юрий HellKing666           - пруфрид      - HellKing666#0213
+	Роман [Damfoos] Платов     - консультации, тестирование - Roman [Damfoos]#2082
+	Егор Kerbiter Резвов       - консультации               - Kerbiter#3128
+	Владислав Veron_ Афлетунов - пруфрид                    - Veron_#9146
+	Юрий HellKing666           - пруфрид                    - HellKing666#0213
 
 
 ## PS
@@ -31,6 +32,7 @@
 
 	Sublime Text 3
 	Resource Hacker
+	WWFontEditor
 
 Все последние новости по локализатору появляются в группах в ВК:
 

@@ -9,12 +9,12 @@
 Основное действие которое вам нужно делать для установки локализатора - копировать файлы из архива в определённые папки игры.
 Список того куда что копировать [~ - папка игры; _ - папка локализатора]:
 	
-	_/Localization/Tutorial.ini          -> ~/INI/
-	_/Localization/Battle.ini            -> ~/INI/
-	_/Localization/ecache98.mix          -> ~/MIX/
-	_/Localization/language_800x600.dll  -> ~/Recources/
-	_/Localization/language_1024x720.dll -> ~/Recources/
-	_/Localization/GameOptions.ini       -> ~/Recources/
+	_/Localization/INI/Tutorial.ini                -> ~/INI/
+	_/Localization/INI/Battle.ini                  -> ~/INI/
+	_/Localization/MIX/ecache98.mix                -> ~/MIX/
+	_/Localizayion/Recources/language_800x600.dll  -> ~/Recources/
+	_/Localizayion/Recources/language_1024x720.dll -> ~/Recources/
+	_/Localization/Recources/GameOptions.ini       -> ~/Recources/
 
 ## Благодарности
 

@@ -37,4 +37,3 @@
 
 	https://vk.com/twistedinsurrection
 	https://vk.com/cncseries
-	https://vk.com/cnclegacy

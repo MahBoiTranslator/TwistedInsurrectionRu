@@ -19,6 +19,8 @@
 	Юрий HellKing666           - пруфрид текста миссий    - HellKing666#0213
   
 ## PS
+Т.к. версия 0.7.1.1 является предпоследней версией, перед версией 0.8, то на сайте moddb её нету. Максимум, что вы можете найти - это версию 0.7.8, поэтому вы можете скачать с моего облака https://mega.nz/#!dEw0nC5D!VtCoOYtjY4rjCVDHe2Nx-2Z0G9ucmdmnCgIExGF0TYQ версию 0.7.1.1, или с сайта moddb версию 0.7.8 https://www.moddb.com/mods/twisted-insurrection/downloads/twisted-insurrection-07
+
 При переводе использовались:
 
 	Переводчик Google

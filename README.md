@@ -14,10 +14,17 @@
 
 ## Благодарности
 
-	Роман [Damfoos] Платов     - консультации, тестирование - Roman [Damfoos]#2082
-	Егор Kerbiter Резвов       - консультации               - Kerbiter#3128
-	Владислав Veron_ Афлетунов - пруфрид                    - Veron_#9146
-	Юрий HellKing666           - пруфрид                    - HellKing666#0213
+	Roman [Damfoos] - соавтор           - Roman [Damfoos]#2082
+	Kerbiter        - помощник, лоббист - Kerbiter#3128
+	Revolter Ocelot - пруфрид           - Revolter Ocelot#6933
+	                  полной версии
+	                  локализатора
+	Nover           - пруфрид ранней    - Nover#9146
+	                  версии 
+	                  локализатора
+	HellKing666     - пруфрид ранней    - HellKing666#0213
+	                  версии 
+	                  локализатора
 
 
 ## PS

@@ -12,8 +12,11 @@
 	Скопируйте файлы локализатора в папку игры, подтверждая слияние папок и замену файлов.
 
 3. Благодарности:
-	Roman [Damfoos] - соавтор           - Roman [Damfoos]#2082
+	Roman [Damfoos] - соавтор,          - Roman [Damfoos]#2082
+	                  дизайнер клиента
 	Kerbiter        - помощник, лоббист - Kerbiter#3128
+	                  локализатора
+	Adolf Fritz     - тестер            - Adolf Fritz#3070
 	                  локализатора
 	Revolter Ocelot - пруфрид           - Revolter Ocelot#6933
 	                  полной версии

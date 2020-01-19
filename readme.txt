@@ -35,7 +35,7 @@
 		Сайт-словарь Multitran
 
 	При переводе интерфейса использовались:
-		Mixer
+		XCC Mixer
 		Resource Hacker
 		WWFontEditor
 

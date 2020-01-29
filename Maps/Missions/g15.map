@@ -2850,18 +2850,31 @@ PercentBuilt=0
 PlayerControl=no
 
 [Briefing]
-1=We've received reports of a large Nod aircraft production facility housing a
-2=prototype known as a "Wraith" bomber. Test runs of this large craft have proven
-3=to be extraordinarily devastating. We can't allow development to continue.
-4=We have established a harbor base near the facility.@@ Your mission is to capture the Nod
-5=Technology Center, Construction Yard, and any of the Wraith Supply Pads you come
-6=across. Do NOT destroy these structures! The facility is very well defended, so we are
-7=preparing our latest weapon, the "Mammoth" walker, nearby. It is not yet ready for
-8=battle, so defend it until it is ready for action. Resources are scarce, so you should
-9=also locate a rich supply of Tiberium as soon as possible, Commander.@@
-10=Objective 1: Locate and find a strong source of Tiberium.@@
-11=Objective 2: Defend the base and the Mammoth Walker.@@
-12=Objective 3: Capture Nod's Construction Yard, Tech Center and Wraith Supply Pads.@@
+1=Мы получили отчёты, согласно которым большой авиационно-производственный комплекс 
+2=Нод располагает у себя прототип, известный как бомбардировщик "Банши". Испытания 
+3=этого бомбардировщика были чрезвычайно разрушительными. Мы не можем позволить 
+4=разработке продолжится. Мы развернули портовую базу близ комплекса.@@
+5=Ваша задача - захватить Техцентр Нод, Сборочный Цех и любые Комплексы Обслуживания 
+6=Банши, которые найдёте. НЕ уничтожайте эти строения! Комплекс хорошо укреплён, 
+7=поэтому вблизи него мы подготавливаем наше последнее оружие - шагоход "Мамонт". 
+8=Он ещё не готов к бою, так что защищайте его до тех пор, пока мы он не будет в 
+9=строю. Командир, ресурсы скудные, поэтому вам необходимо найти богатые запасы 
+10=тиберия настолько быстро, насколько это возможно.@@
+11=Задача 1: Найдите большие залежи тиберия.@@
+12=Задача 2: Защищайте базу и шагоход.@@
+13=Задача 3: Захватите Сборочный Цех, Технологический Центр, Посадочные Площадки Нод.
+; 1=We've received reports of a large Nod aircraft production facility housing a
+; 2=prototype known as a "Wraith" bomber. Test runs of this large craft have proven
+; 3=to be extraordinarily devastating. We can't allow development to continue.
+; 4=We have established a harbor base near the facility.@@ Your mission is to capture the Nod
+; 5=Technology Center, Construction Yard, and any of the Wraith Supply Pads you come
+; 6=across. Do NOT destroy these structures! The facility is very well defended, so we are
+; 7=preparing our latest weapon, the "Mammoth" walker, nearby. It is not yet ready for
+; 8=battle, so defend it until it is ready for action. Resources are scarce, so you should
+; 9=also locate a rich supply of Tiberium as soon as possible, Commander.@@
+; 10=Objective 1: Locate and find a strong source of Tiberium.@@
+; 11=Objective 2: Defend the base and the Mammoth Walker.@@
+; 12=Objective 3: Capture Nod's Construction Yard, Tech Center and Wraith Supply Pads.@@
 
 [CellTags]
 129178=01000400

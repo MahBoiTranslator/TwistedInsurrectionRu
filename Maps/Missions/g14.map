@@ -2376,18 +2376,29 @@ AreTeamMembersRecruitable=no
 01000323=2,53,2,01000013,0,0,0,0,A,53,2,01000015,0,0,0,0,A
 
 [Briefing]
-1=Early this morning, our electronic warfare teams detected alarming energy
-2=signatures emanating from a large Nod base. The general purpose of this facility
-3=is currently unknown -- but just before we lost contact with our operatives,
-4=they made us aware of one shocking feature of the compound.@@
-5=It appears that Nod is constructing a combat walker they have nicknamed the "Venom".
-6=The capabilities of this unit are also currently unknown, but our operatives
-7=suggested that the walker is surely equipped with an extremely high
-8=amount of firepower. We can't allow the Brotherhood to continue production of
-9=these walkers. Raid the facility, and destroy any prototypes of the "Venom" you
-10=come across. This is a raid only -- do not attempt to secure the facility at this time.@@
-11=Objective 1: Take over one of the two Nod outposts in the area.@@
-12=Objective 2: Destroy all Venom walker prototypes.@@
+1=Ранним утром наша группа разведчиков обнаружила тревожные энергетические всплески, 
+2=исходящие от большой базы Нод. Предназначение этого объекта в настоящее время неизвестно, 
+3=но незадолго до того, как мы потеряли связь с нашими механиками, они дали нам понять 
+4=одну шокирующую особенность комплекса.@@
+5=Похоже Нод строит боевой шагоход, названный "Веном". Его возможности также в данный 
+6=момент неизвестны, но наши механики предположили, что он, естественно, имеет чрезмерно 
+7=большую огневую мощь. Мы не можем позволять Братству продолжать производство этих 
+8=шагоходов. Нападите на комплекс и уничтожьте все прототипы "Венома", которые вы 
+9=найдёте. Это только нападение, не пытайте зачистить комплекс, на этот раз.@@
+10=Задача 1: Захватите один из двух аванпостов в регионе.@@
+11=Задача 2: Уничтожьте все прототипы Венома.
+; 1=Early this morning, our electronic warfare teams detected alarming energy
+; 2=signatures emanating from a large Nod base. The general purpose of this facility
+; 3=is currently unknown -- but just before we lost contact with our operatives,
+; 4=they made us aware of one shocking feature of the compound.@@
+; 5=It appears that Nod is constructing a combat walker they have nicknamed the "Venom".
+; 6=The capabilities of this unit are also currently unknown, but our operatives
+; 7=suggested that the walker is surely equipped with an extremely high
+; 8=amount of firepower. We can't allow the Brotherhood to continue production of
+; 9=these walkers. Raid the facility, and destroy any prototypes of the "Venom" you
+; 10=come across. This is a raid only -- do not attempt to secure the facility at this time.@@
+; 11=Objective 1: Take over one of the two Nod outposts in the area.@@
+; 12=Objective 2: Destroy all Venom walker prototypes.@@
 
 [CellTags]
 59059=01000181

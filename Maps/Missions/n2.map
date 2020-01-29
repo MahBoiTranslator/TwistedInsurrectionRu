@@ -1458,18 +1458,30 @@ Name=Heavy Tank
 01000168=1,61,0,0,0,0,0,0,A
 
 [Briefing]
-1=Brother, it seems our victory over GDI hasn't been as absolute as we initially
-2=thought. Even though the mass majority of GDI has been eliminated, stubborn elements
-3=have refused to die, scuttling about like the insects they truly are.@@ A squadron of
-4=patrol aircraft, investigating why we lost communication with our local garrison,
-5=has located several small groups of organized GDI infantry in the surrounding forest.
-6=They appear to be aided by the same militia you encountered in your last assignment.@@
-7=It is unknown as to what exactly these pests are up to, but rest assured that whatever it is,
-8=it is against Kane's will and therefore must be dealt with.
-9=Use your Incinerator team to purify any enemy forces lurking in the forests. Once the area is
-10=secured, locate the source of these vermin and burn it to the ground.@@
-11=Objective 1: Eliminate the local GDI/militia presence.@@
-12=Objective 2: Locate and destroy the enemy militia's base camp.@@
+1=Брат, похоже победа над ГСБ не была абсолютной, как мы первоначально думали. Несмотря на то, 
+2=что подавляющее большинство ГСБ было ликвидировано, упрямые остатки отказались умирать, 
+3=суетясь, как насекомые, которыми они на самом деле являются.@@
+4=Эскадрилья патрулирующих самолётов, расследующая почему мы потеряли связь с нашим местным 
+5=гарнизоном, обнаружила несколько небольших организованных групп пехоты ГСБ в лесу, окружающем 
+6=гарнизон. По-видимому, им помогают те же повстанцы, с которыми вы столкнулись на своей последней 
+7=миссии.@@Неизвестно, чем именно занимаются эти вредители, но будьте уверены, что бы это ни было, 
+8=это противоречит планам Кейна и, следовательно, должно быть пресечено на корню. Используйте 
+9=вашу команду Испепелителей, чтобы очистить лес от любых скрывающихся в нём вражеских войск. 
+10=Как только лес будет зачищен, найдите источник эти паразитов и сожгите его до тла.@@
+11=Задача 1: Уничтожьте все силы ГСБ повстанцев.@@
+12=Задача 2: Найдите и уничтожьте базу повстанцев.
+; 1=Brother, it seems our victory over GDI hasn't been as absolute as we initially
+; 2=thought. Even though the mass majority of GDI has been eliminated, stubborn elements
+; 3=have refused to die, scuttling about like the insects they truly are.@@ A squadron of
+; 4=patrol aircraft, investigating why we lost communication with our local garrison,
+; 5=has located several small groups of organized GDI infantry in the surrounding forest.
+; 6=They appear to be aided by the same militia you encountered in your last assignment.@@
+; 7=It is unknown as to what exactly these pests are up to, but rest assured that whatever it is,
+; 8=it is against Kane's will and therefore must be dealt with.
+; 9=Use your Incinerator team to purify any enemy forces lurking in the forests. Once the area is
+; 10=secured, locate the source of these vermin and burn it to the ground.@@
+; 11=Objective 1: Eliminate the local GDI/militia presence.@@
+; 12=Objective 2: Locate and destroy the enemy militia's base camp.@@
 
 [CellTags]
 99109=01000079

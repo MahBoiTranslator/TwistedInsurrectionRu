@@ -1021,18 +1021,29 @@ AreTeamMembersRecruitable=no
 7=Nod1,APACHE,256,85,219,64,Guard,01000064,0,0,1,0
 
 [Briefing]
-1=Excellent work, brother. The success of your previous mission has provided us with
-2=the location of a large GloboTech supply depot. GloboTech has been the backbone
-3=of GDI's sudden resurrection, and it is imperative we destroy the corporation's assets if we
-4=are to finally crush GDI. The supply depot is heavily defended, and we're unable to launch a
-5=full ground assault on the installation as our armor divisions are occupied with skirmishes
-6=elsewhere. Fortunately, we have recently constructed an experimental airbase in this region
-7=that houses the new Hornet fighter -- but we have been unable to make
-8=contact with it due to a high level of electromagnetic interference.@@
-9=Locate and establish contact with our airbase on foot. Once you have done so, destroy the
-10=GloboTech supply base, to the last man.  Nothing survives.@@
-11=Objective 1: Make contact with the Nod airbase to the west of your LZ. @@
-12=Objective 2: Destroy the GloboTech depot entrance and all surrounding defenses.@@
+1=Прекрасная работа, Брат. Ваш успех на предыдущей миссии позволил нам обнаружить большой склад 
+2=ГлобоТэк. ГлобоТэк была причиной внезапного воскрешения ГСБ, и крайне важно, чтобы мы уничтожили 
+3=активы корпорации, если мы хотим окончательно сокрушить ГСБ. Склад хорошо укреплён и мы не можем 
+4=начать полномасштабную атаку на сооружение, поскольку наши танковые войска заняты сражениями в 
+5=других местах. К счастью, мы недавно в этом регионе построили экспериментальную авиабазу, на 
+6=которой сейчас базируются новые Шершни-Перехватчики. Но мы не смогли с ними связаться из-за 
+7=больших электромагнитных помех.@@
+8=Найдите нашу авиабазу и выйдите с нею на контакт пешим отрядом. После того как вы сделаете это, 
+9=уничтожьте базу перед входом до последнего человека. Никто не должен выжить.@@
+10=Задача 1: Выйдите на контакт с авиабазой Нод к западу от вашей зоны высадки.@@
+11=Задача 2: Уничтожьте вход в склад ГлобоТэк и все окружающие оборонительные сооружения.
+; 1=Excellent work, brother. The success of your previous mission has provided us with
+; 2=the location of a large GloboTech supply depot. GloboTech has been the backbone
+; 3=of GDI's sudden resurrection, and it is imperative we destroy the corporation's assets if we
+; 4=are to finally crush GDI. The supply depot is heavily defended, and we're unable to launch a
+; 5=full ground assault on the installation as our armor divisions are occupied with skirmishes
+; 6=elsewhere. Fortunately, we have recently constructed an experimental airbase in this region
+; 7=that houses the new Hornet fighter -- but we have been unable to make
+; 8=contact with it due to a high level of electromagnetic interference.@@
+; 9=Locate and establish contact with our airbase on foot. Once you have done so, destroy the
+; 10=GloboTech supply base, to the last man.  Nothing survives.@@
+; 11=Objective 1: Make contact with the Nod airbase to the west of your LZ. @@
+; 12=Objective 2: Destroy the GloboTech depot entrance and all surrounding defenses.@@
 
 [CellTags]
 83183=01000045

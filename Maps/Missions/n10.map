@@ -1755,18 +1755,29 @@ AreTeamMembersRecruitable=no
 01000188=1,53,2,01000176,0,0,0,0,A
 
 [Briefing]
-1=The GloboTech/GDI alliance grows stronger with every passing day, brother. Their
-2=union needs to be broken, no matter what the cost. We have recently discovered a
-3=GloboTech research facility to the north where they are investigating the new
-4=mutations that have sprouted from the nearby river. The facility is heavily defended.@@
-5=However, we have discovered a perfect opportunity to both destroy the facility and break
-6=the alliance apart at the seams. We've intercepted a distress call from a GDI base
-7=just south of the research center which appears to be having great troubles fending off
-8=the Tiberium lifeforms in the area. Brother, if you can capture this base and use the GDI
-9=equipment there to destroy the GloboTech research facility, this will break GloboTech's trust
-10=in GDI. If you succeed, you will drastically change the course of the war.@@
-11=Objective 1: Capture the GDI refinery base@@
-12=Objective 2: Destroy the GloboTech research facility@@
+1=Альянс ГСБ и ГлобоТэк становится крепче с каждым днём, Брат. Их союз нужно разорвать, не важно 
+2=какой ценой. Недавно мы обнаружили исследовательский комплекс ГлобоТэк на севере, где они 
+3=исследуют новые мутации, появившиеся в соседней реке. Комплекс хорошо укреплён.@@
+4=Однако мы обнаружили идеальную возможность и уничтожить комплекс, и заставить альянс трещать по 
+5=швам. Мы перехватили сигнал бедствия с базы ГСБ к югу от исследовательского комплекса, которая, 
+6=похоже, испытывает большие проблемы с защитой от тибериевых форм жизни в этом регионе. Брат, 
+7=если вы сможете захватить эту базу и использовать снаряжение ГСБ, чтобы уничтожить 
+8=исследовательский комплекс ГлобоТэк, то это подорвёт доверие ГлобоТэк к ГСБ. Если вам это 
+9=удастся, то вы кардинально измените ход войны.@@
+10=Задача 1: Захватить перерабатывающую базу ГСБ.@@
+11=Задача 2: Уничтожить исследовательский комплекс ГлобоТэк.
+; 1=The GloboTech/GDI alliance grows stronger with every passing day, brother. Their
+; 2=union needs to be broken, no matter what the cost. We have recently discovered a
+; 3=GloboTech research facility to the north where they are investigating the new
+; 4=mutations that have sprouted from the nearby river. The facility is heavily defended.@@
+; 5=However, we have discovered a perfect opportunity to both destroy the facility and break
+; 6=the alliance apart at the seams. We've intercepted a distress call from a GDI base
+; 7=just south of the research center which appears to be having great troubles fending off
+; 8=the Tiberium lifeforms in the area. Brother, if you can capture this base and use the GDI
+; 9=equipment there to destroy the GloboTech research facility, this will break GloboTech's trust
+; 10=in GDI. If you succeed, you will drastically change the course of the war.@@
+; 11=Objective 1: Capture the GDI refinery base@@
+; 12=Objective 2: Destroy the GloboTech research facility@@
 
 [Events]
 01000000=1,8,0,0

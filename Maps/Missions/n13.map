@@ -2061,14 +2061,22 @@ AreTeamMembersRecruitable=no
 01000208=6,80,1,01000190,0,0,0,0,AZ,80,1,01000196,0,0,0,0,BD,80,1,01000192,0,0,0,0,BB,80,1,01000200,0,0,0,0,BF,80,1,01000194,0,0,0,0,AX,80,1,01000198,0,0,0,0,AP
 
 [Briefing]
-1=Thanks to your quick actions and the destruction of the facility's main entrances we've been
-2=able to recover most of our technology, regrettably your victory was but a short respite.
-3=Our intelligence reports show that these "Sons of Kane" have mobilized forces towards
-4=your position, most likely in an attempt to finish the program once and for all... Your mission
-5=is to defend the remaining base, by any means -- even if that means killing our own brethren.
-6=But with Kane still missing and this disturbing resurgence of GDI, we will do whatever
-7=we have to do to maintain our stewardship over humanity.@@
-8=Objective 1: Defend the evacuation process.
+1=Благодаря вашим быстрым действиям и разрушению главных входов комплекса, мы смогли восстановить 
+2=большую часть нашей технологии, к сожалению, ваша победа была лишь короткой передышкой. Доклады 
+3=нашей разведки говорят, что эти "Сыны Кейна" мобилизировали силы и приближаются к вашей позиции, 
+4=скорее всего, чтобы закрыть программу раз и навсегда... Ваша миссия - защитить оставшуюся часть 
+5=базы любыми способами, даже если это означает убийство наших собственных братьев. Несмотря на то, 
+6=что Кейн до сих пор не нашёлся, а ГСБ возродилось, мы сделаем всё возможное, чтобы сохранить наш 
+7=контроль над человечеством.@@
+8=Задача 1: Защищайте процесс эвакуации.
+; 1=Thanks to your quick actions and the destruction of the facility's main entrances we've been
+; 2=able to recover most of our technology, regrettably your victory was but a short respite.
+; 3=Our intelligence reports show that these "Sons of Kane" have mobilized forces towards
+; 4=your position, most likely in an attempt to finish the program once and for all... Your mission
+; 5=is to defend the remaining base, by any means -- even if that means killing our own brethren.
+; 6=But with Kane still missing and this disturbing resurgence of GDI, we will do whatever
+; 7=we have to do to maintain our stewardship over humanity.@@
+; 8=Objective 1: Defend the evacuation process.
 
 [COBRA]
 TechLevel=1

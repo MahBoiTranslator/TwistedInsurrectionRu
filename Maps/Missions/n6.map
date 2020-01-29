@@ -2227,12 +2227,17 @@ AreTeamMembersRecruitable=no
 01000401=3,57,0,16,0,0,0,0,A,80,1,01000408,0,0,0,0,AC,54,2,01000395,0,0,0,0,A
 
 [Briefing]
-1=Great work, Brother. Your efforts on your previous mission have allowed us to infiltrate the
-2=GloboTech supply depot. We have no use for the supplies or equipment here, so ghost the
-3=facility for structural flaws. We will bring the place down with our Demolition Drones.
-4=This huge blow to GloboTech will have a ripple effect that will come crashing down on
-5=GDI.@@
-6=Objective 1: Find the facility's structural weak spots@@
+1=Великолепная работа, Брат. Ваши успехи в предыдущей миссии позволили нам проникнуть внутрь склада 
+2=ГлобоТэк. Нам здесь не нужны ни припасы, ни оборудование, так что обыщите комплекс на предмет 
+3=структурных изъянов. Мы обрушим это место при помощи наших Дронов-Бомб. Этот большой удар по 
+4=ГлобоТэк будет иметь волновой эффект, который со временем ударит по ГСБ.@@
+5=Задача 1: Найдите уязвимые места комплекса.
+; 1=Great work, Brother. Your efforts on your previous mission have allowed us to infiltrate the
+; 2=GloboTech supply depot. We have no use for the supplies or equipment here, so ghost the
+; 3=facility for structural flaws. We will bring the place down with our Demolition Drones.
+; 4=This huge blow to GloboTech will have a ripple effect that will come crashing down on
+; 5=GDI.@@
+; 6=Objective 1: Find the facility's structural weak spots@@
 
 [CellTags]
 73124=01000055

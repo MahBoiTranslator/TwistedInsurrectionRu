@@ -1727,18 +1727,29 @@ AreTeamMembersRecruitable=no
 1=GDI,ORCA,256,58,58,64,Guard,None,0,0,1,0
 
 [Briefing]
-1=A GDI mountain base in this sector has been the cause of much grief as of late.
-2=A successful attack on the base has been impossible due to the anti-aircraft defenses
-3=set up along the coast. However, a new weapon promises us a just victory!
-4=The new Inferno Flame Tanks make use of anti-gravity technology recovered
-5=from the GloboTech supply depot you destroyed. The Inferno can maneuver
-6=across both land and sea, and is the crucial weapon we need to destroy this base.@@
-7=To the east, a small Nod base has been overrun by GDI forces. Capturing the Technology
-8=Center there should bring it back online. DO NOT allow it to be destroyed!@@
-9=This is a GloboTech controlled zone, so resistance will be heavy. Make the
-10=destruction of the GDI base your top priority. Good luck!@@
-11=Objective 1: Reclaim our base to the southeast by capturing the Technology Center.@@
-12=Objective 2: Destroy the GDI coastal base.@@
+1=База ГСБ в горах этого региона была причиной больших проблем в последнее время. Успешная атака 
+2=на базу была невозможна из-за ПВО вдоль побережья. Однако новое оружие обещает нам только победу! 
+3=Новые Огнемётные Танки Инферно используют антигравитационные технологии, добытые из уничтоженного 
+4=вами склада ГлобоТэк. Инферно может пересекать как сушу, так и море, и они являются решающим 
+5=оружием необходимым нам для уничтожения этой базы.@@
+6=К востоку есть небольшая база Нод, которую захватили ГСБшники. Захватите Технологический Центр, 
+7=чтобы вернуть её в строй. НЕ ПОЗВОЛЬТЕ его уничтожить!@@
+8=Этот регион контролируется силами ГлобоТэк, так что сопротивление будет большим. Сделайте 
+9=уничтожение базы ГСБ вашим главным приоритетом.@@
+10=Задача 1: Верните нашу базу на юго-востоке, захватив Технологический Центр.@@
+11=Задача 2: Уничтожьте прибрежную базу ГСБ.
+; 1=A GDI mountain base in this sector has been the cause of much grief as of late.
+; 2=A successful attack on the base has been impossible due to the anti-aircraft defenses
+; 3=set up along the coast. However, a new weapon promises us a just victory!
+; 4=The new Inferno Flame Tanks make use of anti-gravity technology recovered
+; 5=from the GloboTech supply depot you destroyed. The Inferno can maneuver
+; 6=across both land and sea, and is the crucial weapon we need to destroy this base.@@
+; 7=To the east, a small Nod base has been overrun by GDI forces. Capturing the Technology
+; 8=Center there should bring it back online. DO NOT allow it to be destroyed!@@
+; 9=This is a GloboTech controlled zone, so resistance will be heavy. Make the
+; 10=destruction of the GDI base your top priority. Good luck!@@
+; 11=Objective 1: Reclaim our base to the southeast by capturing the Technology Center.@@
+; 12=Objective 2: Destroy the GDI coastal base.@@
 
 [CellTags]
 32104=01000155

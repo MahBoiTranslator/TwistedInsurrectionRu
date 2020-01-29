@@ -2207,19 +2207,30 @@ Group=-1
 01000387=5,11,0,462,0,0,0,0,A,61,0,0,0,0,0,0,A,54,2,01000387,0,0,0,0,A,54,2,01000076,0,0,0,0,A,80,1,01000075,0,0,0,0,CE
 
 [Briefing]
-1=You truly are the one to lead us to victory, brother. Thanks to you the Sons of Kane
-2=has seen the light, and we are reunited once again so that we may fulfill Kane's true legacy!@@
-3=During the conflict of brothers, the Inner Circle uncovered a large and heavily defended
-4=GDI facility. Previous missions to infiltrate the facility were a failure, due to a new
-5=defense mechanism developed by GDI, "Firestorm" walls. When the walls are active,
-6=nothing can get into the facility. That is, until now... The Sons of Kane have shared
-7=their most recent developments with us, the "Banshee" Interceptors and the "Shadow" Stealth
-8=Tanks. These weapons should be of great use in infiltrating and destroying the GDI facility.@@
-9=The Sons of Kane have set up an outpost nearby. Your mission is to escort an M.C.V. to
-10=that outpost without being detected by GDI. Once accomplished, await further instruction.
-11=Good luck, brother.@@
-12=Objective 1: Escort the M.C.V. to our surveillance outpost.@@
-13=Objective 2: Investigate GDI activity.@@
+1=Вы действительно тот, кто приведет нас к победе, Брат. Благодаря вам, Сыны Кейна увидели свет, 
+2=и мы снова воссоединились, чтобы исполнить истинное наследие Кейна!@@
+3=Во время конфликта братьев, Внутренний Круг обнаружил большой и хорошо укреплённый комплекс ГСБ. 
+4=Предыдущие миссии по проникновению в комплекс были неудачными, из-за нового защитного механизма, 
+5=разработанного ГСБ, Заслона Огненной Бури. Когда заслон активен ничто не может проникнуть внутрь 
+6=комплекса. До этого момента... Сыны Кейна поделились своими разработками с нами - Перехватчиками 
+7="Банши" и Стелс-танками "Тень". Это вооружение сильно поможет при проникновении и уничтожении 
+8=комплекса ГСБ.@@Сыны Кейна развернули недалеко аванпост. Ваша миссия - сопроводить МСЦ к аванпосту 
+9=незамеченным. Как только выполните, ожидайте дальнейших указаний. Удачи, Брат.@@
+10=Задача 1: Сопроводить МСЦ к нашему наблюдательному аванпосту.@@
+11=Задача 2: Расследуйте деятельность ГСБ.
+; 1=You truly are the one to lead us to victory, brother. Thanks to you the Sons of Kane
+; 2=has seen the light, and we are reunited once again so that we may fulfill Kane's true legacy!@@
+; 3=During the conflict of brothers, the Inner Circle uncovered a large and heavily defended
+; 4=GDI facility. Previous missions to infiltrate the facility were a failure, due to a new
+; 5=defense mechanism developed by GDI, "Firestorm" walls. When the walls are active,
+; 6=nothing can get into the facility. That is, until now... The Sons of Kane have shared
+; 7=their most recent developments with us, the "Banshee" Interceptors and the "Shadow" Stealth
+; 8=Tanks. These weapons should be of great use in infiltrating and destroying the GDI facility.@@
+; 9=The Sons of Kane have set up an outpost nearby. Your mission is to escort an M.C.V. to
+; 10=that outpost without being detected by GDI. Once accomplished, await further instruction.
+; 11=Good luck, brother.@@
+; 12=Objective 1: Escort the M.C.V. to our surveillance outpost.@@
+; 13=Objective 2: Investigate GDI activity.@@
 
 [CellTags]
 56114=01000250

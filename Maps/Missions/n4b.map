@@ -1425,16 +1425,26 @@ Group=-1
 3=GDI,ORCA,256,156,103,64,Area Guard,None,0,0,1,0
 
 [Briefing]
-1=GDI is rapidly growing in strength and we have yet to discover why. We believe the hostile
-2=militia that we have encountered on previous occasions may somehow be linked to GDI's rising
-3=power. We have detected heavy GDI activity in this sector, and intel reports a GDI base is located
-4=in the area. We have also traced anti-Brotherhood radio broadcasts emitting from a radar array
-5=station located in a nearby city. Additional intel reports inform us that the radar array belongs to
-6=our dear friends, the resistance forces. It must be captured! Destroy the GDI base, and silence the
-7=irritating resistance groups!@@
-8=Objective 1: Destroy 4 enemy armories.@@
-9=Objective 2: Destroy the GDI base.@@
-10=Objective 3: Capture the radar array.@@
+1=ГСБ быстро набирает силу, и нам еще предстоит выяснить, почему. Мы предполагаем, что враждебные повстанцы, 
+2=с которыми мы сталкивались раньше, могут быть каким-то образом связаны с возрастающей мощью ГСБ. Мы 
+3=обнаружили высокую активность ГСБ в этом секторе, а разведка обнаружила базу ГСБ в этом регионе. Мы также 
+4=отслеживали радиопередачи направленные против Братства, исходящие с радиостанции, расположенной в соседнем 
+5=городе. Дополнительные разведданные говорят нам о том, что радиостанция принадлежит нашим дорогим друзьям, 
+6=силам сопротивления. Она должна быть захвачена! Уничтожьте базу ГСБ и заставьте замолчать раздражающие 
+7=группы сопротивления!@@
+8=Задача 1: Уничтожьте 4 склада оружия.@@
+9=Задача 2: Уничтожьте базу ГСБ.@@
+10=Задача 3: Захватите радиостанцию.
+; 1=GDI is rapidly growing in strength and we have yet to discover why. We believe the hostile
+; 2=militia that we have encountered on previous occasions may somehow be linked to GDI's rising
+; 3=power. We have detected heavy GDI activity in this sector, and intel reports a GDI base is located
+; 4=in the area. We have also traced anti-Brotherhood radio broadcasts emitting from a radar array
+; 5=station located in a nearby city. Additional intel reports inform us that the radar array belongs to
+; 6=our dear friends, the resistance forces. It must be captured! Destroy the GDI base, and silence the
+; 7=irritating resistance groups!@@
+; 8=Objective 1: Destroy 4 enemy armories.@@
+; 9=Objective 2: Destroy the GDI base.@@
+; 10=Objective 3: Capture the radar array.@@
 
 [CellTags]
 36126=01000088

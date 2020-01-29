@@ -2587,18 +2587,29 @@ Name=GT Hunters 2
 01000271=9,17,0,0,0,0,0,0,A,17,0,2,0,0,0,0,A,17,0,4,0,0,0,0,A,17,0,7,0,0,0,0,A,17,0,9,0,0,0,0,A,17,0,11,0,0,0,0,A,17,0,13,0,0,0,0,A,17,0,14,0,0,0,0,A,17,0,16,0,0,0,0,A
 
 [Briefing]
-1=--INCOMING MESSAGE FROM DR. INCANDELA:--@@
-2="Greetings, Brother. Due to your impressive performance as of late, I have
-3=decided that it will be you who has the honor of being a part of my groundbreaking
-4=experiment. He is THE INFECTOR! A cybernetically enhanced elite commando, half man -
-5=half Tiberium! With his SMR.2 Mutation Rifle, he can turn any living being into a
-6=wonderously evolved Tiberium seraph -- and with his Web Grenades, he can help his blessed
-7=stay still during the transformation! There's a GloboTech safe haven for civilians near
-8=your headquarters. Send the Infector, and leave no survivors! If everything goes as planned, the
-9=events of today will have our enemy talking for years!"@@
-10=--TRANSMISSION OVER--@@
-11=Objective 1: Infiltrate the GloboTech safe city.@@
-12=Objective 2: Evolve every inhabitant in the city.@@
+1=--ВХОДЯЩЕЕ СООБЩЕНИЕ ОТ ДОКТОРА ИНКАНДЭЛА:--@@
+2="Приветствую, Брат. Из-за ваших впечатляющих результатов в последнее время я решил, что именно 
+3=вы будете иметь честь участвовать в моем новаторском эксперименте. Это ИНФЕКТОР. С помощью 
+4=своей винтовки SMR.2 он может превратить любое живое существо в удивительно эволюционирующий 
+5=тибериевый серафим, а с помощью своих Паутинных Гранат он может помочь своим благословенным 
+6=оставаться на месте во время трансформации! Рядом с вашей штаб-квартирой есть безопасное убежище 
+7=ГлобоТэк для гражданских. Переправьте Инфектора внутрь и не оставляйте выживших. Если все пойдет 
+8=по плану, то сегодняшнее событие заставит нашего врага говорить о нём годами!"@@
+9=--КОНЕЦ СООБЩЕНИЯ--@@
+10=Задача 1: Проникните в защищённый город ГлобоТэк.@@
+11=Задача 2: Превратите каждого жителя в городе в висцероида.
+; 1=--INCOMING MESSAGE FROM DR. INCANDELA:--@@
+; 2="Greetings, Brother. Due to your impressive performance as of late, I have
+; 3=decided that it will be you who has the honor of being a part of my groundbreaking
+; 4=experiment. He is THE INFECTOR! A cybernetically enhanced elite commando, half man -
+; 5=half Tiberium! With his SMR.2 Mutation Rifle, he can turn any living being into a
+; 6=wonderously evolved Tiberium seraph -- and with his Web Grenades, he can help his blessed
+; 7=stay still during the transformation! There's a GloboTech safe haven for civilians near
+; 8=your headquarters. Send the Infector, and leave no survivors! If everything goes as planned, the
+; 9=events of today will have our enemy talking for years!"@@
+; 10=--TRANSMISSION OVER--@@
+; 11=Objective 1: Infiltrate the GloboTech safe city.@@
+; 12=Objective 2: Evolve every inhabitant in the city.@@
 
 [CellTags]
 33150=01000042

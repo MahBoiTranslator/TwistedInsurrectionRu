@@ -1523,14 +1523,22 @@ AreTeamMembersRecruitable=no
 12=GDIEMP,ORCAEMP,256,117,68,64,Area Guard,None,0,0,1,0
 
 [Briefing]
-1=Welcome to our main Cyborg production facility, brother. Your recent promotion has
-2=granted you the opportunity to command these new and highly advanced units. Our
-3=scouts have informed us that GDI has set up a small staging area nearby in an attempt
-4=to halt our Cyborg production program. Your mission is to remove all GDI presence from
-5=the area -- and above all else, to defend the facility.@@
-6=We are linking our newest type of cyborg to our AI system. He will be assisting you with
-7=your mission once the process is complete.@@
-8=Objective 1: Destroy all GDI forces.
+1=Доброго пожаловать на наш главный комплекс по производству киборгов, Брат. Ваше недавнее 
+2=повышение предоставило вам возможность командовать этими новыми и очень продвинутыми 
+3=войсками. Наши разведчики сообщили нам, что ГСБ развернули поблизости небольшой плацдарм 
+4=для прекращения нашей программы по производству киборгов. Ваша миссия состоит в том, чтобы 
+5=уничтожить все войска ГСБ в регионе. И прежде всего, чтобы защитить комплекс.@@
+6=Мы подключаем наш самый новый тип киборгов к нашей системе ИИ. Один из них поможет вам в 
+7=вашей миссии, как только будет подключён.@@
+8=Задача 1: Уничтожьте все войска ГСБ.
+; 1=Welcome to our main Cyborg production facility, brother. Your recent promotion has
+; 2=granted you the opportunity to command these new and highly advanced units. Our
+; 3=scouts have informed us that GDI has set up a small staging area nearby in an attempt
+; 4=to halt our Cyborg production program. Your mission is to remove all GDI presence from
+; 5=the area -- and above all else, to defend the facility.@@
+; 6=We are linking our newest type of cyborg to our AI system. He will be assisting you with
+; 7=your mission once the process is complete.@@
+; 8=Objective 1: Destroy all GDI forces.
 
 [COBRA]
 TechLevel=1

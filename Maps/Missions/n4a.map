@@ -895,13 +895,20 @@ Name=GDI Patroll Waypoint 56
 01000112=1,1,0,1,0,0,0,0,A
 
 [Briefing]
-1=Outstanding, brother. Because of your quick thinking, we were able to hold that base and
-2=obliterate the rest of that city the militia was operating out of. Now it is time to take action against GDI's
-3=miraculous, resurrected resistance cells. Intelligence informs us of a recently
-4=constructed GDI supply base in the region. Your mission is to destroy it as soon as possible.@@
-5=You have been given clearance to use our new Viper Drones, brother. Enemy infantry stand no
-6=chance against their twin laser rifles. Use them well.@@
-7=Objective: Destroy the GDI supply base.
+1=Потрясающе, Брат. Благодаря вашим быстрым действиям, мы смогли удержать эту базу и уничтожить остальную 
+2=часть того города, из которого действовали повстанцы. Теперь пришло время принять меры против 
+3=удивительно-воскресших ячеек сопротивления ГСБ. Разведка сообщила нам о недавно построенной базе снабжения 
+4=ГСБ в этом регионе. Ваша задача состоит в её уничтожении настолько быстро, насколько это возможно. Вам дано 
+5=разрешение использовать наши новые Дроны Гадюки, Брат. Т.к. они беспилотные, то считайте их расходным 
+6=материалом. У вражеской пехоты и шанса нету против их сдвоенных лазерных винтовок. Используйте их с умом.@@
+7=Задача 1: Уничтожить базу снабжения ГСБ.
+; 1=Outstanding, brother. Because of your quick thinking, we were able to hold that base and
+; 2=obliterate the rest of that city the militia was operating out of. Now it is time to take action against GDI's
+; 3=miraculous, resurrected resistance cells. Intelligence informs us of a recently
+; 4=constructed GDI supply base in the region. Your mission is to destroy it as soon as possible.@@
+; 5=You have been given clearance to use our new Viper Drones, brother. Enemy infantry stand no
+; 6=chance against their twin laser rifles. Use them well.@@
+; 7=Objective: Destroy the GDI supply base.
 
 [CellTags]
 24080=01000111

@@ -1777,18 +1777,31 @@ PercentBuilt=0
 PlayerControl=no
 
 [Briefing]
-1=Well done, Commander! General Owen is safe with the rest of High Command, and the materials supplied to
-2=us by our new allies are in storage. However, there's no time to rest.
-3=Just a few minutes ago, we received a distress call from General Sheppard. He went missing after the
-4=UN hearings, apparently he's been gathering what GDI patriots he could while evading Nod hunters.
-5=Now they're trapped in enemy territory and cannot break out on their own -- an extraction team must be assembled.@@
-6=If we can rescue Sheppard, it would be a major boost to morale!
-7=Sheppard's survival and the help of our new GloboTech allies might be just enough
-8=to get GDI back on its feet. You will have to act fast.
-9=Get the General and his convoy to safety, Commander!@@
-11=Objective 1: Reach General Sheppard's convoy.@@
-12=Objective 2: Escort General Sheppard and the other survivors to safety before Nod
-13=troops enter the region in force.
+1=Так держать, Командир! Генерал Оуэн в безопасности вместе с остальными из Высшего Командования, 
+2=и материалы, предоставленные нам нашим новым союзником, находятся на складе. Тем не менее у 
+3=нас нету времени на отдых. Несколько минут назад мы засекли сигнал бедствия от генерала 
+4=Шеппарда. Он пропал без вести после слушаний в ООН, по-видимому, он собирал патриотов ГСБ 
+5=каких мог, избегая охотников Нод. Теперь они оказались в ловушке на вражеской территории, 
+6=и не могут прорваться самостоятельно. Необходимо собрать спасательную команду.@@
+7=Если мы сможем спасти Шеппарда, то это поднимет боевой дух! Спасение Шеппарда и помощь 
+8=нашего нового союзника может быть достаточно для того, чтобы ГСБ встал на ноги. Вам 
+9=придётся действовать быстро. Найдите и сопроводите генерала и его конвой в целости, 
+10=Командир!@@
+11=Задача 1: Найдите конвой полковника Шеппарда@@
+12=Задача 2: Сопроводите генерала Шеппарда и других выживших в целости до того, как 
+13=войска Нод возьмут регион под контроль.
+;1=Well done, Commander! General Owen is safe with the rest of High Command, and the materials supplied to
+;2=us by our new allies are in storage. However, there's no time to rest.
+;3=Just a few minutes ago, we received a distress call from General Sheppard. He went missing after the
+;4=UN hearings, apparently he's been gathering what GDI patriots he could while evading Nod hunters.
+;5=Now they're trapped in enemy territory and cannot break out on their own -- an extraction team must be assembled.@@
+;6=If we can rescue Sheppard, it would be a major boost to morale!
+;7=Sheppard's survival and the help of our new GloboTech allies might be just enough
+;8=to get GDI back on its feet. You will have to act fast.
+;9=Get the General and his convoy to safety, Commander!@@
+;11=Objective 1: Reach General Sheppard's convoy.@@
+;12=Objective 2: Escort General Sheppard and the other survivors to safety before Nod
+;13=troops enter the region in force.
 
 [CellTags]
 108129=01000049

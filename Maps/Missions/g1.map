@@ -4963,12 +4963,18 @@ Name=Flash
 2=GDI3,TDTRAN,256,129,75,64,Guard,None,0,-1,1,0
 
 [Briefing]
-1=After nearly 4 years, the UN Council has decided to capitulate to Kane's demands. GDI will be stood down for 'substantial restructuring' leaving it a mere token force & allowing Kane to do as he pleases. I haven't heard from General Sheppard since he left the council building. I hate to go over his head, but we're out of time. During last August's hearing I was approached by a representative of the arms manufacturer GloboTech. They offered us a deal, but under the current terms we'd be
-2=glorified PMCs for a megacorporation. I don't like it, but they're no fan of Kane's ambitions either. I arranged a rendezvous with them, maybe I can alter the terms of the deal to be more in our favor. Unfortunately, this means we'll be going AWOL. Captain, I understand if you walk away but if we pull this off, we'll save GDI.@@
-3=OBJECTIVE 1: Avoid UN troops & reach the GloboTech Representative.@@
-4=OBJECTIVE 2: Follow the representative to the evac zone.@@
-5=-COLONEL OWEN MUST SURVIVE-@@
-6=OPTIONAL: Reactivate the nearby GDI base.@@
+1=Спустя почти 4 года Совет ООН решил капитулировать перед требованиями Кейна. Распуская ГСБ, оставив его простой символической силой, позволяя Кейну делать всё, что ему заблагорассудится. Я ничего не слышал о генерале Шеппарде после того, как он покинул здание совета. Я не люблю идти по головам, но у нас мало времени. На слушаниях в августе прошлого года ко мне подошел представитель компании-производителя вооружения - представитель ГлобоТэк. 
+2=Они предложили нам сделку, но по нынешним условиям мы были бы фальшивой ЧВК для мегакорпорации. Мне это не нравится, но они тоже не поклонники амбиций Кейна. Я договорился с ними о рандеву, может быть, мне удастся изменить условия сделки в нашу пользу. К сожалению, это означает, что мы уйдем в самоволку. Капитан, я пойму, если вы уйдете, но если мы справимся с этим, мы спасем ГСБ.@@
+3=Задача 1: Избегайте войск ООН и встретьтесь с Представителем ГлобоТэк.@@
+4=Задача 2: Проследуйте за представителем к зоне эвакуации.@@
+5=-ПОЛКОВНИК ОУЭН ДОЛЖЕН ВЫЖИТЬ-@@
+;6=Опционально: Реактивировать ближайшую базу ГСБ
+;1=After nearly 4 years, the UN Council has decided to capitulate to Kane's demands. GDI will be stood down for 'substantial restructuring' leaving it a mere token force & allowing Kane to do as he pleases. I haven't heard from General Sheppard since he left the council building. I hate to go over his head, but we're out of time. During last August's hearing I was approached by a representative of the arms manufacturer GloboTech. They offered us a deal, but under the current terms we'd be
+;2=glorified PMCs for a megacorporation. I don't like it, but they're no fan of Kane's ambitions either. I arranged a rendezvous with them, maybe I can alter the terms of the deal to be more in our favor. Unfortunately, this means we'll be going AWOL. Captain, I understand if you walk away but if we pull this off, we'll save GDI.@@
+;3=OBJECTIVE 1: Avoid UN troops & reach the GloboTech Representative.@@
+;4=OBJECTIVE 2: Follow the representative to the evac zone.@@
+;5=-COLONEL OWEN MUST SURVIVE-@@
+;6=OPTIONAL: Reactivate the nearby GDI base.@@
 
 [CellTags]
 35099=01000285

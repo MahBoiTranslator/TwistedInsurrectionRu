@@ -898,18 +898,32 @@ Name=Heavy Tank
 01000118=1,21,0,285=10-N036,0,0,0,0,A
 
 [Briefing]
-1=Outstanding work, Commander! GloboTech is already offering us their support. Your actions may
-2=have been the first step towards GDI's rebirth. However, before we can proceed with further
-3=negotiations, we need to get both General Owen and an extremely vital supply shipment to a
-4=more secure location. There is a fortified city under the protection of GloboTech
-5=just a few miles from your current position.@@
-6=Unfortunately, the Brotherhood is on track to take over said city, and
-7=the area is crawling with Nod forces. This situation will make transportation of GloboTech's
-8=resources difficult, to say the least. GloboTech has granted us the full support of
-9=their private security forces in the region, but we should avoid confrontation if possible.
-10=It is imperative that both the convoy and General Owen make it to their destination safely.
-11=Good luck.@@
-12=Objective 1: Escort the convoy and General Owen safely to the city. Both the convoy and General Owen MUST survive.@@
+1=Великолепная работа, Командир! ГлобоТэк уже предложила нам свою помощь. 
+2=Ваши действия - это первый шаг к возрождению ГСБ. Однако, прежде чем мы 
+3=сможем продолжить дальнейшие переговоры, нам необходимо доставить как 
+4=генерала Оуэна, так и чрезвычайно жизненно важные грузы в более 
+5=безопасное место. В нескольких километрах от вашего местоположения 
+6=находится укреплённый город под защитой ГлобоТэк.@@
+7=К несчастью, Братство готовится захватывать город, и местность 
+8=патрулируется силами Нод. Такая ситуация, мягко говоря, осложнит 
+9=транспортировку ресурсов от ГлобоТэк. ГлобоТэк предоставит нам в 
+10=помощь все свои частные охранные войска в этом регионе, но нам 
+11=следует избегать столкновений, если это возможно. Крайне важно, 
+12=чтобы конвой и генерал Оуэн были доставлены в целости к пункту 
+13=назначения. Удачи.@@
+14=Задача 1: Сопроводите конвой и покловника Оуэна в город в целости. И конвой, и полковник Оуэн ДОЛЖНЫ выжить.
+;1=Outstanding work, Commander! GloboTech is already offering us their support. Your actions may
+;2=have been the first step towards GDI's rebirth. However, before we can proceed with further
+;3=negotiations, we need to get both General Owen and an extremely vital supply shipment to a
+;4=more secure location. There is a fortified city under the protection of GloboTech
+;5=just a few miles from your current position.@@
+;6=Unfortunately, the Brotherhood is on track to take over said city, and
+;7=the area is crawling with Nod forces. This situation will make transportation of GloboTech's
+;8=resources difficult, to say the least. GloboTech has granted us the full support of
+;9=their private security forces in the region, but we should avoid confrontation if possible.
+;10=It is imperative that both the convoy and General Owen make it to their destination safely.
+;11=Good luck.@@
+;12=Objective 1: Escort the convoy and General Owen safely to the city. Both the convoy and General Owen MUST survive.@@
 
 [CellTags]
 72142=01000038

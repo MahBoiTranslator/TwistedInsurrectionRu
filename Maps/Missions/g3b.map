@@ -1284,20 +1284,32 @@ PercentBuilt=100
 PlayerControl=no
 
 [Briefing]
-1=Excellent job escorting General Sheppard to the evac zone, Commander.
-2=He has safely boarded the transport, and is currently en route to an old
-3=GDI airbase nearby.@@
-4=Unfortunately, our scouts report that airbase has just recently been occupied by
-5=Nod forces, meaning the General is still in danger.
-6=We're going to need you to clear Nod from that base so that Sheppard can be
-7=safely airlifted to our command center.@@
-8=Due to the lack of transports at our disposal, the majority of your taskforce
-9=is still awaiting evacuation from the beachhead. The forces available to you for this mission
-10=are thus limited. On the other hand, Sheppard has procured us some prototypes of a test vehicle
-11=that was never put into production: the "Dragonfly" HVR. These vehicles
-12=could potentially prove useful in removing enemy presence from the airbase.@@
-13=Objective 1: Locate the GDI airbase.@@
-14=Objective 2: Escort General Sheppard to the airbase.@@
+1=Великолепная работа по сопровождению генерала Шеппарда к эвакуационной зоне, Командир. 
+2=Он безопасно сел на корабль, и направляется к старой авиабазе ГСБ поблизости.@@
+3=К сожалению, наша разведка докладывает, что авиабаза совсем недавно была захвачена 
+4=силами Нод, и, соответственно, генерал по-прежнему в опасности. Нам понадобится зачистить 
+5=эту базу, чтобы безопасно перебросить Шеппарда в наш командный центр.@@
+6=Ввиду отсутствия транспорта в нашем распоряжении, ваша основная ударная группа до сих 
+7=пор ожидает эвакуацию с пляжа. Таким образом, силы, доступные вам для этой миссии, 
+8=ограничены. С другой стороны, Шеппард предоставил нам несколько прототипов испытательного 
+9=транспорта, который так и не был запущен в производство: судно на воздушной подушке Стрекоза. 
+10=Эти судна могут оказаться весьма полезными.@@
+11=Задача 1: Найдите авиабазу ГСБ.@@
+12=Задача 2: Сопроводите генерала Шеппарда к авиабазе.
+; 1=Excellent job escorting General Sheppard to the evac zone, Commander.
+; 2=He has safely boarded the transport, and is currently en route to an old
+; 3=GDI airbase nearby.@@
+; 4=Unfortunately, our scouts report that airbase has just recently been occupied by
+; 5=Nod forces, meaning the General is still in danger.
+; 6=We're going to need you to clear Nod from that base so that Sheppard can be
+; 7=safely airlifted to our command center.@@
+; 8=Due to the lack of transports at our disposal, the majority of your taskforce
+; 9=is still awaiting evacuation from the beachhead. The forces available to you for this mission
+; 10=are thus limited. On the other hand, Sheppard has procured us some prototypes of a test vehicle
+; 11=that was never put into production: the "Dragonfly" HVR. These vehicles
+; 12=could potentially prove useful in removing enemy presence from the airbase.@@
+; 13=Objective 1: Locate the GDI airbase.@@
+; 14=Objective 2: Escort General Sheppard to the airbase.@@
 
 [CellTags]
 45102=01000033

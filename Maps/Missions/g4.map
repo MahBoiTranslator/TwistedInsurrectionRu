@@ -1920,18 +1920,29 @@ Name=Heavy Tank
 1=GDIorca,TDTRAN,30,127,95,32,Sleep,None,0,0,1,0
 
 [Briefing]
-1=Our GloboTech allies have informed us that Nod troops are highly active in the surrounding area.
-2=The Brotherhood has spread their forces throughout a major urban center, but we doubt that
-3=the crumbling city is what they are actually interested in -- one of the
-4=largest Tiberium fields to date sits at the edge of downtown.@@
-5=The concentration of Tiberium in this area is so high that we could conceivably run
-6=full-scale harvesting operations here for at least twelve years. The
-7=last thing we want to do is allow the Brotherhood to exploit these resources.@@
-8=You will conduct a covert raid on the Nod research facilities bordering downtown.
-9=We are equipping your taskforce with the new Kazuar mechanized walker. Its
-10=Vulcan cannons can eliminate infantry with pinpoint accuracy.@@
-11=Objective 1: Remove Nod presence from the city.@@
-12=Objective 2: Destroy Nod's Tiberium research facility and base defenses.
+1=ГлобоТэк проинформировала нас о высокой активности Нод в регионе. Братство распределило войска 
+2=в крупном городе, только вот мы сомневаемся, что разрушение города находится в интересах братства, 
+3=так как на окраине города располагается одно из самых больших полей тиберия.@@
+4=Концентрация тиберия на этом поле настолько высока, что мы, предположительно, можем вести 
+5=полномасштабные операции по его добыче не менее 12 лет. Последнее, что мы хотим видеть, так 
+6=это как Братство использует эти ресурсы.@@
+7=Вы проведёте скрытую атаку на исследовательский комплекс Нод, находящийся за городом. 
+8=Мы оснастили вашу ударную группу новейшими шагоходами Казуар. Их пулемёты Вулкан могут 
+9=уничтожать пехоту с высокой точностью.@@
+10=Задача 1: Уничтожьте все войска Нод в городе.@@
+11=Задача 2: Уничтожьте исследовательский комплекс Нод и оборону базы.
+; 1=Our GloboTech allies have informed us that Nod troops are highly active in the surrounding area.
+; 2=The Brotherhood has spread their forces throughout a major urban center, but we doubt that
+; 3=the crumbling city is what they are actually interested in -- one of the
+; 4=largest Tiberium fields to date sits at the edge of downtown.@@
+; 5=The concentration of Tiberium in this area is so high that we could conceivably run
+; 6=full-scale harvesting operations here for at least twelve years. The
+; 7=last thing we want to do is allow the Brotherhood to exploit these resources.@@
+; 8=You will conduct a covert raid on the Nod research facilities bordering downtown.
+; 9=We are equipping your taskforce with the new Kazuar mechanized walker. Its
+; 10=Vulcan cannons can eliminate infantry with pinpoint accuracy.@@
+; 11=Objective 1: Remove Nod presence from the city.@@
+; 12=Objective 2: Destroy Nod's Tiberium research facility and base defenses.
 
 [CITY46]
 Capturable=false

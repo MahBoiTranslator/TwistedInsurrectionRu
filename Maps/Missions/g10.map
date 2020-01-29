@@ -1484,16 +1484,25 @@ AreTeamMembersRecruitable=no
 01000167=yes
 
 [Briefing]
-1=Commander, we're sending you to Emerald Peak, our largest harvesting facility to
-2=date. Tiberium life has thrived in the area as of late and the base
-3=defenses are struggling to cope with constant, aggressive waves of Tiberium lifeforms.
-4=The source of these lifeforms is unknown, but we can't ignore this problem any
-5=longer. Your mission is to investigate the region and discover where the wildlife is coming
-6=from. Be warned, Commander. Nod forces have been detected in the area as well. Most
-7=likely, Nod is preparing to seize the Emerald Peak facility for themselves. This can
-8=not be allowed to happen. Defend the facility at all costs!@@
-9=Objective 1: Defend the facility.@@
-10=Objective 2: Find the source of the Tiberium lifeforms.@@
+1=Командир, мы посылаем вас на Изумрудную Гору. Это наш самый большой добывающий комплекс 
+2=на данный момент. В последнее время в регионе процветали тибериевые формы жизни, и оборона 
+3=базы только и занята, что постоянно борется с агрессивными нападениями этой фауны. Источник 
+4=этих организмов неизвестен, но мы не можем игнорировать эту проблему дольше. Ваша задача 
+5=- исследовать регион и найти, откуда эти организмы прибывают. Имейте в виду, Командир. 
+6=Было замечено, что Нод стягивают войска к региону. Скорее всего, Нод готовятся захватить 
+7=Изумрудную Гору. Этого нельзя допустить. Защищайте комплекс любой ценой!@@
+8=Задача 1: Защитите комплекс.@@
+9=Задача 2: Найти источник тибериевой фауны.
+; 1=Commander, we're sending you to Emerald Peak, our largest harvesting facility to
+; 2=date. Tiberium life has thrived in the area as of late and the base
+; 3=defenses are struggling to cope with constant, aggressive waves of Tiberium lifeforms.
+; 4=The source of these lifeforms is unknown, but we can't ignore this problem any
+; 5=longer. Your mission is to investigate the region and discover where the wildlife is coming
+; 6=from. Be warned, Commander. Nod forces have been detected in the area as well. Most
+; 7=likely, Nod is preparing to seize the Emerald Peak facility for themselves. This can
+; 8=not be allowed to happen. Defend the facility at all costs!@@
+; 9=Objective 1: Defend the facility.@@
+; 10=Objective 2: Find the source of the Tiberium lifeforms.@@
 
 [FakeGDI]
 IQ=5

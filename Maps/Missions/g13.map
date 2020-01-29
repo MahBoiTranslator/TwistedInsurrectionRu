@@ -2307,17 +2307,27 @@ AreTeamMembersRecruitable=no
 16=GT,GTGUN,256,104,158,192,Area Guard,None,0,0,1,0
 
 [Briefing]
-1=Since GloboTech's executives are refusing to listen to reason and have vowed
-2=to continue their senseless mission to eradicate us, we have been left with no
-3=other choice but to decapitate their organization. We're
-4=sending you to a small cluster of islands where GloboTech has established its
-5=main weapon production site. Destroying the site will put an end to GloboTech's
-6=activities, and ensure we can once again focus on destroying the Brotherhood of Nod.@@
-7=We deeply regret that it has come to this, but the survival of GDI is our
-8=ultimate priority.  Once your mission is complete,
-9=we will salvage what we can from the GloboTech stronghold.
-10=Good luck, Commander.@@
-11=Objective 1: Destroy all GloboTech structures on the archipelago.@@
+1=С тех пор как руководители ГлобоТэк отказались прислушаться к голосу разума и пообещали 
+2=продолжать их бессмысленную миссию по уничтожению нас, у нас не остаётся другого выбора, 
+3=кроме как обезглавить их организацию. Мы посылаем вас на маленький архипелаг островов, 
+4=где ГлобоТэк построили свой главный комплекс по производству оружия. Уничтожение 
+5=комплекса положит конец деятельности ГлобоТэк и позволит нам снова сфокусироваться на 
+6=уничтожении Братства Нод.@@
+7=Мы глубоко сожалеем, что всё пришло к этому, но выживание ГСБ - наша наиважнейшая задача. 
+8=Как только вы завершите операцию, мы возьмём всё, что только можно из крепости ГлобоТэк. 
+9=Удачи, Командир.@@
+10=Задача 1: Уничтожьте все здания ГлобоТэк на архипелаге.
+; 1=Since GloboTech's executives are refusing to listen to reason and have vowed
+; 2=to continue their senseless mission to eradicate us, we have been left with no
+; 3=other choice but to decapitate their organization. We're
+; 4=sending you to a small cluster of islands where GloboTech has established its
+; 5=main weapon production site. Destroying the site will put an end to GloboTech's
+; 6=activities, and ensure we can once again focus on destroying the Brotherhood of Nod.@@
+; 7=We deeply regret that it has come to this, but the survival of GDI is our
+; 8=ultimate priority.  Once your mission is complete,
+; 9=we will salvage what we can from the GloboTech stronghold.
+; 10=Good luck, Commander.@@
+; 11=Objective 1: Destroy all GloboTech structures on the archipelago.@@
 
 [CellTags]
 13119=01000298

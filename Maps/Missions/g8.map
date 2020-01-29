@@ -1407,14 +1407,22 @@ AreTeamMembersRecruitable=no
 01000180=1,1,0,0,0,0,0,0,A
 
 [Briefing]
-1=It has recently come to light that a Nod cell has been quite active in this area as of
-2=late. The area was thought to be uninhabited, but recent reports of intense seismic waves
-3=and dazzling flares indicate something strange is going on within these mountains.
-4=The strongly periodic and precise nature of the phenomena suggest they are artificial,
-5=and may be linked to the Nod activity in the region. It is imperative we determine the exact
-6=nature of these events. If they are indeed produced by Nod, we must halt their experiments
-7=at once. Find out what's going on, Commander.@@
-8=Objective 1: Investigate Nod activities until further orders are provided.
+1=Совсем недавно мы обнаружили, что ячейка Нод начала действовать активно в этом регионе. 
+2=Мы думали, что регион необитаем, но интенсивная сейсмическая активность и ослепительные 
+3=вспышки говорят о том, что в этих горах происходит что-то странное. Сильно периодический 
+4=и выраженный характер явлений предполагает, чтобы они были искусственными и могут быть 
+5=связаны с активностью Нод в регионе. Крайне важно определить точный характер этих событий. 
+6=Если они и в самом деле были созданы Нодовцами, то мы должны немедленно прекратить их 
+7=эксперименты. Узнайте, что происходит, Командир.@@
+8=Задача 1: Разузнайте, что затевают Нод, и ждите дальнейших приказов.
+; 1=It has recently come to light that a Nod cell has been quite active in this area as of
+; 2=late. The area was thought to be uninhabited, but recent reports of intense seismic waves
+; 3=and dazzling flares indicate something strange is going on within these mountains.
+; 4=The strongly periodic and precise nature of the phenomena suggest they are artificial,
+; 5=and may be linked to the Nod activity in the region. It is imperative we determine the exact
+; 6=nature of these events. If they are indeed produced by Nod, we must halt their experiments
+; 7=at once. Find out what's going on, Commander.@@
+; 8=Objective 1: Investigate Nod activities until further orders are provided.
 
 [CellTags]
 53093=01000077

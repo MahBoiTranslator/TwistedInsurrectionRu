@@ -1403,18 +1403,30 @@ AreTeamMembersRecruitable=no
 5=Nod,APACHE,256,81,32,64,Guard,None,0,0,1,0
 
 [Briefing]
-1=Welcome back to field operations, Commander.@@
-2=The vast Tiberium field you helped secure six years ago has since proved
-3=to be one of GDI's most vital resources. The Tiberium here has played a key part in funding
-4=our war effort against Nod, and has also contributed towards the production of GloboTech
-5=facilities and equipment. The region is usually under the protection of GloboTech armed
-6=forces -- however, recent skirmishes elsewhere have forced their armoured division to leave.
-7=We now believe said skirmishes to be a diversion. Nod forces have been spotted closing in on
-8=the refinery site, presumably in an attempt to claim the field for their own. Unfortunatelly
-9=we might only have enough manpower to delay the takeover.@@
-10=Your primary task is to defend the harvesting operations until enough Tiberium has been collected.
-11=Once a sufficient amount is in storage, we will evacuate the area if needed.@@
-12=Objective 1: Harvest 50,000 credits worth of Tiberium.@@
+1=С возвращением на поле боя, Командир.@@
+2=Огромное месторождение тиберия, которое вы помогли защитить 6 лет назад, с тех пор было одним 
+3=из самых важных ресурсов ГСБ. Тиберий, находящийся здесь, сыграл ключевую роль в финансировании 
+4=наших военных действий против Нод, а также внёс вклад в создание комплексов ГлобоТэк и 
+5=оборудования. Регион обычно находится под защитой бронетанковых войск ГлобоТэк, однако недавние 
+6=стычки вынудили их перевести свои бронетанковые войска. Теперь мы считаем, что эти стычки - 
+7=диверсия. Силы Нод движутся к перерабатывающей базе, предположительно, чтобы взять поле под 
+8=свой контроль. К сожалению, у нас достаточно личного состава только для того, 
+9=чтобы отложить захват.@@Ваша первостепенная задача - оборонять добывающую базу, пока тиберия 
+10=не будет накоплено достаточно. Как только будет накоплено достаточно, 
+11=мы эвакуируемся, если это будет необходимо.@@
+12=Задача 1: Накопить 50,000 кредитов.
+; 1=Welcome back to field operations, Commander.@@
+; 2=The vast Tiberium field you helped secure six years ago has since proved
+; 3=to be one of GDI's most vital resources. The Tiberium here has played a key part in funding
+; 4=our war effort against Nod, and has also contributed towards the production of GloboTech
+; 5=facilities and equipment. The region is usually under the protection of GloboTech armed
+; 6=forces -- however, recent skirmishes elsewhere have forced their armoured division to leave.
+; 7=We now believe said skirmishes to be a diversion. Nod forces have been spotted closing in on
+; 8=the refinery site, presumably in an attempt to claim the field for their own. Unfortunatelly
+; 9=we might only have enough manpower to delay the takeover.@@
+; 10=Your primary task is to defend the harvesting operations until enough Tiberium has been collected.
+; 11=Once a sufficient amount is in storage, we will evacuate the area if needed.@@
+; 12=Objective 1: Harvest 50,000 credits worth of Tiberium.@@
 
 [CellTags]
 54093=01000033

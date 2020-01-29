@@ -1407,18 +1407,29 @@ AreTeamMembersRecruitable=no
 9=GDIB,ORCA,256,66,248,32,Harmless,01000007,0,0,1,0
 
 [Briefing]
-1=Excellent work, Commander. The device and all data related to it has been destroyed.
-2=The device wasn't the only alarming thing that we discovered after you
-3=successfully seized the Nod radar station, however.@@
-4=There appears to be more suspicious Nod activity occurring elsewhere.
-5=We don't have any information at this point in time regarding
-6=exactly what it is that they are doing in this other area, but
-7=we have lost contact with our local airbase and believe that a Nod attack is
-8=responsible for this. Use your team to make contact with the airbase and investigate
-9=enemy activity in the region. Be careful, Commander. We have reason to believe the
-10=area is crawling with Nod forces. Once you reach the airbase, await your next
-11=objectives.@@
-12=Objective 1: Make contact with our local airbase.@@
+1=Великолепная работа, Командир. Устройство и все данные, связанные с ним, были уничтожены. 
+2=Тем не менее устройство не было единственным предметом, вызывавшим опасения, который мы 
+3=обнаружили после вашего успешного захвата радара Нод.@@
+4=Кажется, есть более подозрительная активность Нод, происходящая в другом регионе. На данный 
+5=момент у нас нет никакой информации относительно того, что именно они делают в этом другом 
+6=регионе, но мы потеряли связь с нашей местной авиабазой и считаем, что за этим стоят Нод. 
+7=Используйте ваш отряд для выхода на связь с авиабазой и расследуйте вражескую деятельность 
+8=в регионе. Будьте осторожны, Командир. У нас есть причины предполагать, что регион 
+9=патрулируется силами Нод. Как только вы свяжетесь с авиабазой, ожидайте следующих 
+10=приказов.@@
+11=Задача 1: Восстановить контакт с местной авиабазой.
+; 1=Excellent work, Commander. The device and all data related to it has been destroyed.
+; 2=The device wasn't the only alarming thing that we discovered after you
+; 3=successfully seized the Nod radar station, however.@@
+; 4=There appears to be more suspicious Nod activity occurring elsewhere.
+; 5=We don't have any information at this point in time regarding
+; 6=exactly what it is that they are doing in this other area, but
+; 7=we have lost contact with our local airbase and believe that a Nod attack is
+; 8=responsible for this. Use your team to make contact with the airbase and investigate
+; 9=enemy activity in the region. Be careful, Commander. We have reason to believe the
+; 10=area is crawling with Nod forces. Once you reach the airbase, await your next
+; 11=objectives.@@
+; 12=Objective 1: Make contact with our local airbase.@@
 
 [CellTags]
 60211=01000101

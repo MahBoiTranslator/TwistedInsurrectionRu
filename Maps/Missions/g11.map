@@ -2645,19 +2645,31 @@ AreTeamMembersRecruitable=no
 18=GT,GTGUN,256,168,55,128,Area Guard,None,0,0,1,0
 
 [Briefing]
-1=It's an insurrection! The massacre at Emerald Peak has provoked GloboTech
-2=into launching full-scale attacks on all of our major bases within this region! They have
-3=ordered their forces to reclaim all documents and equipment they had originally
-4=provided to us for the war against Nod.@@
-5=Commander, we can't afford to lose GloboTech supplies and equipment. Without them,
-6=we'll be right back where we were at the end of the last war!@@
-7=The last thing we want to do is to open hostilities against GloboTech, but they have ceased all
-8=communication and have began slaughtering our men. We have to neutralize this new threat
-9=immediately and re-establish our authority in this relationship. An M.C.V. and escort team is in
-10=the area. Establish a base and await further information on the location of three
-11=GloboTech research laboratories. Remember, GloboTech forces should be considered hostile.@@
-12=Objective 1: Establish a base.@@
-13=Objective 2: Escort the convoy trucks to the three GloboTech laboratories.@@
+1=Это восстание! Резня на Изумрудной Горе спровоцировала ГлобоТэк начать полномасштабную атаку 
+2=на все ключевые базы в этом регионе! Они приказали своим войскам изъять все документы и 
+3=оборудованное, изначально предоставленное нам для войны с Нод.@@
+4=Командир, мы не можем себе позволить потерять снаряжение и оборудование ГлобоТэк. Без них мы 
+5=вернёмся туда, где были после прошлой войны.@@
+6=Последнее, что мы хотим сделать, это начать военные действия против ГлобоТэк, но они прекратили 
+7=выходить на связь и начали убивать наших людей. Мы должны немедленно нейтрализовать эту новую 
+8=угрозу и восстановить наш авторитет в этих отношениях. МСЦ и команда сопровождения прибыла в 
+9=регион. Разверните базу и ожидайте дальнейшей информации о расположении трёх лабораторий 
+10=ГлобоТэк. Напоминаем, войска ГлобоТэк считайте враждебными.@@
+11=Задача 1: Разверните базу.@@
+12=Задача 2: Сопроводите грузовики к трём лабораториям ГлобоТэк.
+; 1=It's an insurrection! The massacre at Emerald Peak has provoked GloboTech
+; 2=into launching full-scale attacks on all of our major bases within this region! They have
+; 3=ordered their forces to reclaim all documents and equipment they had originally
+; 4=provided to us for the war against Nod.@@
+; 5=Commander, we can't afford to lose GloboTech supplies and equipment. Without them,
+; 6=we'll be right back where we were at the end of the last war!@@
+; 7=The last thing we want to do is to open hostilities against GloboTech, but they have ceased all
+; 8=communication and have began slaughtering our men. We have to neutralize this new threat
+; 9=immediately and re-establish our authority in this relationship. An M.C.V. and escort team is in
+; 10=the area. Establish a base and await further information on the location of three
+; 11=GloboTech research laboratories. Remember, GloboTech forces should be considered hostile.@@
+; 12=Objective 1: Establish a base.@@
+; 13=Objective 2: Escort the convoy trucks to the three GloboTech laboratories.@@
 
 [CellTags]
 33149=01000079

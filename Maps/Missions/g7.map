@@ -1901,16 +1901,26 @@ TransportsReturnOnUnload=no
 AreTeamMembersRecruitable=no
 
 [Briefing]
-1=Flawless work, Commander. The destruction of the Nod supply base has already allowed us to
-2=turn the tide on several battlefronts. Your skills are now required for another important
-3=mission.@@ GloboTech has sent us an emergency request to retrieve a prototype railgun platform.
-4=This weapon utilizes electrical current to propel a solid state slug at extreme velocities,
-5=allowing it to easily punch through armour. Unfortunately, Nod has captured the research
-6=laboratory that holds the prototype and its design documents.
-7=Your mission is to recapture the lab ASAP.@@
-8=Be wary of the Nod base in the area -- they must not become aware of your presence.
-9=Move quickly and carefully, Commander.@@
-10=Objective 1: Recapture the GloboTech laboratory.@@
+1=Безупречная работа, Командир. Уничтожение базы снабжения Нод уже позволило нам повернуть 
+2=ход битвы на нескольких фронтах. Ваши умения сейчас требуются для другой важной миссии.@@
+3=ГлобоТэк послала нам чрезвычайно срочный запрос на возвращение прототипа рельсотроновой 
+4=платформы. Это орудие использует электрический ток для ускорения снаряда до экстремальных 
+5=скоростей, что позволяет ему с лёгкостью пробивать броню. К сожалению, Нод захватили 
+6=исследовательскую лабораторию, в которой находятся прототип и его чертежи. Ваша задача 
+7=- отбить лабораторию как можно скорее.@@
+8=Остерегайтесь базы Нод в этом регионе. Они не должны знать о вашем присутствии. 
+9=Действуйте быстро и осторожно, Командир.@@
+10=Задача 1: Отбить лабораторию ГлобоТэк.
+; 1=Flawless work, Commander. The destruction of the Nod supply base has already allowed us to
+; 2=turn the tide on several battlefronts. Your skills are now required for another important
+; 3=mission.@@ GloboTech has sent us an emergency request to retrieve a prototype railgun platform.
+; 4=This weapon utilizes electrical current to propel a solid state slug at extreme velocities,
+; 5=allowing it to easily punch through armour. Unfortunately, Nod has captured the research
+; 6=laboratory that holds the prototype and its design documents.
+; 7=Your mission is to recapture the lab ASAP.@@
+; 8=Be wary of the Nod base in the area -- they must not become aware of your presence.
+; 9=Move quickly and carefully, Commander.@@
+; 10=Objective 1: Recapture the GloboTech laboratory.@@
 
 [CITY46]
 Capturable=false

@@ -2,7 +2,7 @@
 
 Данный репозиторий хранит руссификаторы для мода Twisted Insurrection для игры Tiberian Sun. Сам мод вы можете скачать с сайта moddb.com: https://www.moddb.com/mods/twisted-insurrection
 
-Ссылка на актуальный сейчас локализатор: https://github.com/MahBoiTranslator/TwistedInsurrectionRu/archive/v0.8.0.7-3.zip
+Ссылка на актуальный сейчас локализатор: https://github.com/MahBoiTranslator/TwistedInsurrectionRu/archive/v0.8.0.7-6.zip
 
 Локализатор поддреживается и обновляется по мере возможностей и выхода обновлений
 

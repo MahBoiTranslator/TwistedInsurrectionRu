@@ -1016,13 +1016,9 @@ Name=GDI Reinforcement Dropship Final
 01000139=1,53,2,01000127,0,0,0,0,A
 
 [Briefing]
-1=GDI Challenge 01:@@
-2=Successfully survive the incoming waves of enemy Nod units. The challenge will be
-3=completed once all enemy waves have been defeated. If all GDI forces are destroyed
-4=you will fail the challenge. Reinforcements are available dependent on your performance.
-5=Good luck.@@
-6=@@
-7=@@
+1=Испытание ГСБ 01:@@
+2= Успешно отразите волны войск Нод. Испытание будет пройдено, как только все волны будут уничтожены. Если все войска ГСБ
+3= будут уничтожены, то вы провалите испытание. Подкрепления будут доступны в зависимости от вашей результативности. Удачи.
 
 [Events]
 01000000=1,13,0,15

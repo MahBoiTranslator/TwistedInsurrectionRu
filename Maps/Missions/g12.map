@@ -2218,15 +2218,12 @@ AreTeamMembersRecruitable=no
 01000335=3,71,0,1010000000,0,0,0,0,A,72,0,0100000000,0,0,0,0,A,73,0,74,0,0,0,0,A
 
 [Briefing]
-1=We have reclaimed the documents and weaponry we needed from the GloboTech
-2=laboratories you successfully captured.  The cargo is currently en route
-3=to a more secure location -- a base eight kilometers to the east of your
-4=current position.  The convoy carrying this cargo is unarmed and the
-5=topography of the area gives GloboTech several excellent ambush positions.
-6=You must protect the convoy vehicles at all costs!  The technology within
-7=those vehicles is crucial to our war effort.  Make sure the convoy passes
-8=through this area safely.  Good luck, Commander.@@
-9=Objective 1: Protect the convoy vehicles at all costs.
+1= Мы вернули документы и вооружение, которые нам были необходимы, из успешно захваченных вами лабораторий ГлобоТэк. 
+2=Грузовики в настоящее время в пути к более безопасному месту: к базе в 8-ми километрах к востоку от вашей текущей позиции. 
+3=онвой, сопровождающий эти грузовики, безоружен, и топография местности даёт ГлобоТэк несколько великолепных позиций для 
+4=засады. Вы должны защитить конвой любой ценой! Технологии внутри этих грузовиков имеют ключевое значение для наших 
+5=военных действий. Сделайте данный регион безопасным для продвижения конвоя сквозь него. Удачи, Командир.@@ Задача 1: 
+6=Защитите конвой любой ценой.@@
 
 [CellTags]
 83091=01000289

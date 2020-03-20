@@ -1614,10 +1614,10 @@ Group=-1
 01000072=2,27,0,420,0,0,0,0,A,53,2,01000068,0,0,0,0,A
 
 [Briefing]
-1=Nod has captured classified GDI property. You must find and retrieve the
-2=stolen equipment. It is being transported in a shipping crate. Use the new
-3=APC to strategically transport infantry through Nod forces.@@
-4=Objective 1: Retrieve the stolen rods.@@
+1=Нод захватили секретную разработку ГСБ. Вы должны найти и вернуть украденное оборудование. Оно транспортируется в 
+2=грузовых ящиках. Используйте БТР, чтобы тактически транспортировать пехоту через войска Нод.@@ Задача 1: Вернуть 
+3=украденные стержни.@@
+
 
 [CellTags]
 55047=01000040

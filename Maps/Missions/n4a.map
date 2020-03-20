@@ -895,13 +895,12 @@ Name=GDI Patroll Waypoint 56
 01000112=1,1,0,1,0,0,0,0,A
 
 [Briefing]
-1=Outstanding, brother. Because of your quick thinking, we were able to hold that base and
-2=obliterate the rest of that city the militia was operating out of. Now it is time to take action against GDI's
-3=miraculous, resurrected resistance cells. Intelligence informs us of a recently
-4=constructed GDI supply base in the region. Your mission is to destroy it as soon as possible.@@
-5=You have been given clearance to use our new Viper Drones, brother. Enemy infantry stand no
-6=chance against their twin laser rifles. Use them well.@@
-7=Objective: Destroy the GDI supply base.
+1= Потрясающе, Брат. Благодаря вашим быстрым действиям, мы смогли удержать эту базу и уничтожить остальную часть того 
+2=города, в котором действовали повстанцы. Теперь пришло время принять меры против удивительно-воскресших ячеек 
+3=сопротивления ГСБ. Разведка сообщила нам о недавно построенной базе снабжения ГСБ в этом регионе. Ваша задача состоит 
+4=в её уничтожении настолько быстро, насколько это возможно.@@ Вам дано разрешение использовать наши новые Дроны Гадюка, 
+5=Брат. Т.к. они беспилотные, то считайте их расходным материалом. У вражеской пехоты и шанса нет против их сдвоенных 
+6=лазерных винтовок. Используйте их с умом.@@ Задача 1: Уничтожить базу снабжения ГСБ.@@
 
 [CellTags]
 24080=01000111

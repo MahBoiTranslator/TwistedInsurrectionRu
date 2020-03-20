@@ -1718,12 +1718,11 @@ Group=-1
 Name=Heavy Tank
 
 [Briefing]
-0=Welcome back, brother. Current GDI activity seems to be at an all time low. However, a small city in your
-1=vicinity is infested with a hostile militia. At first we believed this group to be a small GDI
-2=splinter cell, but our field operatives report that this group isn't GDI at all. The Inner Circle
-3=would like to understand. Brother, you are to eradicate the city, and its pathetic militia.
-4=Their destruction will remind all of the fate of those who disobey Kane!@@
-5=Objective 1: Destroy the city and any enemy militia you encounter.
+0= С возвращением, Брат. Текущая активность ГСБ, похоже, будет всегда низкой. Несмотря на это, маленький город в вашей 
+1=окрестности заражён враждебными повстанцами. Во-первых, мы верим, что эта группа повстанцев - отколовшаяся ячейка ГСБ, 
+2=но полевая разведка докладывает, что эта группа состоит из войск ГСБ не полностью. Внутренний Круг желал бы это 
+3=разузнать. Брат, ты уничтожишь город и его жалких повстанцев. Уничтожение города и повстанцев будет напоминать всем 
+4=судьбу тех, кто не подчинится Кейну!@@ Задача 1: Уничтожьте город и любых встреченных повстанцев.@@
 
 [Civilians]
 IQ=0

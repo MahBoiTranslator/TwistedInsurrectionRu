@@ -1184,8 +1184,8 @@ TransportsReturnOnUnload=no
 AreTeamMembersRecruitable=no
 
 [01000037]
-0=3,KAZUAR
-1=1,DSHP
+0=1,DSHP
+1=3,KAZUAR
 Name=Kazuars
 Group=-1
 
@@ -1920,18 +1920,14 @@ Name=Heavy Tank
 1=GDIorca,TDTRAN,30,127,95,32,Sleep,None,0,0,1,0
 
 [Briefing]
-1=Our GloboTech allies have informed us that Nod troops are highly active in the surrounding area.
-2=The Brotherhood has spread their forces throughout a major urban center, but we doubt that
-3=the crumbling city is what they are actually interested in -- one of the
-4=largest Tiberium fields to date sits at the edge of downtown.@@
-5=The concentration of Tiberium in this area is so high that we could conceivably run
-6=full-scale harvesting operations here for at least twelve years. The
-7=last thing we want to do is allow the Brotherhood to exploit these resources.@@
-8=You will conduct a covert raid on the Nod research facilities bordering downtown.
-9=We are equipping your taskforce with the new Kazuar mechanized walker. Its
-10=Vulcan cannons can eliminate infantry with pinpoint accuracy.@@
-11=Objective 1: Remove Nod presence from the city.@@
-12=Objective 2: Destroy Nod's Tiberium research facility and base defenses.
+1=ГлобоТэк проинформировала нас о высокой активности Нод в близлежащем регионе. Братство распределило войска 
+2=в крупном городе по всей его территории, только вот мы сомневаемся, что разрушение города находится в интересах 
+3=братства, так как на окраине города располагается одно из самых больших полей тиберия.@@ Концентрация тиберия на 
+4=этом поле настолько высока, что мы, предположительно, можем вести полномасштабную операцию по его добыче не менее 
+5=12 лет. Последнее, что мы хотим делать, так это позволять Братству использовать эти ресурсы.@@ Вы проведёте 
+6=скрытую атаку на исследовательский комплекс Нод, находящийся за городом. Мы оснастили вашу ударную группу новейшими 
+7=механизированными шагоходами Казуар. Их пулемёты могут уничтожать пехоту с высокой точностью.@@ Задача 1: Уничтожьте 
+8=все войска Нод в городе.@@ Задача 2: Уничтожьте оборону базы и исследовательский комплекс Нод.
 
 [CITY46]
 Capturable=false

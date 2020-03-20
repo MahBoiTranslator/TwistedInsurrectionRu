@@ -2233,18 +2233,16 @@ AreTeamMembersRecruitable=yes
 1=GDIB,ORCA,256,203,102,64,Area Guard,01000185,0,0,1,0
 
 [Briefing]
-1=Sarajevo, home to our holiest temple, and the last known location of Kane, before
-2=the incident that reformed this entire region nearly 20 years ago.@@After our
-3=initial investigations the Inner Circle declare that the area be left undisturbed,
-4=naturally outposts were maintained to monitor the region, a cruel hope that he would
-5=return.@@We have reason to believe there are still unexplored vaults beneath the
-6=Temple that may contain the data we're looking for. Such evidence is crucial to us -
-7=- we MUST acquire the logs in order to prove to the "Sons of Kane" that
-8=cybernetics really are vital to Kane's vision, and to finally end this senseless
-9=conflict.@@Escort your Ghost to the derelict Temple of Nod so that he can secure
-10=the files, but be careful, Commander -- various hostiles have been noted throughout
-11=the region. Good luck, my brother. I prey Kane will forgive our trespass but it
-12=must be done.@@Objective 1: Locate and investigate the Temple of Nod.@@
+1=Сараево. Дом нашего самого святого храма и последнее известное местонахождение Кейна перед инцидентом, который 
+2=преобразовал регион почти 20 лет назад.@@ После наших первоначальных расследований Внутренний Круг объявил, что 
+3=регион должен быть оставлен нетронутым. Естественно, были сохранены аванпосты для наблюдения за регионом в суровой 
+4=надежде, что Кейн вернётся.@@ У нас есть основания полагать, что под Храмом все ещё есть неисследованные хранилища, 
+5=которые могут содержать данные, которые мы ищем. Такие доказательства имеют решающее значение для нас. Мы должны 
+6=заполучить данные, чтобы доказать "Сынам Кейна", что кибернетика действительно жизненно важна для планов Кейна, и, 
+7=наконец, положить конец этому бессмысленному конфликту.@@ Сопроводите вашего Призрака к заброшенному Храму Нод, 
+8=чтобы он смог извлечь файлы, но будьте осторожны, Командир, в регионе были замечены различные противники. Удачи, 
+9=мой брат.  Я верю, что Кейн простит наше нарушение, так как мы должны это сделать.@@ Задача 1: Найдите и проникните 
+10=в Храм Нод.@@
 
 [CellTags]
 25144=01000192

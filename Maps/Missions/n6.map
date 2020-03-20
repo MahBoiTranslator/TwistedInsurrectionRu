@@ -30,6 +30,44 @@ TiberiumGrowthEnabled=yes
 IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=yes
 
+[1TNK]
+Image=LTNK
+Name=Scorpion Tank
+Prerequisite=NODFACTORY,CABHUT
+Primary=65mm
+Elite=65mme
+Category=AFV
+Strength=330
+Armor=light
+Turret=yes
+IsTilter=yes
+TechLevel=2
+Sight=5
+Speed=10
+CrateGoodie=no
+Owner=Nod
+Cost=600
+Points=15
+ROT=6
+Crusher=yes
+Explosion=TWLT4,BANG1D,BRNL4,CLSN1E,TUMU1E,TUMU1D
+VoiceSelect=VSCOSEA,VSCOSEB,VSCOSEC,VSCOSED,VSCOSEE
+VoiceMove=VSCOMOA,VSCOMOB,VSCOMOC,VSCOMOD,VSCOMOE
+VoiceAttack=VSCOATA,VSCOATB,VSCOATC,VSCOATD,VSCOATE
+VoiceFeedback=VSCOFEA,VSCOFEB
+MaxDebris=2
+DebrisTypes=PIECE
+DebrisMaximums=2
+Locomotor={4A582741-9839-11d1-B709-00A024DDAFD1}
+SpeedType=Track
+MovementZone=Destroyer
+ThreatPosed=20
+DamageParticleSystems=SparkSys,SmallGreySSys
+VeteranAbilities=STRONGER,FASTER,SELF_HEAL
+EliteAbilities=VEIN_PROOF,ROF,FIREPOWER
+AllowedToStartInMultiplayer=no
+Nominal=yes
+
 [AI]
 BuildWeapons=GAWEAP,CITY41
 
@@ -1957,7 +1995,7 @@ Group=-1
 
 [01000406]
 0=2,HTNK
-1=3,LTNK
+1=3,1TNK
 Name=Team 3
 Group=-1
 
@@ -2189,12 +2227,10 @@ AreTeamMembersRecruitable=no
 01000401=3,57,0,16,0,0,0,0,A,80,1,01000408,0,0,0,0,AC,54,2,01000395,0,0,0,0,A
 
 [Briefing]
-1=Great work, Brother. Your efforts on your previous mission have allowed us to infiltrate the
-2=GloboTech supply depot. We have no use for the supplies or equipment here, so ghost the
-3=facility for structural flaws. We will bring the place down with our Demolition Drones.
-4=This huge blow to GloboTech will have a ripple effect that will come crashing down on
-5=GDI.@@
-6=Objective 1: Find the facility's structural weak spots@@
+1= Великолепная работа, Брат. Ваши успехи в предыдущей миссии позволили нам проникнуть внутрь склада ГлобоТэк. Нам здесь 
+2=не нужны ни припасы, ни оборудование, так что обыщите комплекс на предмет структурных изъянов. Мы обрушим это место при 
+3=помощи наших Дронов-Бомб. Этот большой удар по ГлобоТэк будет ударной волной, которая со временем обрушится на ГСБ.@@ 
+4=Задача 1: Найдите уязвимые места комплекса.@@
 
 [CellTags]
 73124=01000055
@@ -2477,11 +2513,11 @@ AreTeamMembersRecruitable=no
 01000220=1,13,0,200
 01000224=1,51,0,520
 01000228=1,51,0,830
-01000231=1,4,0,520
-01000234=1,6,0,520
+01000231=1,4,0,0
+01000234=1,6,0,0
 01000237=1,51,0,260
-01000243=1,4,0,260
-01000245=1,4,0,260
+01000243=1,4,0,0
+01000245=1,4,0,0
 01000247=1,51,0,1010
 01000254=4,36,0,9,36,0,10,36,0,11,36,0,12
 01000256=1,13,0,12

@@ -1629,12 +1629,11 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-1=COMM. RECEIVED 12AUG06@@
-2=Welcome back Commander. Your transfer to GDI Phoenix Division has been approved.
-3=Command requests that you review the following material before proceeding to your field assignment:@@
-4=SUMMARY OF GDI-NOD CONFLICT@
-5=FROM 1999 TO 2002@@
-6=TRANSMISSION ENDS.
+1=СООБЩЕНИЕ ДОСТАВЛЕНО 12.08.2006@@
+2=С возвращением, Командир. Ваш переход в дивизию Феникс был одобрен. Командование хочет, чтобы вы ознакомились с этими материалами перед тем, как приступите к обязанностям:@@
+3=СВОДКА О КОНФЛИКТЕ ГСБ-НОД@
+4=С 1999 ПО 2002@@
+5=КОНЕЦ СООБЩЕНИЯ.
 
 [CAR9]
 Sight=0

@@ -898,18 +898,15 @@ Name=Heavy Tank
 01000118=1,21,0,285=10-N036,0,0,0,0,A
 
 [Briefing]
-1=Outstanding work, Commander! GloboTech is already offering us their support. Your actions may
-2=have been the first step towards GDI's rebirth. However, before we can proceed with further
-3=negotiations, we need to get both General Owen and an extremely vital supply shipment to a
-4=more secure location. There is a fortified city under the protection of GloboTech
-5=just a few miles from your current position.@@
-6=Unfortunately, the Brotherhood is on track to take over said city, and
-7=the area is crawling with Nod forces. This situation will make transportation of GloboTech's
-8=resources difficult, to say the least. GloboTech has granted us the full support of
-9=their private security forces in the region, but we should avoid confrontation if possible.
-10=It is imperative that both the convoy and General Owen make it to their destination safely.
-11=Good luck.@@
-12=Objective 1: Escort the convoy and General Owen safely to the city. Both the convoy and General Owen MUST survive.@@
+1=Великолепная работа, Командир! ГлобоТэк уже предложили нам свою помощь. Ваши действия могут стать 
+2=первым шагом к будущему возрождению ГСБ. Однако прежде чем мы сможем продолжить дальнейшие переговоры, 
+2=нам необходимо доставить как генерала Оуэна, так и чрезвычайно жизненно важные грузы в более безопасное место. 
+3=В нескольких километрах от вашего текущего местоположения находится укреплённый город под защитой ГлобоТэк.
+4=@@ К несчастью, Братство готовится захватывать город, и местность патрулируется силами Нод. Такая ситуация, 
+5=мягко говоря, осложнит транспортировку ресурсов от ГлобоТэк. ГлобоТэк предоставит нам в помощь все свои 
+6=частные охранные войска в этом регионе, но нам следует избегать столкновений, если возможность такая есть. 
+7=Крайне важно, чтобы конвой и генерал Оуэн были доставлены в целости к пункту назначения. Удачи.@@ Задача 1: 
+8=Сопроводите конвой и полковника Оуэна в город в целости и сохранности. Конвой и полковник Оуэн должны выжить.
 
 [CellTags]
 72142=01000038
@@ -994,7 +991,7 @@ Name=Heavy Tank
 01000093=1,27,0,12
 01000095=1,27,0,12
 01000097=1,28,0,12
-01000099=1,4,0,5
+01000099=1,4,0,0
 01000101=1,13,0,280
 01000103=1,13,0,65
 01000105=1,13,0,20

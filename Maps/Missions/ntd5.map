@@ -21,10 +21,10 @@ AltHomeCell=99
 OneTimeOnly=no
 CarryOverCap=0
 NewINIFormat=4
-NextScenario=Maps\Missions\n1.map
+NextScenario=Maps\Missions\ntd6.map
 SkipMapSelect=yes
 CarryOverMoney=0.000000
-AltNextScenario=
+AltNextScenario=<none>
 MultiplayerOnly=0
 IceGrowthEnabled=yes
 VeinGrowthEnabled=yes
@@ -2713,10 +2713,11 @@ AreTeamMembersRecruitable=no
 01000232=2,4,1,01000230,0,0,0,0,A,57,0,14,0,0,0,0,A
 
 [Briefing]
-1=The liberation of Niger is hindered by GDI air strikes, conducted from an airbase near Lagos, Nigeria. Your mission is simple. Establish a base, then seek out and destroy the GDI airbase.@@
-2=The captured Gunboat will assist you in this mission, provided that you first secure ammunition from a nearby GDI supply depot. However, this is purely optional - concentrate on the destruction of the GDI airbase.@@
-3=Primary Objective: Destroy the GDI airbase.@@
-4=Secondary Objective: Capture the GDI supply depot.
+1=Освобождение Нигера осложнено авианалётами ГСБ, исходящими с авиабазы близ Лагоса. Ваша миссия проста. Разверните базу, 
+2=затем найдите и уничтожьте авиабазу ГСБ.@@ Захваченная Канонерка окажет вам помощь в этой миссии при условии, что вы 
+3=сначала обеспечите её амуницией с ближайшего склада ГСБ. Однако это чисто второстепенная задача. Сконцентрируйтесь на 
+4=уничтожении авиабазы ГСБ.@@ Первостепенная Задача: Уничтожьте авиабазу ГСБ.@@ Второстепенная Задача: Захватите склад 
+5=ГСБ.@@
 
 [CellTags]
 23110=01000148

@@ -1021,18 +1021,15 @@ AreTeamMembersRecruitable=no
 7=Nod1,APACHE,256,85,219,64,Guard,01000064,0,0,1,0
 
 [Briefing]
-1=Excellent work, brother. The success of your previous mission has provided us with
-2=the location of a large GloboTech supply depot. GloboTech has been the backbone
-3=of GDI's sudden resurrection, and it is imperative we destroy the corporation's assets if we
-4=are to finally crush GDI. The supply depot is heavily defended, and we're unable to launch a
-5=full ground assault on the installation as our armor divisions are occupied with skirmishes
-6=elsewhere. Fortunately, we have recently constructed an experimental airbase in this region
-7=that houses the new Hornet fighter -- but we have been unable to make
-8=contact with it due to a high level of electromagnetic interference.@@
-9=Locate and establish contact with our airbase on foot. Once you have done so, destroy the
-10=GloboTech supply base, to the last man.  Nothing survives.@@
-11=Objective 1: Make contact with the Nod airbase to the west of your LZ. @@
-12=Objective 2: Destroy the GloboTech depot entrance and all surrounding defenses.@@
+1= Прекрасная работа, Брат. Ваш успех на предыдущей миссии позволил нам обнаружить большой склад ГлобоТэк. ГлобоТэк 
+2=была причиной внезапного воскрешения ГСБ, и крайне важно, чтобы мы уничтожили активы корпорации, если мы хотим 
+3=окончательно сокрушить ГСБ. Склад хорошо укреплён и мы не можем начать полномасштабную атаку на сооружение, поскольку 
+4=наши танковые войска заняты сражениями в других местах. К счастью, мы недавно в этом регионе построили экспериментальную 
+5=авиабазу, на которой сейчас базируются новые Перехватчики Шершень. Но мы не смогли с ними связаться из-за больших 
+6=электромагнитных помех.@@ Найдите нашу авиабазу и выйдите с нею на контакт пешим отрядом. После того как вы сделаете 
+7=это, уничтожьте базу перед входом до последнего человека. Никто не должен выжить.@@ Задача 1: Выйдите на контакт с 
+8=авиабазой Нод к западу от вашей зоны высадки.@@ Задача 2: Уничтожьте вход в склад ГлобоТэк и все окружающие оборонительные 
+9=сооружения.@@
 
 [CellTags]
 83183=01000045
@@ -1283,7 +1280,7 @@ AreTeamMembersRecruitable=no
 01000056=1,13,0,20
 01000059=1,13,0,200
 01000061=1,11,0,1
-01000063=1,4,0,120
+01000063=1,4,0,0
 01000065=1,13,0,4
 01000067=1,13,0,200
 01000069=1,10,0,9

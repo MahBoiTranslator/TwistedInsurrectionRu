@@ -1759,10 +1759,8 @@ Group=-1
 01000078=2,2,0,11,0,0,0,0,A,11,0,508,0,0,0,0,A
 
 [Briefing]
-1=GDI has established a prison camp, where they are detaining some
-2=of the local political leaders. Kane wishes to liberate these victims.
-3=Destroy the GDI forces and capture the prison, do not destroy it.@@
-4=Objective 1: Capture the Prison@@
+1=ГСБ развернули тюремный лагерь, где они незаконно удерживают несколько местных политических лидеров. Кейн желает 
+2=освободить этих жертв. Уничтожьте все войска ГСБ и захватите тюрьму. Не уничтожайте её.@@ Задача 1: Захватите тюрьму.@@
 
 [CellTags]
 41071=01000009

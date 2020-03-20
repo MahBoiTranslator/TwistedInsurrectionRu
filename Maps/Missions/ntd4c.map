@@ -1595,14 +1595,11 @@ Group=-1
 01000072=1,24,0,0,0,0,0,0,A
 
 [Briefing]
-1=The GUNBOAT that you successfully commandeered in your previous mission
-2=will prove to be a useful asset in an upcoming operation, however, the only route
-3=for the ship to travel to said destination is through a GDI infested canal.
-4="The GUNBOAT's ammunition was depleted during your earlier engagement, thus will
-5=be unable to provide you with additional firepower. Destroy all COSTAL GUN BATTERIES
-6=to allow the ship a clear passage to safety.@@
-7=Objective 1: Escort the GUNBOAT to safety.@@
-8=Objective 2: Destroy all COASTAL GUN BATTERIES.@@
+1=КАНОНЕРКА, которую вы успешно реквизировали в вашей прошлой миссии, окажется полезным приобретением для предстоящей 
+2=операции. Однако единственный маршрут для корабля к своей цели лежит через канал, который кишит ГСБшниками. КАНОНЕРКА 
+3=исчерпала свой боезапас во время вашего предыдущего боя, поэтому она не сможет предоставить вам дополнительную огневую 
+4=мощь. Уничтожьте все ПРИБРЕЖНЫЕ БАТАРЕИ, чтобы позволить кораблю свободно пройти в целости и сохранности.@@ Задача 1: 
+5=Сопроводите КАНОНЕРКУ в целости и сохранности.@@ Задача 2: Уничтожьте все ПРИБРЕЖНЫЕ БАТАРЕИ.@@
 
 [CellTags]
 121082=01000048

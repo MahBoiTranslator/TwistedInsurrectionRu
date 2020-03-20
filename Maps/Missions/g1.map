@@ -209,6 +209,7 @@ Name=Colonel Owen
 [CIVGANG1]
 Name=GloboTech Representative
 Primary=none
+Fraidycat=no
 
 [CTAXI]
 Passengers=0
@@ -353,7 +354,7 @@ FreeUnit=TDHARV
 [GASILO]
 TechLevel=2
 
-[GTGUN]
+[GTTRAN]
 Primary=none
 PipScale=Passengers
 Passengers=2
@@ -399,6 +400,7 @@ ThreatAvoidanceCoefficient=0
 
 [TDJEP]
 Sight=10
+Passengers=0
 
 [TRUCK2]
 Passengers=0
@@ -2921,7 +2923,7 @@ TransportsReturnOnUnload=no
 AreTeamMembersRecruitable=no
 
 [01000367]
-0=1,GTGUN
+0=1,GTTRAN
 Name=GTTransport
 Group=-1
 
@@ -3040,7 +3042,7 @@ AreTeamMembersRecruitable=no
 [01000376]
 0=1,CIVGANG1
 1=1,CIVCOP5
-2=1,GTGUN
+2=1,GTTRAN
 Name=GTEvacLoad
 Group=-1
 
@@ -4961,12 +4963,12 @@ Name=Flash
 2=GDI3,TDTRAN,256,129,75,64,Guard,None,0,-1,1,0
 
 [Briefing]
-1=After nearly 4 years, the UN Council has decided to capitulate to Kane's demands. GDI will be stood down for 'substantial restructuring' leaving it a mere token force & allowing Kane to do as he pleases. I haven't heard from General Sheppard since he left the council building. I hate to go over his head, but we're out of time. During last August's hearing I was approached by a representative of the arms manufacturer GloboTech. They offered us a deal, but under the current terms we'd be
-2=glorified PMCs for a megacorporation. I don't like it, but they're no fan of Kane's ambitions either. I arranged a rendezvous with them, maybe I can alter the terms of the deal to be more in our favor. Unfortunately, this means we'll be going AWOL. Captain, I understand if you walk away but if we pull this off, we'll save GDI.@@
-3=OBJECTIVE 1: Avoid UN troops & reach the GloboTech Representative.@@
-4=OBJECTIVE 2: Follow the representative to the evac zone.@@
-5=-COLONEL OWEN MUST SURVIVE-@@
-6=OPTIONAL: Reactivate the nearby GDI base.@@
+1= Спустя почти 4 года Совет ООН решил капитулировать перед требованиями Кейна. ГСБ будет распущен для " существенной реструктуризации", оставив его просто символической силой и позволяя делать Кейну всё, что ему заблагорассудится. Я ничего не слышал от генерала Шеппарда с тех пор, как он вышел из здания совета. Я ненавижу принимать решения без него, но у нас мало времени. На слушаниях в августе прошлого года ко мне подошел представитель оружейной компании - представитель ГлобоТэк. Они 
+2=предлагали нам заключить соглашение, однако по условиям сделки мы были бы разрекламированной ВЧК на службе у мегакорпорации. Мне это не нравится, но они тоже не фанаты амбиций Кейна. Я договорился с ними о рандеву. Возможно, мне удастся изменить условия сделки в нашу пользу.  К сожалению, это означает, что мы уйдем в самоволку. Капитан, я пойму, если вы откажетесь, но если всё успешно завершится, мы спасём ГСБ.@@
+3=Задача 1: Избегать войска ООН и найти представителя ГлобоТэк.@@
+4=Задача 2: Следовать за представителем в зону эвакуации.@@
+5=-ПОЛКОВНИК ОУЭН ДОЛЖЕН ВЫЖИТЬ-@@
+6=Опционально: Реактивировать ближайшую базу ГСБ.@@
 
 [CellTags]
 35099=01000285

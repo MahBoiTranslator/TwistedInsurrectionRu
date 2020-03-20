@@ -20,7 +20,7 @@ AltHomeCell=99
 OneTimeOnly=no
 CarryOverCap=0
 NewINIFormat=4
-NextScenario=Maps\Missions\gtd4a.map
+NextScenario=Maps\Missions\gtd3a.map
 SkipMapSelect=yes
 CarryOverMoney=0.000000
 AltNextScenario=
@@ -30,19 +30,6 @@ VeinGrowthEnabled=yes
 TiberiumGrowthEnabled=no
 IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
-
-[1TNK]
-Name=Light Tank
-TechLevel=3
-
-[2TNK]
-Name=Medium Tank
-TechLevel=3
-
-[4TNK]
-Name=Mammoth Tank
-TechLevel=7
-BuildLimit=5
 
 [AI]
 BuildAA=GAAGT,NASAMS
@@ -57,19 +44,8 @@ BuildBarracks=NAHAND,GAPILE
 BuildPDefense=GAAGT,NAOBEL
 BuildRefinery=NAREFN,GAREFN
 
-[APACHE]
-TechLevel=11
-
 [AudioVisual]
 UnloadingHarvester=TDHORV
-
-[BGGY]
-Name=Attack Buggy
-TechLevel=2
-
-[CHAMSPY]
-Strength=60
-TechLevel=11
 
 [CIV1]
 Primary=none
@@ -82,36 +58,6 @@ Primary=none
 
 [CIV6]
 Primary=none
-
-[COMMGDI]
-Name=Commando
-TechLevel=6
-BuildLimit=1
-Prerequisite=GAPILE,GATECH
-
-[CYBORG]
-TechLevel=11
-
-[CYC2]
-TechLevel=11
-
-[CYCCANN]
-TechLevel=11
-
-[REAPER]
-TechLevel=11
-
-[DETHBED]
-TechLevel=11
-CrateGoodie=no
-
-[DTRCKTIB]
-TechLevel=11
-CrateGoodie=no
-
-[DTRUCK]
-TechLevel=11
-CrateGoodie=no
 
 [E1]
 Strength=60
@@ -151,56 +97,13 @@ VoiceSelect=NENSA,NENSB,NENSC,NENSD
 VehicleThief=no
 VoiceFeedback=NENFA
 
-[FTNK]
-TechLevel=11
-CrateGoodie=no
-
 [GACNST]
 Owner=GDI,Nod
 UndeploysInto=TDMCV
 
-[GAFIRE]
-Prerequisite=CABHUT
-
-[GAFSDF]
-Prerequisite=CABHUT
-
-[GAPULS]
-Prerequisite=CABHUT
-
 [GARADR]
 TechLevel=2
 SuperWeapon=none
-
-[GARTWR]
-TechLevel=11
-
-[GASTWRF1]
-TechLevel=11
-
-[GASTWRF2]
-TechLevel=11
-
-[GASTWRF3]
-TechLevel=11
-
-[GASTWRU1]
-TechLevel=11
-
-[GASTWRU2]
-TechLevel=11
-
-[GASTWRU3]
-TechLevel=11
-
-[GARTWRUP]
-TechLevel=11
-
-[GASTWR]
-TechLevel=11
-
-[GASTWRUP]
-TechLevel=11
 
 [GAVTWR]
 TechLevel=11
@@ -212,23 +115,7 @@ TechLevel=11
 TechLevel=11
 
 [GAREFN]
-Cost=2000
 FreeUnit=TDHARV
-
-[GHOST]
-TechLevel=11
-
-[GHV]
-TechLevel=11
-CrateGoodie=no
-
-[GOLIA]
-TechLevel=11
-CrateGoodie=no
-
-[GREPAIR]
-TechLevel=11
-CrateGoodie=no
 
 [General]
 BaseUnit=DUMMYVEH
@@ -250,73 +137,6 @@ Arcing=yes
 Floater=yes
 Elasticity=0.5
 
-[HMVAV]
-Name=Avenger HumVee
-TechLevel=5
-
-[HOVAPC]
-TechLevel=11
-CrateGoodie=no
-
-[HOVVE]
-TechLevel=11
-CrateGoodie=no
-
-[HOWITZ]
-TechLevel=11
-CrateGoodie=no
-
-[HTNK]
-TechLevel=11
-CrateGoodie=no
-
-[INFECT]
-C4=yes
-Strength=150
-Secondary=none
-TechLevel=6
-
-[JUMPJET]
-TechLevel=11
-
-[KAZUAR]
-TechLevel=11
-CrateGoodie=no
-
-[LTNK]
-TechLevel=11
-CrateGoodie=no
-
-[MCV]
-TechLevel=11
-CrateGoodie=no
-
-[MLRSW]
-TechLevel=11
-CrateGoodie=no
-
-[MMKII]
-TechLevel=11
-CrateGoodie=no
-
-[MSA]
-TechLevel=11
-CrateGoodie=no
-
-[MSAM]
-TechLevel=11
-CrateGoodie=no
-
-[NAAPWR]
-Storage=0
-PipScale=none
-
-[NABPAD]
-Prerequisite=CABHUT
-
-[NACYBO]
-Prerequisite=CABHUT
-
 [NALASR]
 TechLevel=11
 
@@ -333,220 +153,27 @@ CloakRadiusInCells=0
 HasRadialIndicator=false
 
 [NAREFN]
-Cost=2000
 FreeUnit=TDHARV
-UndeploysInto=none
-ConstructionYard=no
-
-[NASAM]
-TechLevel=11
-
-[NASAMF1]
-TechLevel=11
-
-[NASAMF2]
-TechLevel=11
-
-[NASAMF3]
-TechLevel=11
-
-[NASAMF4]
-TechLevel=11
 
 [NASILO]
 TechLevel=1
 
-[NASTLH]
-Prerequisite=CABHUT
-
-[NASTLB]
-Prerequisite=CABHUT
-
-[NASWVE]
-Prerequisite=CABHUT
-
-[NAWB]
-Prerequisite=CABHUT
-
 [NAWEAP]
 TechLevel=11
-UndeploysInto=none
-ConstructionYard=no
-
-[NHARV]
-TechLevel=11
-CrateGoodie=no
-
-[NODFLAME]
-Strength=70
-TechLevel=4
-CollateralDamageCoefficient=.018
-
-[NREPAIR]
-TechLevel=11
-CrateGoodie=no
-
-[ORCA]
-TechLevel=11
-
-[ORCAB]
-TechLevel=11
-
-[ORCAEMP]
-TechLevel=11
-
-[RAT20]
-Name=Ratel IFV
-TechLevel=3
-
-[REDE]
-TechLevel=11
-CrateGoodie=no
-
-[RLTNK]
-TechLevel=11
-CrateGoodie=no
-
-[RLTNKAI]
-TechLevel=11
-CrateGoodie=no
-
-[SCORPION]
-TechLevel=11
-CrateGoodie=no
-
-[SCPCK]
-TechLevel=11
-CrateGoodie=no
-
-[SCRINB]
-TechLevel=11
-
-[SCRINI]
-TechLevel=11
-
-[SNIPER]
-TechLevel=11
-
-[STNK]
-TechLevel=11
-CrateGoodie=no
-
-[SUBAPC]
-TechLevel=11
-CrateGoodie=no
-
-[SUBARTY]
-TechLevel=11
-CrateGoodie=no
 
 [TDA10]
-Name=A-10
 AuxSound1=DUMMY
 AuxSound2=DUMMY
-TechLevel=7
-
-[GAAGT]
-Name=Advanced Guard Tower
-TechLevel=5
-AIBuildThis=yes
-IsBaseDefense=yes
-
-[TDAPACHE]
-Ammo=5
-Name=Apache
-PipScale=ammo
-TechLevel=5
-
-[TDAPC]
-Name=APC
-TechLevel=2
-
-[TDARTY]
-Name=Artillery
-TechLevel=5
-
-[TDBIKE]
-Name=Recon Bike
-TechLevel=2
-
-[TDFTNK]
-Name=Flame Tank
-TechLevel=4
 
 [GAGUTO]
-Name=Guard Tower
 TechLevel=11
-AIBuildThis=yes
-IsBaseDefense=yes
-
-[TDHARV]
-Name=Harvester
-TechLevel=2
-
-[TDHORV]
-Name=Unloading Harvester
-TechLevel=11
-CrateGoodie=no
-
-[TDJEP]
-TechLevel=2
-
-[TDJEPT]
-TechLevel=2
 
 [TDMCV]
 Name=MCV
-TechLevel=7
-CrateGoodie=yes
 DeploysInto=GACNST
-Prerequisite=FACTORY,TECH
-
-[TDMRJ]
-Name=Mobile HQ
-TechLevel=11
-CrateGoodie=no
-
-[TDMSM]
-Name=MLRS
-TechLevel=5
-
-[TDNTRAN]
-Name=CH-47 Chinook
-TechLevel=6
-
-[TDORCA]
-Name=ORCA Fighter
-TechLevel=5
-
-[TDSSM]
-Name=SSM Launcher
-TechLevel=7
-BuildLimit=5
-
-[TDSTN]
-Name=Stealth Tank
-TechLevel=7
-
-[TDTRAN]
-Name=CH-47 Chinook
-TechLevel=6
 
 [NATURR]
-Name=Turret
-TechLevel=2
-AIBuildThis=yes
-IsBaseDefense=yes
-
-[TIBBOMBR]
-TechLevel=7
-
-[TRNSPORT]
-TechLevel=11
-
-[VIPER]
-TechLevel=11
-CrateGoodie=no
+Power=0
 
 [Preview]
 
@@ -675,720 +302,6 @@ OnlyTargetHouseEnemy=no
 TransportsReturnOnUnload=no
 AreTeamMembersRecruitable=no
 
-[073A8CF0-G]
-0=9,1TNK
-1=6,TDFTNK
-Name=4 tick tanks
-Group=-1
-
-[073A9510-G]
-0=12,1TNK
-1=12,BGGY
-Name=4 attack cycles
-Group=-1
-
-[073A9CC0-G]
-0=6,TDSTN
-Name=4 stealth tanks
-Group=-1
-
-[073AA3F0-G]
-0=1,ENGINERN
-Name=1 mutant hijacker
-Group=-1
-
-[073AACA0-G]
-0=8,BGGY
-1=5,1TNK
-Name=4 attack buggies
-Group=-1
-
-[075BFDC0-G]
-0=6,TDMSM
-Name=3 hover MLRS
-Group=-1
-
-[075E02F0-G]
-0=10,E2
-1=6,E1
-Name=4 disc throwers
-Group=-1
-
-[075E2180-G]
-0=7,E1NOD
-1=6,E3
-Name=4 cyborgs
-Group=-1
-
-[075E2310-G]
-0=12,E3
-1=8,E1NOD
-Name=4 rocket infantry
-Group=-1
-
-[07E04DC0-G]
-0=20,E1
-1=4,E2
-Name=4 light infantry
-Group=-1
-
-[07EA1E90-G]
-0=1,TDA10
-Name=1 ORCA bombers
-Group=-1
-
-[07EA4290-G]
-0=5,TDSSM
-1=5,1TNK
-Name=3 artillery
-Group=-1
-
-[07ECC200-G]
-0=1,RAT20
-1=5,ENGINERN
-Name=1 subterranean APC, 5 engineers
-Group=-1
-
-[07ECD1F0-G]
-0=3,HMVAV
-1=8,TDJEP
-Name=3 wolverines
-Group=-1
-
-[07ECE4A0-G]
-0=6,TDFTNK
-1=6,TDARTY
-2=2,TDBIKE
-Name=4 devil's tongue
-Group=-1
-
-[07ECFB60-G]
-0=10,2TNK
-Name=3 titans
-Group=-1
-
-[07ED0460-G]
-0=1,4TNK
-1=8,2TNK
-2=6,HMVAV
-Name=1 mammoth mk. II
-Group=-1
-
-[07ED0860-G]
-0=6,2TNK
-1=4,TDJEP
-Name=4 titans
-Group=-1
-
-[07ED1330-G]
-0=7,TDJEP
-Name=4 wolverines
-Group=-1
-
-[07F3A490-G]
-0=1,TDAPC
-1=3,E2
-2=2,E1
-Name=1 amphibious APC, 3 lt, 2 disc
-Group=-1
-
-[07F3CAE0-G]
-0=2,E3
-1=3,NODFLAME
-2=1,RAT20
-Name=1 sub. APC, 3 lt, 2 cyborgs
-Group=-1
-
-[0804C530-G]
-0=4,E1NOD
-1=1,RAT20
-2=1,INFECT
-Name=1 sub. APC, 1 cyb com, 4 cyborgs
-Group=-1
-
-[0804C6C0-G]
-0=1,COMMGDI
-1=1,TDAPC
-2=4,E2
-Name=1 amphibious APC,1 ghost,4 disc
-Group=-1
-
-[08050A00-G]
-0=1,ENGINERN
-1=1,RAT20
-2=4,E3
-Name=1 sub APC, 1 hijacker, 4 rocket
-Group=-1
-
-[0805DAC0-G]
-0=1,ENGINERG
-1=1,TDAPC
-2=2,E2
-3=2,E1
-Name=1 amph APC,1 eng, 2 lt. 2 disc
-Group=-1
-
-[08060740-G]
-0=1,ENGINERN
-1=1,RAT20
-2=2,E1NOD
-3=2,E3
-Name=1 sub APC, 1 eng, 2 rocket, 2 lt
-Group=-1
-
-[08063D20-G]
-0=1,RAT20
-1=3,ENGINERN
-2=2,E3
-Name=1 subterranean APC, 3 eng, 2 roc
-Group=-1
-
-[08063DE0-G]
-0=1,TDAPC
-1=3,ENGINERG
-2=2,E2
-Name=1 amphibious APC,3 eng, 2 disc
-Group=-1
-
-[0832C3F0-G]
-0=5,ENGINERG
-1=1,TDAPC
-Name=1 amphibious APC, 5 engineers
-Group=-1
-
-[0846A4D0-G]
-0=4,TDBIKE
-Name=1 attack cycles
-Group=-1
-
-[084B2F60-G]
-0=1,TDAPC
-Name=1 amphibious  APC
-Group=-1
-
-[0859E2E0-G]
-0=1,TDSSM
-Name=1 mobile repair vehicle
-Group=-1
-
-[085EC2D0-G]
-0=1,RAT20
-Name=1 subterranean APC
-Group=-1
-
-[086001F0-G]
-0=3,4TNK
-Name=1 disruptors
-Group=-1
-
-[08600780-G]
-0=2,2TNK
-Name=1 titans
-Group=-1
-
-[08600DC0-G]
-0=4,E2
-Name=1 disc throwers
-Group=-1
-
-[08601380-G]
-0=4,E3
-1=2,E1
-Name=1 cyborgs
-Group=-1
-
-[086015E0-G]
-0=4,E3
-Name=1 rocket infantry
-Group=-1
-
-[08601770-G]
-0=2,TDSTN
-Name=1 stealth tanks
-Group=-1
-
-[086019D0-G]
-0=4,1TNK
-Name=1 tick tanks
-Group=-1
-
-[08601B60-G]
-0=4,E2
-Name=4 grenadiers
-Group=-1
-
-[08602640-G]
-0=6,E1
-Name=6 light infantry
-Group=-1
-
-[08602820-G]
-0=2,TDAPACHE
-Name=1 harpies
-Group=-1
-
-[086029B0-G]
-0=1,ENGINERG
-Name=1 engineers
-Group=-1
-
-[08602B40-G]
-0=2,TDFTNK
-Name=1 devil's tongue
-Group=-1
-
-[08602DC0-G]
-0=3,BGGY
-Name=1 attack buggies
-Group=-1
-
-[08603140-G]
-0=2,TDORCA
-Name=2 ORCA fighters
-Group=-1
-
-[086039B0-G]
-0=3,TDJEP
-Name=1 wolverines
-Group=-1
-
-[0860B440-G]
-0=1,TDMCV
-Name=1 MCV
-Group=-1
-
-[0860DE90-G]
-0=1,TIBBOMBR
-Name=1 banshee
-Group=-1
-
-[08820130-G]
-0=2,TDMSM
-Name=1 juggernaut
-Group=-1
-
-[08822830-G]
-0=4,TDMSM
-Name=3 juggernauts
-Group=-1
-
-[09200001-G]
-0=6,E1NOD
-Name=1 light infantry
-Group=-1
-
-[09200002-G]
-0=20,E1NOD
-1=6,E3
-Name=4 light infantry
-Group=-1
-
-[096473E0-G]
-0=6,2TNK
-1=3,4TNK
-Name=3 disruptors
-Group=-1
-
-[0965B600-G]
-0=3,TDMSM
-Name=1 hover MLRS
-Group=-1
-
-[0965D960-G]
-0=2,4TNK
-Name=1 disruptor
-Group=-1
-
-[097246D0-G]
-0=2,TDARTY
-Name=1 artillery
-Group=-1
-
-[09EF0540-G]
-0=3,ENGINERG
-Name=3 engineers
-Group=-1
-
-[09EF2BB0-G]
-0=1,COMMGDI
-1=6,E2
-2=15,E1
-Name=1 ghoststalker
-Group=-1
-
-[09F11CE0-G]
-0=1,INFECT
-1=6,E1NOD
-2=3,E3
-3=2,NODFLAME
-Name=1 cyborg Commando
-Group=-1
-
-[09F7B380-G]
-0=12,E2
-Name=3 jumpjet infantry
-Group=-1
-
-[09GDIAA0-G]
-0=6,HMVAV
-1=2,TDJEP
-Name=GDI base air defence
-Group=-1
-
-[09GDIAF1-G]
-0=2,TDORCA
-1=1,TDA10
-Name=Mixed GDI Air force
-
-[09GDIIN1-G]
-0=7,E2
-Name=4 disc throwers
-Group=-1
-
-[09GDIIN10-G]
-0=6,E2
-Name=m siege solly
-Group=-1
-
-[09GDIIN11-G]
-0=12,E2
-Name=m snipers
-Group=-1
-
-[09GDIIN12-G]
-0=14,E2
-Name=m enforcers
-Group=-1
-
-[09GDIIN13-G]
-0=10,E2
-Name=m siege solly
-Group=-1
-
-[09GDIIN2-G]
-0=5,E2
-Name=3 jumpjet infantry
-Group=-1
-
-[09GDIIN3-G]
-0=1,COMMGDI
-1=4,E2
-2=8,E1
-Name=1 ghoststalker
-Group=-1
-
-[09GDIIN4-G]
-0=15,E1
-Name=4 light infantry
-Group=-1
-
-[09GDIIN5-G]
-0=2,E1
-Name=4 light infantry
-Group=-1
-
-[09GDIIN6-G]
-0=4,E2
-Name=e enforcers
-Group=-1
-
-[09GDIIN7-G]
-0=4,E2
-Name=e siege solly
-Group=-1
-
-[09GDIIN8-G]
-0=4,E2
-Name=m snipers
-Group=-1
-
-[09GDIIN9-G]
-0=6,E2
-Name=m enforcers
-Group=-1
-
-[09GDIO12-G]
-0=1,TDA10
-1=1,TDORCA
-Name=GDI Immobilizer Air force
-Group=-1
-
-[09GDIVH1-G]
-0=5,TDJEP
-Name=3 wolverines
-Group=-1
-
-[09GDIVH2-G]
-0=7,TDJEP
-Name=3 hover MLRS
-Group=-1
-
-[09GDIVH3-G]
-0=6,2TNK
-Name=3 titans
-Group=-1
-
-[09GDIVH4-G]
-0=4,4TNK
-Name=3 disruptors
-Group=-1
-
-[09GDIVH5-G]
-0=5,APC
-Name=4 wolverines
-Group=-1
-
-[09GDIVH6-G]
-0=3,TDMSM
-Name=3 juggernauts
-Group=-1
-
-[09GDIVH7-G]
-0=3,HMVAV
-Name=GDI base air defence
-Group=-1
-
-[09GDIVH8-G]
-0=4,2TNK
-1=2,HMVAV
-Name=4 titans
-Group=-1
-
-[09GDIVH9-G]
-0=1,4TNK
-Name=1 mammoth mk. II
-Group=-1
-
-[09GEAAA0-G]
-0=2,HMVAV
-Name=Easy GDI base air defense
-Group=-1
-
-[09NODAA0-G]
-0=5,TDBIKE
-1=2,1TNK
-Name=Nod base air defense
-Group=-1
-
-[09NODCB0-G]
-0=5,E1NOD
-1=5,E3
-2=2,NODFLAME
-Name=Nod Cyborg taskforce
-Group=-1
-
-[09NODCB1-G]
-0=6,E1NOD
-1=6,E3
-Name=Another Nod Cyborg taskforce
-Group=-1
-
-[09NODCB2-G]
-0=3,NODFLAME
-1=5,E1NOD
-2=5,E3
-Name=Nod infantry taskforce
-Group=-1
-
-[09NODCC1-G]
-0=1,E3
-Name=4 cyborgs
-Group=-1
-
-[09NODCY1-G]
-0=5,E1NOD
-1=2,E3
-Name=4 cyborgs
-Group=-1
-
-[09NODCY2-G]
-0=4,E3
-1=4,NODFLAME
-Name=4 cyborgs
-Group=-1
-
-[09NODCY3-G]
-0=3,NODFLAME
-1=6,E3
-Name=4 cyborgs
-Group=-1
-
-[09NODCY4-G]
-0=3,E3
-1=4,NODFLAME
-Name=4 cyborgs
-Group=-1
-
-[09NODEN1-G]
-0=5,ENGINERN
-Name=4 cyborgs
-Group=-1
-
-[09NODIF1-G]
-0=1,INFECT
-Name=4 cyborgs
-Group=-1
-
-[09NODIF2-G]
-0=1,INFECT
-1=12,E3
-Name=4 cyborgs
-Group=-1
-
-[09NODIN1-G]
-0=10,E3
-1=4,E1NOD
-Name=4 rocket infantry
-Group=-1
-
-[09NODIN2-G]
-0=15,E1NOD
-Name=4 light infantry
-Group=-1
-
-[09NODIN3-G]
-0=3,NODFLAME
-Name=1 rocket infantry
-Group=-1
-
-[09NODIN4-G]
-0=3,NODFLAME
-1=8,E1NOD
-2=3,E3
-Name=4 light infantry
-Group=-1
-
-[09NODLI0-G]
-0=10,E1NOD
-1=5,NODFLAME
-Name=Nod light infantry taskforce
-Group=-1
-
-[09NODSA1-G]
-0=1,RAT20
-1=5,E1NOD
-Name=1 subterranean APC
-Group=-1
-
-[09NODSA2-G]
-0=1,RAT20
-1=2,ENGINERN
-2=3,E1NOD
-Name=1 subterranean APC, 5 engineers
-Group=-1
-
-[09NODSA3-G]
-0=1,RAT20
-1=3,E1NOD
-2=2,E3
-Name=1 subterranean APC, 5 engineers
-Group=-1
-
-[09NODSA4-G]
-0=1,RAT20
-1=5,E3
-Name=1 sub. APC, 3 lt, 2 cyborgs
-Group=-1
-
-[09NODSA5-G]
-0=1,RAT20
-1=5,NODFLAME
-Name=1 sub. APC, 3 lt, 2 cyborgs
-Group=-1
-
-[09NODSA6-G]
-0=1,RAT20
-1=1,NODFLAME
-2=4,E3
-Name=1 sub. APC, 3 lt, 2 cyborgs
-Group=-1
-
-[09NODSA7-G]
-0=1,RAT20
-1=1,E3
-2=4,NODFLAME
-Name=1 sub. APC, 3 lt, 2 cyborgs
-Group=-1
-
-[09NODSA8-G]
-0=1,RAT20
-1=1,INFECT
-2=4,ENGINERN
-Name=1 sub. APC, 3 lt, 2 cyborgs
-Group=-1
-
-[09NODSB0-G]
-0=1,TIBBOMBR
-Name=Nod bomber force
-Group=-1
-
-[09NODVH0-G]
-0=6,1TNK
-1=4,TDARTY
-2=2,TDBIKE
-Name=Generic Nod vehicle attack
-Group=-1
-
-[09NODVH1-G]
-0=8,BGGY
-Name=4 attack buggies
-Group=-1
-
-[09NODVH2-G]
-0=4,TDSTNK
-Name=4 stealth tanks
-Group=-1
-
-[09NODVH3-G]
-0=4,TDARTY
-Name=3 artillery
-Group=-1
-
-[09NODVH4-G]
-0=7,1TNK
-1=1,TDSSM
-Name=4 tick tanks
-Group=-1
-
-[09NODVH5-G]
-0=5,TDFTNK
-Name=4 devil's tongue
-Group=-1
-
-[09NODVH6-G]
-0=8,1TNK
-Name=4 attack cycles
-Group=-1
-
-[09NODVH7-G]
-0=6,RAT20
-Name=4 attack cycles
-Group=-1
-
-[09NODVH8-G]
-0=4,TDARTY
-Name=4 attack cycles
-Group=-1
-
-[09NODVH9-G]
-0=2,1TNK
-1=4,TDBIKE
-2=4,TDARTY
-3=2,TDSSM
-Name=Generic Nod vehicle attack
-Group=-1
-
-[0A70DB10-G]
-0=2,NODFLAME
-Name=1 cyborg reaper
-Group=-1
-
-[0A70E6A0-G]
-0=5,NODFLAME
-1=3,E3
-Name=3 cyborg reapers
-Group=-1
-
 [A10]
 IQ=0
 Edge=West
@@ -1435,11 +348,9 @@ PlayerControl=no
 01000066=1,37,0,12,0,0,0,0,A
 
 [Briefing]
-1=Build up forces to destroy the Nod base. Once all Nod SAM sites are neutralized
-2=then air support will be provided to combat obstacles such as turrets. Destroy all
-3=units and structures to complete the mission objective.@@
-4=Objective 1: Destroy all SAM sites.@@
-5=Objective 2: Destroy all Nod forces & Structures@@
+1=Постройте войска для уничтожения базы Нод. Как только вся ПВО Нод будет уничтожена, вам будет предоставлена воздушная 
+2=поддержка для уничтожения препятствий, таких как турели. Уничтожьте все войска и зданий, чтобы выполнить поставленные 
+3=задачи.@@ Задача 1: Уничтожьте всю ПВО.@@ Задача 2: Уничтожьте все войска и здания Нод.@@
 
 [Events]
 01000000=1,13,0,0
@@ -2659,11 +1570,11 @@ DestroyableBridges=yes
 50=Nod,CAFNCE,256,52,36,64,None,1,0,1,0,0,None,None,None,0,0
 51=Nod,CAFNCE,256,52,37,64,None,1,0,1,0,0,None,None,None,0,0
 52=Nod,CAFNCE,256,43,40,64,None,1,0,1,0,0,None,None,None,0,0
-53=NodTurrets,NATURR,256,41,42,128,01000027,1,0,1,0,0,None,None,None,0,0
-54=NodTurrets,NATURR,256,51,42,128,01000027,1,0,1,0,0,None,None,None,0,0
-55=NodTurrets,NATURR,256,52,42,128,01000027,1,0,1,0,0,None,None,None,0,0
-56=NodTurrets,NATURR,256,40,42,128,01000027,1,0,1,0,0,None,None,None,0,0
-57=Nod,NATURR,256,54,33,64,01000027,1,0,1,0,0,None,None,None,0,0
+53=NodTurrets,NATURR,256,41,42,128,01000027,0,0,1,0,0,None,None,None,0,0
+54=NodTurrets,NATURR,256,51,42,128,01000027,0,0,1,0,0,None,None,None,0,0
+55=NodTurrets,NATURR,256,52,42,128,01000027,0,0,1,0,0,None,None,None,0,0
+56=NodTurrets,NATURR,256,40,42,128,01000027,0,0,1,0,0,None,None,None,0,0
+57=Nod,NATURR,256,54,33,64,01000027,0,0,1,0,0,None,None,None,0,0
 58=Nod,NASILO,256,46,24,64,None,1,0,1,0,0,None,None,None,0,0
 59=Nod,CAFNCE,256,43,43,64,None,1,0,1,0,0,None,None,None,0,0
 60=Nod,CAFNCE,256,49,43,64,None,1,0,1,0,0,None,None,None,0,0
@@ -2701,7 +1612,7 @@ PlayerControl=no
 01000001=0,_Intro - Reveal Start & Text 1,01000000
 01000003=0,AI Auto Production Nod 1,01000002
 01000005=0,__Test Reveal 1,01000004
-01000007=0,Discover SAM (WP 0)  1,01000006
+01000007=0,Discover SAM (WP 0) 1,01000006
 01000009=0,Discover SAM (WP 1) 1,01000008
 01000011=0,Discover SAM (WP 2) 1,01000010
 01000013=0,Discover SAM (WP 3) 1,01000012
@@ -3594,7 +2505,7 @@ PlayerControl=no
 01000000=TDGDI,<none>,_Intro - Reveal Start & Text,0,1,1,1,0
 01000002=Nod,<none>,AI Auto Production Nod,0,1,1,1,0
 01000004=TDGDI,<none>,__Test Reveal,1,1,1,1,0
-01000006=TDGDI,<none>,Discover SAM (WP 0) ,0,1,1,1,0
+01000006=TDGDI,<none>,Discover SAM (WP 0),0,1,1,1,0
 01000008=TDGDI,<none>,Discover SAM (WP 1),0,1,1,1,0
 01000010=TDGDI,<none>,Discover SAM (WP 2),0,1,1,1,0
 01000012=TDGDI,<none>,Discover SAM (WP 3),0,1,1,1,0

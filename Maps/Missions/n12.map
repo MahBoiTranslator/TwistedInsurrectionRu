@@ -1455,19 +1455,14 @@ PercentBuilt=0
 PlayerControl=no
 
 [Briefing]
-1=Our own brethren have turned against us! How did we not see this? This rebellion must
-2=have been planned for quite some time. Our increased focus on the cybernetics
-3=program has always had its detractors but the malfunction must have been the
-4=justification they've waited for.@@Fools like these have doubted ever since the
-5=Sarajevo incident, refusing to believe that it was Kane himself that
-6=sanctioned this technology! We shall settle this once and for all!@@ But for now your
-7=attention is needed at the Cyborg production facility! We can't risk losing the
-8=materials required for the production line. With the underground labs held by
-9=these dissidents, we're going to have to fight through to the secondary
-10=conversion centre, it's the only safe-zone for miles.
-11=Escort the train to the other side of the facility and await
-12=further instruction!@@
-13=Objective 1: Escort the train to safety.@@
+1=Ќаши собственные брать€ повернулись против нас!  ак мы могли это прогл€деть? Ёто восстание должно было быть 
+2=спланировано довольно давно. Ќаше повышенное внимание к программе кибернетики всегда имело своих недоброжелателей, 
+3=но неисправность должны была стать мотивацией, которую они ждали.@@ “акие дураки сомневались с самого —араевского 
+4=инцидента, отказыва€сь верить, что именно  ейн санкционировал эту технологию! ћы должны решить это раз и навсегда!@@ 
+5=Ќо пока ваше внимание необходимо в комплексе по производству киборгов! ћы не можем рисковать потерей материалов, 
+6=необходимых дл€ серийного производства. “.к. подземные лаборатории принадлежат этим диссидентам, нам придетс€ пробиватьс€ 
+7=к вторичному пересадочному центру. Ёто единственна€ безопасна€ зона на километры вокруг. —опроводите поезд на другую 
+8=сторону комплекса и ждите дальнейших указаний!@@ «адача 1: —опроводить поезд в целости и безопасности.@@
 
 [CellTags]
 51079=01000116

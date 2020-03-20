@@ -2131,13 +2131,11 @@ PercentBuilt=0
 PlayerControl=no
 
 [Briefing]
-1=Brother, you did well, but the battle has revealed a disturbing truth -- that
-2=this militia aiding GDI is far better equipped than we initially thought. From your reports,
-3=it would seem that not all of the militia are accounted for. Rally your forces and return to
-4=your initial staging base for debriefing. We're not expecting any significant resistance on the way, but
-5=I suggest you remain on your guard -- we've underestimated these infidels before. You never know what
-6=surprises GDI can pull out of its sleeve.@@
-7=Objective 1: Return to the staging base for debriefing.@@
+1=Брат, ты хорошо справился, но битва показала тревожную истину. Повстанцы, помогающие ГСБ, гораздо лучше оснащены, чем 
+2=мы думали изначально. Из ваших отчетов может показаться, что были не все повстанцы. Соберите свои войска и вернитесь на 
+3=исходную подготовительную базу для разбирательств. Мы не ожидаем какого-либо существенного сопротивления на этом пути, 
+4=но я советую вам оставаться настороже, т.к. мы недооценивали этих неверных ранее. Вы не можете знать, какие сюрпризы 
+5=ГСБшники вам приготовили.@@ Задача 1: Вернуться на подготовительную базу для разбирательств.@@
 
 [Bugs]
 IQ=2

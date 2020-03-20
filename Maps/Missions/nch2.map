@@ -20,7 +20,7 @@ AltHomeCell=99
 OneTimeOnly=yes
 CarryOverCap=0
 NewINIFormat=4
-NextScenario=Maps\Missions\
+NextScenario=Maps\Missions\nch3.map
 SkipMapSelect=yes
 CarryOverMoney=0.000000
 AltNextScenario=
@@ -2349,13 +2349,10 @@ AreTeamMembersRecruitable=no
 1=Nod,TDAPACHE,256,32,70,64,Guard,None,0,0,1,0
 
 [Briefing]
-1=Nod Challenge 02:@@
-2=Using only the Nod Twisted Dawn era units, defend from the incoming waves of enemy
-3=Insurrection era Nod units. The challenge will be complete once a certain amount of
-4=enemy units have been destroyed. Reinforcements are available dependent on your performance.
-5=Good luck, brother.@@
-6=@@
-7=@@
+1=Испытание Нод 02:@@
+2=Используя только войска эры Twisted Dawn, обороняйтесь от волн войск Нод эры Twisted Insurrection. Испытание будет 
+3=пройдено, как только все вражеские войска будут уничтожены. Подкрепления будут доступны в зависимости от вашей 
+4=результативности. Удачи, брат.@@
 
 [Events]
 01000000=1,51,0,300

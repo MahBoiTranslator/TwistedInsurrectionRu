@@ -2236,11 +2236,11 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-1=DATA LINK ESTABLISHED AT11-08-23@@
-2=Good welcome citizen. Today we celebrate the third anniversary of our glorious triumph over the great oppressor, the Global Defense Initiative.
-3=The United Nations has been persuaded to join our cause and without them, as our Prophet envisioned, GDI is nothing.@@
-4=In remembrance of those who gave their lives to realize this day, the Brotherhood wishes that all citizens enjoy this review of our great struggle against GDI.@@
-5=DATA LINK TERMINATED.
+1=СООБЩЕНИЕ ПОЛУЧЕНО 11.08.2023@@ Добро пожаловать, Гражданин. Сегодня мы отмечаем третью годовщину нашего славного 
+2=триумфа над великим угнетателем, Глобальным Советом Безопасности. Организацию Объединенных Наций убедили присоединиться 
+3=к нашему делу, и без её поддержки, как и предполагал наш Пророк, ГСБ - ничто.@@ В память о тех, кто отдал свою жизнь, 
+4=чтобы достичь этого дня, Братство желает, чтобы все граждане наслаждались этим парадом нашей великой борьбы против 
+5=ГСБ.@@ КОНЕЦ СООБЩЕНИЯ@@
 
 [CellTags]
 152191=01000267

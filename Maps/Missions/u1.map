@@ -10108,9 +10108,10 @@ AreTeamMembersRecruitable=no
 15=GDI,TDA10,256,154,82,64,Guard,None,0,0,1,0
 
 [Briefing]
-1=They actually decided to do it.  These crazy bastards showed up outside Area 51 and now we have to get rid of them.  We cannot allow any civilians to expose the truth about extraterrestrial life, time manipulation, or weather control.@@
-2=OBJECTIVE 1: Defend the base for 30 minutes.@@
-3=OBJECTIVE 2: Do not allow our secret technology to be infiltrated or stolen.@@
+1=ќни действительно решили это сделать. Ёти сумасшедшие ублюдки по€вились за пределами «оны 51, и теперь мы должны 
+2=избавитьс€ от них. ћы не можем позволить ни одному гражданскому раскрыть правду о внеземной жизни, манипул€ции 
+3=временем или управлении погодой.@@ «адача 1: «ащищайте базу в течении 30 минут.@@ «адача 2: Ќе позвольте украсть 
+4=или воспользоватьс€ нашими секретными технологи€ми.@@
 
 [CHIN]
 IQ=0

@@ -1,5 +1,4 @@
 [Basic]
-=custom
 Win=GDI_FLAG
 Lose=NOD_FLAG
 Name=GDI Mission 06: Clean Slate
@@ -20,7 +19,7 @@ AltHomeCell=99
 OneTimeOnly=no
 CarryOverCap=0
 NewINIFormat=4
-NextScenario=g7.map
+NextScenario=Maps\Missions\g7.map
 SkipMapSelect=yes
 CarryOverMoney=0.000000
 AltNextScenario=
@@ -1909,22 +1908,15 @@ AreTeamMembersRecruitable=no
 01000330=3,17,0,92,0,0,0,0,A,11,0,1019,0,0,0,0,A,17,0,93,0,0,0,0,A
 
 [Briefing]
-1=It has come to our attention that a recent ion storm has damaged
-2=the radar network of one of the most important Nod supply bases
-3=in this region.@@
-4=This critical blackout in the Nod surveillance system allows us
-5=to fly a single dropship behind their lines undetected. The ship will carry
-6=an engineer, two snipers, and two new Scatterpack Vulcan walkers.@@
-7=Your first priority is to capture the nearby bridge traffic control
-8=tower, whereupon your engineer can demolish the whole bridge.
-9=Once the bridge is down, make contact with the amphibious
-10=company en route, and then proceed to the other side of the river. Across the
-11=river is an old, abandoned GDI base that should still be of use. Locate the
-12=base, and repair it back to operational status. Then use the base
-13=to launch attacks against the main Nod supply facility, and wipe it out.@@
-14=Objective 1: Capture the bridge traffic control tower.@@
-15=Objective 2: Locate and repair the abandoned GDI base.@@
-16=Objective 3: Destroy the Nod supply base.@@
+1= До нашего сведения дошло, что недавняя ионная буря повредила радиолокационную сеть одной из важнейших баз 
+2=снабжения Нод в этом регионе.@@ Это критическое отключение энергии в системе наблюдения Нод позволит пролететь 
+3=нашему десанту на их линию фронта незамеченными. Десант будет состоять из инженера, двух снайперов, и двух 
+4=новых шагоходов Распылитель.@@ Ваша первостепенная задача - захватить КПП на мосту, после чего инженер взорвёт 
+5=мост. Как только мост будет разрушен, воссоединитесь с приближающимся на амфибиях отрядом, а затем проследуйте 
+6=на другой берег реки. На другом берегу реки находится заброшенная база ГСБ, которую ещё можно использовать. 
+7=Найдите базу и верните её в рабочее состояние. Используйте для её атаки на главный комплекс снабжения Нод и 
+8=сотрите его с лица земли.@@ Задача 1: Захватите КПП на мосту.@@ Задача 2: Найдите и восстановите заброшенную базу ГСБ.@@ 
+9=Задача 3: Уничтожьте базу снабжения Нод.@@
 
 [CellTags]
 15118=01000204

@@ -23,13 +23,51 @@ NewINIFormat=4
 NextScenario=Maps\Missions\g6.map
 SkipMapSelect=yes
 CarryOverMoney=0.000000
-AltNextScenario=
+AltNextScenario=<none>
 MultiplayerOnly=0
 IceGrowthEnabled=yes
 VeinGrowthEnabled=yes
 TiberiumGrowthEnabled=yes
 IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=yes
+
+[1TNK]
+Image=LTNK
+Name=Scorpion Tank
+Prerequisite=NODFACTORY,CABHUT
+Primary=65mm
+Elite=65mme
+Category=AFV
+Strength=330
+Armor=light
+Turret=yes
+IsTilter=yes
+TechLevel=2
+Sight=5
+Speed=10
+CrateGoodie=no
+Owner=Nod
+Cost=600
+Points=15
+ROT=6
+Crusher=yes
+Explosion=TWLT4,BANG1D,BRNL4,CLSN1E,TUMU1E,TUMU1D
+VoiceSelect=VSCOSEA,VSCOSEB,VSCOSEC,VSCOSED,VSCOSEE
+VoiceMove=VSCOMOA,VSCOMOB,VSCOMOC,VSCOMOD,VSCOMOE
+VoiceAttack=VSCOATA,VSCOATB,VSCOATC,VSCOATD,VSCOATE
+VoiceFeedback=VSCOFEA,VSCOFEB
+MaxDebris=2
+DebrisTypes=PIECE
+DebrisMaximums=2
+Locomotor={4A582741-9839-11d1-B709-00A024DDAFD1}
+SpeedType=Track
+MovementZone=Destroyer
+ThreatPosed=20
+DamageParticleSystems=SparkSys,SmallGreySSys
+VeteranAbilities=STRONGER,FASTER,SELF_HEAL
+EliteAbilities=VEIN_PROOF,ROF,FIREPOWER
+AllowedToStartInMultiplayer=no
+Nominal=yes
 
 [CACRSH04]
 Selectable=no
@@ -491,7 +529,7 @@ TransportsReturnOnUnload=no
 AreTeamMembersRecruitable=no
 
 [01000062]
-0=3,LTNK
+0=3,1TNK
 1=3,VIPER
 Name=Tib field attack
 Group=-1
@@ -777,7 +815,7 @@ AreTeamMembersRecruitable=no
 
 [01000094]
 0=3,HTNK
-1=3,LTNK
+1=3,1TNK
 Name=Eclipse tanks big attack
 Group=-1
 
@@ -1365,18 +1403,15 @@ AreTeamMembersRecruitable=no
 5=Nod,APACHE,256,81,32,64,Guard,None,0,0,1,0
 
 [Briefing]
-1=Welcome back to field operations, Commander.@@
-2=The vast Tiberium field you helped secure six years ago has since proved
-3=to be one of GDI's most vital resources. The Tiberium here has played a key part in funding
-4=our war effort against Nod, and has also contributed towards the production of GloboTech
-5=facilities and equipment. The region is usually under the protection of GloboTech armed
-6=forces -- however, recent skirmishes elsewhere have forced their armoured division to leave.
-7=We now believe said skirmishes to be a diversion. Nod forces have been spotted closing in on
-8=the refinery site, presumably in an attempt to claim the field for their own. Unfortunatelly
-9=we might only have enough manpower to delay the takeover.@@
-10=Your primary task is to defend the harvesting operations until enough Tiberium has been collected.
-11=Once a sufficient amount is in storage, we will evacuate the area if needed.@@
-12=Objective 1: Harvest 50,000 credits worth of Tiberium.@@
+1= С возвращением на поле боя, Командир.@@ Огромное месторождение тиберия, которое вы помогли защитить 6 лет 
+2=назад, с тех пор было одним из самых важных ресурсов ГСБ. Тиберий, находящийся здесь, сыграл ключевую роль в 
+3=финансировании наших военных действий против Нод, а также внёс вклад в создание комплексов и оборудования 
+4=ГлобоТэк Регион обычно находится под защитой бронетанковых войск ГлобоТэк, однако недавние стычки вынудили 
+5=их перевести свои бронетанковые войска. Теперь мы считаем, что эти стычки - диверсия. Силы Нод движутся к 
+6=перерабатывающей базе, предположительно, чтобы взять поле под свой контроль. К сожалению, у нас достаточно 
+7=личного состава только для того, чтобы отложить захват.@@ Ваша первостепенная задача - оборонять добывающую 
+8=базу, пока тиберия не будет накоплено достаточно. Как только будет накоплено достаточно, мы эвакуируемся, 
+9=если это будет необходимо.@@ Задача 1: Накопить 50,000 кредитов.@@
 
 [CellTags]
 54093=01000033

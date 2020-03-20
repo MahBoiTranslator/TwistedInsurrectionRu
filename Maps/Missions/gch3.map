@@ -1323,12 +1323,9 @@ AreTeamMembersRecruitable=no
 01000097=1,1,0,0,0,0,0,0,A
 
 [Briefing]
-1=GDI Challenge 03:@@
-2=Defend your fortress from the incoming waves of tiberium lifeforms. Enemy numbers
-3=increase over time and no reinforcements are available.
-4=Good luck.@@
-5=@@
-6=@@
+1=Испытание ГСБ 03:@@
+2=Защищайте вашу базу от волн тибериевых организмов. С каждой волной количество организмов будет возрастать и подкрепления 
+3=удут не доступны. Удачи.@@
 
 [CellTags]
 

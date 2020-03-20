@@ -1226,14 +1226,12 @@ AreTeamMembersRecruitable=no
 01000175=1,1,0,1,0,0,0,0,A
 
 [Briefing]
-1=Brother, you are indeed zealous! We had not expected to find anything of value in that
-2=nest of vipers, but your deeds have borne unexpected fruit. This data you retrieved
-3=could prove to be valuable to the Brotherhood. Your new orders are to bring this
-4=information, and your valorous brethren, safely back to our nearby airbase
-5=for extraction. Time is of the essence brother, as GloboTech are certain to send their
-6=lackeys to investigate the communications blackout.
-7=Once your forces are safe, we'll be able to look into your discovery.@@
-8=Objective 1: Return to the airbase for immediate evacuation.
+1= Брат, вы действительно энергичный! Мы не ожидали найти что-нибудь ценное в этом гнезде гадюк, но ваши поступки принесли 
+2=неожиданные плоды. Эти данные, которые вы заполучили, могут оказаться ценными для Братства. Ваш новый приказ - доставить 
+3=эти данные и ваших доблестных братьев в безопасности на ближайшую авиабазу для эвакуации. Время имеет большое значение, 
+4=Брат, поскольку ГлобоТэк наверняка отправит своих лакеев, чтобы узнать, почему комплекс не выходит на связь. Как только 
+5=ваши силы будут в безопасности, мы сможем изучить вашу находку.@@ Задача 1: Вернитесь на авиабазу для незамедленной 
+6=эвакуации.
 
 [CellTags]
 59138=01000138

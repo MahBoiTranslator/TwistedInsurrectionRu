@@ -1339,12 +1339,9 @@ AreTeamMembersRecruitable=no
 01000117=1,53,2,01000115,0,0,0,0,A
 
 [Briefing]
-1=Nod Challenge 03:@@
-2=Defend your fortress from the incoming waves of Tiberium lifeforms. Enemy numbers
-3=increase over time, and no reinforcements are available.
-4=Good luck.@@
-5=@@
-6=@@
+1=Испытание Нод 03:@@
+2=Защищайте вашу базу от волн тибериевых организмов. С каждой волной количество организмов будет возрастать и 
+3=подкрепления будут не доступны. Удачи.@@
 
 [Events]
 01000004=1,51,0,160

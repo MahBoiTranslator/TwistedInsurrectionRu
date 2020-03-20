@@ -1,4 +1,5 @@
 [Basic]
+=custom
 Win=GDI_FLAG
 Lose=NOD_FLAG
 Name=GDI Mission 06: Clean Slate
@@ -19,7 +20,7 @@ AltHomeCell=99
 OneTimeOnly=no
 CarryOverCap=0
 NewINIFormat=4
-NextScenario=Maps\Missions\g7.map
+NextScenario=g7.map
 SkipMapSelect=yes
 CarryOverMoney=0.000000
 AltNextScenario=

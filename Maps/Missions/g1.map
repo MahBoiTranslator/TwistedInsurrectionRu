@@ -209,7 +209,6 @@ Name=Colonel Owen
 [CIVGANG1]
 Name=GloboTech Representative
 Primary=none
-Fraidycat=no
 
 [CTAXI]
 Passengers=0
@@ -354,7 +353,7 @@ FreeUnit=TDHARV
 [GASILO]
 TechLevel=2
 
-[GTTRAN]
+[GTGUN]
 Primary=none
 PipScale=Passengers
 Passengers=2
@@ -400,7 +399,6 @@ ThreatAvoidanceCoefficient=0
 
 [TDJEP]
 Sight=10
-Passengers=0
 
 [TRUCK2]
 Passengers=0
@@ -2923,7 +2921,7 @@ TransportsReturnOnUnload=no
 AreTeamMembersRecruitable=no
 
 [01000367]
-0=1,GTTRAN
+0=1,GTGUN
 Name=GTTransport
 Group=-1
 
@@ -3042,7 +3040,7 @@ AreTeamMembersRecruitable=no
 [01000376]
 0=1,CIVGANG1
 1=1,CIVCOP5
-2=1,GTTRAN
+2=1,GTGUN
 Name=GTEvacLoad
 Group=-1
 

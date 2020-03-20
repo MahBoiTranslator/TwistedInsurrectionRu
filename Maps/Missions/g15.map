@@ -31,44 +31,6 @@ TiberiumGrowthEnabled=yes
 IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=yes
 
-[1TNK]
-Image=LTNK
-Name=Scorpion Tank
-Prerequisite=NODFACTORY,CABHUT
-Primary=65mm
-Elite=65mme
-Category=AFV
-Strength=330
-Armor=light
-Turret=yes
-IsTilter=yes
-TechLevel=2
-Sight=5
-Speed=10
-CrateGoodie=no
-Owner=Nod
-Cost=600
-Points=15
-ROT=6
-Crusher=yes
-Explosion=TWLT4,BANG1D,BRNL4,CLSN1E,TUMU1E,TUMU1D
-VoiceSelect=VSCOSEA,VSCOSEB,VSCOSEC,VSCOSED,VSCOSEE
-VoiceMove=VSCOMOA,VSCOMOB,VSCOMOC,VSCOMOD,VSCOMOE
-VoiceAttack=VSCOATA,VSCOATB,VSCOATC,VSCOATD,VSCOATE
-VoiceFeedback=VSCOFEA,VSCOFEB
-MaxDebris=2
-DebrisTypes=PIECE
-DebrisMaximums=2
-Locomotor={4A582741-9839-11d1-B709-00A024DDAFD1}
-SpeedType=Track
-MovementZone=Destroyer
-ThreatPosed=20
-DamageParticleSystems=SparkSys,SmallGreySSys
-VeteranAbilities=STRONGER,FASTER,SELF_HEAL
-EliteAbilities=VEIN_PROOF,ROF,FIREPOWER
-AllowedToStartInMultiplayer=no
-Nominal=yes
-
 [AudioVisual]
 AllyReveal=yes
 
@@ -1914,7 +1876,7 @@ TransportsReturnOnUnload=no
 AreTeamMembersRecruitable=no
 
 [01000297]
-0=4,1TNK
+0=4,LTNK
 1=2,HTNK
 Name=4 Light Tanks, 2 Eclipse
 Group=-1
@@ -3187,7 +3149,7 @@ PlayerControl=no
 01000367=1,13,0,350
 01000369=1,15,0,25
 01000371=1,15,0,15
-01000373=1,4,0,0
+01000373=1,4,0,15
 01000375=1,4,0,0
 01000377=1,4,0,0
 01000379=1,48,0,0

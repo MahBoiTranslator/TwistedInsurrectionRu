@@ -4,6 +4,6 @@
 
 Ссылка на актуальный сейчас локализатор: https://github.com/MahBoiTranslator/TwistedInsurrectionRu/archive/v0.8.0.7-7.zip
 
-Readme-инструкция по установке локализатора: https://github.com/MahBoiTranslator/TwistedInsurrectionRu/blob/TI_0.8.0.7_RU/README.md
+Инструкция по установке локализатора: https://github.com/MahBoiTranslator/TwistedInsurrectionRu/blob/TI_0.8.0.7_RU/README.md#описание-установки
 
 Локализатор поддреживается и обновляется по мере возможностей и выхода обновлений. Крайне рад помощи, советам, предложениям, замечаниям. Вы их можете отправлять на почту *mah.boi.translator@gmail.com*.

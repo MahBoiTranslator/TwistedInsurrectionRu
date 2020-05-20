@@ -10318,9 +10318,10 @@ AreTeamMembersRecruitable=no
 12=Special,TDA10,256,147,82,64,Guard,None,1,0,1,0
 
 [Briefing]
-1=They actually decided to do it.  These crazy bastards showed up outside Area 51 and now we have to get rid of them.  We cannot allow any civilians to expose the truth about extraterrestrial life, time manipulation, or weather control.@@
-2=OBJECTIVE 1: Defend the base for 30 minutes.@@
-3=OBJECTIVE 2: Do not allow our secret technology to be infiltrated or stolen.@@
+1=Они действительно решили это сделать. Эти сумасшедшие ублюдки появились за пределами Зоны 51, и теперь мы должны 
+2=избавиться от них. Мы не можем позволить ни одному гражданскому раскрыть правду о внеземной жизни, манипуляции 
+3=временем или управлении погодой.@@ Задача 1: Защищайте базу в течении 30 минут.@@ Задача 2: Не позвольте украсть 
+4=или воспользоваться нашими секретными технологиями.@@
 
 [CHIN]
 IQ=0
@@ -13217,15 +13218,15 @@ PlayerControl=no
 01000720=Neutral,<none>,7D-Aircraft Switch House,0,1,1,1,0
 
 [Tutorial]
-1=There are no more civilians trying to rush the base!  It looks like we CAN stop all of them!
-2=-COMMAND INTERFACE ENABLED-
-3=--ALERT! - The UFO Prototype has been stolen!  There's no stopping it now!--
-4=--ALERT! - The Chronosphere has been infiltrated!  Someone has attempted to use it and time is destabilizing!--
-5=--ALERT! - The Weather Control Lab has been infiltrated!  Something is happening in the clouds!--
-6=--ALERT! - The UFO Prototype has been destroyed!--
-7=--ALERT! - The Chronosphere has been destroyed!--
-8=--ALERT! - A portion of the Weather Control Site has been destroyed!--
-9=The UFO Prototype is now fully operational!
+1=Здесь больше нет гражданских, пытающихся проникнуть на базу! Похоже мы СМОГЛИ всех их остановить!
+2=-УПРАВЛЕНИЕ ВКЛЮЧЕНО-
+3=--ТРЕВОГА! - Прототип НЛО был украден! Теперь их не остановить!--
+4=--ТРЕВОГА! - В Хроносферу проникли! Кто-то пытается использовать её и время дестабилизируется!--
+5=--ТРЕВОГА! - В Лабораторию Управления Погодой проникли! Что-то происходит в облаках!--
+6=--ТРЕВОГА! - Прототип НЛО был уничтожен!--
+7=--ТРЕВОГА! - Хроносфера была уничтожена!--
+8=--ТРЕВОГА! - Часть Комплекса Управления Погодой была уничтожена!--
+9=Прототип НЛО в полной боевой готовности!
 
 [UFO]
 IQ=0

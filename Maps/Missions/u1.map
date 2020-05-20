@@ -12981,15 +12981,15 @@ PlayerControl=no
 01000718=GDI,01000207,7C-UFOStolen Special,0,1,1,1,0
 
 [Tutorial]
-1=There are no more civilians trying to rush the base!  It looks like we CAN stop all of them!
-2=-COMMAND INTERFACE ENABLED-
-3=--ALERT! - The UFO Prototype has been stolen!  There's no stopping it now!--
-4=--ALERT! - The Chronosphere has been infiltrated!  Someone has attempted to use it and time is destabilizing!--
-5=--ALERT! - The Weather Control Lab has been infiltrated!  Something is happening in the clouds!--
-6=--ALERT! - The UFO Prototype has been destroyed!--
-7=--ALERT! - The Chronosphere has been destroyed!--
-8=--ALERT! - A portion of the Weather Control Site has been destroyed!--
-9=The UFO Prototype is now fully operational!
+1=Здесь больше нет гражданских, пытающихся проникнуть на базу! Похоже мы СМОГЛИ всех их остановить!
+2=-УПРАВЛЕНИЕ ВКЛЮЧЕНО-
+3=--ТРЕВОГА! - Прототип НЛО был украден! Теперь их не остановить!--
+4=--ТРЕВОГА! - В Хроносферу проникли! Кто-то пытается использовать её и время дестабилизируется!--
+5=--ТРЕВОГА! - В Лабораторию Управления Погодой проникли! Что-то происходит в облаках!--
+6=--ТРЕВОГА! - Прототип НЛО был уничтожен!--
+7=--ТРЕВОГА! - Хроносфера была уничтожена!--
+8=--ТРЕВОГА! - Часть Комплекса Управления Погодой была уничтожена!--
+9=Прототип НЛО в полной боевой готовности!
 
 [UFO]
 IQ=0

@@ -39,7 +39,7 @@ HarvesterUnit=TDHARV
 CurleyShuffle=yes
 
 [1TNK]
-Name=Light Tank
+Name=Лёгкий Танк;Light Tank
 TechLevel=1
 Prerequisite=FACTORY
 
@@ -47,7 +47,7 @@ Prerequisite=FACTORY
 TechLevel=-1
 
 [BGGY]
-Name=Attack Buggy
+Name=Багги;Attack Buggy
 TechLevel=1
 Prerequisite=FACTORY
 
@@ -74,7 +74,7 @@ TechLevel=-1
 TiberiumHeal=no
 
 [DSHP]
-Name=Chinook
+Name=Чинук;Chinook
 Image=TDNTRAN
 AuxSound1=HELUP01
 AuxSound2=HELDWN01
@@ -108,7 +108,7 @@ TiberiumHeal=no
 TechLevel=-1
 
 [MCV]
-Name=MCV
+Name=Мобильный Строительны Цех;MCV
 Image=TDMCV
 TechLevel=1
 VoiceMove=TDUUMA,TDUUMB,TDUUMC,TDUUMD
@@ -163,12 +163,12 @@ Prerequisite=BARRACKS,RADAR
 CollateralDamageCoefficient=.04
 
 [RAT20]
-Name=Ratel IFV
+Name=БМП Медоед;Ratel IFV
 TechLevel=1
 Prerequisite=FACTORY
 
 [TDAPACHE]
-Name=Apache
+Name=Апач;Apache
 TechLevel=1
 Ammo=12
 PipScale=ammo
@@ -176,34 +176,34 @@ Dock=NAHPAD
 Prerequisite=NAHPAD,RADAR
 
 [TDARTY]
-Name=Artillery
+Name=Артиллерия;Artillery
 TechLevel=1
 Prerequisite=FACTORY,RADAR
 
 [TDBIKE]
-Name=Attack Bike
+Name=Байк;Attack Bike
 TechLevel=1
 Prerequisite=FACTORY
 
 [TDFTNK]
-Name=Flame Tank
+Name=Огнемётный Танк;Flame Tank
 TechLevel=1
 Prerequisite=FACTORY,RADAR
 
 [TDHARV]
 Dock=NAREFN,DPREFN
-Name=Harvester
+Name=Комбайн;Harvester
 TechLevel=1
 Prerequisite=FACTORY
 
 [TDSSM]
-Name=SSM Launcher
+Name=Установка РЗЗ;SSM Launcher
 TechLevel=1
 BuildLimit=3
 Prerequisite=FACTORY,RADAR,TECH
 
 [TDSTN]
-Name=Stealth Tank
+Name=Стелс Танк;Stealth Tank
 TechLevel=1
 Prerequisite=FACTORY,RADAR,TECH
 
@@ -218,7 +218,7 @@ TechLevel=-1
 TechLevel=-1
 
 [NATURR]
-Name=Turret
+Name=Туррель;Turret
 TechLevel=1
 
 [Preview]

@@ -33,7 +33,7 @@ TiberiumDeathToVisceroid=yes
 
 [1TNK]
 Image=LTNK
-Name=Scorpion Tank
+Name=Танк Скорпион;Scorpion Tank
 Prerequisite=NODFACTORY,CABHUT
 Primary=65mm
 Elite=65mme
@@ -72,7 +72,7 @@ Nominal=yes
 [BGGY]
 ROT=8
 Cost=1000
-Name=Demolition Drone
+Name=Дрон Бомба;Demolition Drone
 Armor=light
 Image=none
 Owner=NodA
@@ -117,7 +117,7 @@ ThreatPosed=100
 [CNVYWP]
 ROT=8
 Cost=1000
-Name=Bomb Truck
+Name=Бомбовоз;Bomb Truck
 Armor=heavy
 Owner=NodA
 Sight=6
@@ -160,7 +160,7 @@ TechLevel=-1
 [DTRCKTIB]
 ROT=8
 Cost=1350
-Name=Toxin Truck
+Name=Грузовик-бомба;Toxin Truck
 Armor=heavy
 Image=CNVYTB
 Owner=Nod
@@ -321,15 +321,15 @@ LightIntensity=-0.15
 LightVisibility=3500
 
 [NODCITY1]
-Name=Office Buildings
+Name=Офисные Здания;Office Buildings
 Sight=7
 
 [NODCITY2]
-Name=Office Buildings
+Name=Офисные Здания;Office Buildings
 Sight=7
 
 [NODCITY3]
-Name=Office Buildings
+Name=Офисные Здания;Office Buildings
 Sight=7
 
 [NREPAIR]

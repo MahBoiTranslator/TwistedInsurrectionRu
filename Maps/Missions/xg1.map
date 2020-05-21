@@ -32,16 +32,16 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=yes
 
 [BILLDREG]
-Name=Hail to our tiberian future!
+Name=Да здравствует наше Тибериевое Будущее!;Hail to our tiberian future!
 
 [CA0004]
-Name=Train Station
+Name=Вокзал;Train Station
 
 [CIV1]
 Primary=none
 
 [CIV2]
-Name=Cultist
+Name=Культист;Cultist
 
 [CIV3]
 Primary=none

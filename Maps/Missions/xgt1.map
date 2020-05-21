@@ -117,7 +117,7 @@ Primary=none
 Primary=none
 
 [DSHP]
-Name=Chinook
+Name=Чинук;Chinook
 Image=TDTRAN
 Sight=0
 AuxSound1=HELUP01

@@ -32,15 +32,15 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [1TNK]
-Name=Light Tank
+Name=Лёгкий Танк;Light Tank
 TechLevel=3
 
 [2TNK]
-Name=Medium Tank
+Name=Средний Танк;Medium Tank
 TechLevel=3
 
 [4TNK]
-Name=Mammoth Tank
+Name=Танк Мамонт;Mammoth Tank
 TechLevel=7
 BuildLimit=5
 
@@ -64,7 +64,7 @@ TechLevel=11
 UnloadingHarvester=TDHORV
 
 [BGGY]
-Name=Attack Buggy
+Name=Багги;Attack Buggy
 TechLevel=2
 
 [CHAMSPY]
@@ -72,7 +72,7 @@ Strength=60
 TechLevel=11
 
 [COMMGDI]
-Name=Commando
+Name=Коммандо;Commando
 TechLevel=6
 BuildLimit=1
 Prerequisite=GAPILE,GATECH
@@ -127,7 +127,7 @@ TechLevel=3
 
 [ENGINERN]
 Cost=500
-Name=Engineer
+Name=Инженер;Engineer
 Sight=4
 Speed=4
 Strength=50
@@ -235,7 +235,7 @@ Floater=yes
 Elasticity=0.5
 
 [HMVAV]
-Name=Avenger HumVee
+Name=Хамви Мститель;Avenger HumVee
 TechLevel=5
 
 [HOVAPC]
@@ -305,7 +305,7 @@ Prerequisite=CABHUT
 TechLevel=11
 
 [NAPOWR]
-Name=Power Plant
+Name=Энергостанция;Power Plant
 Storage=0
 Explodes=no
 PipScale=none
@@ -380,7 +380,7 @@ TechLevel=11
 TechLevel=11
 
 [RAT20]
-Name=Ratel IFV
+Name=БМП Медоед;Ratel IFV
 TechLevel=3
 
 [REDE]
@@ -428,74 +428,74 @@ CrateGoodie=no
 TechLevel=7
 
 [GAAGT]
-Name=Advanced Guard Tower
+Name=Улучшенная Сторожевая Башня;Advanced Guard Tower
 TechLevel=5
 AIBuildThis=yes
 IsBaseDefense=yes
 
 [TDAPACHE]
 Ammo=5
-Name=Apache
+Name=Апач;Apache
 PipScale=ammo
 TechLevel=5
 
 [TDAPC]
-Name=APC
+Name=БТР;APC
 TechLevel=2
 
 [TDARTY]
-Name=Artillery
+Name=Артиллерия;Artillery
 TechLevel=5
 
 [TDBIKE]
-Name=Recon Bike
+Name=Мотоцикл;Recon Bike
 TechLevel=2
 
 [TDFTNK]
-Name=Flame Tank
+Name=Огнемётный Танк;Flame Tank
 TechLevel=4
 
 [GAGUTO]
-Name=Guard Tower
+Name=Сторожевая Башня;Guard Tower
 TechLevel=2
 AIBuildThis=yes
 IsBaseDefense=yes
 
 [TDHARV]
-Name=Harvester
+Name=Комбайн;Harvester
 TechLevel=2
 
 [TDHORV]
-Name=Unloading Harvester
+Name=Разгружающийся Комбайн;Unloading Harvester
 TechLevel=11
 CrateGoodie=no
 
 [TDJEP]
-Name=HumVee
+Name=Хамви;HumVee
 TechLevel=2
 
 [TDMCV]
-Name=MCV
+Name=Мобильный Строительный Цех;MCV
 TechLevel=7
 CrateGoodie=yes
 DeploysInto=GACNST
 Prerequisite=FACTORY,TECH
 
 [TDMRJ]
-Name=Mobile HQ
+Name=Мобильный Штаб;Mobile HQ
 TechLevel=11
 CrateGoodie=no
 
 [TDMSM]
-Name=MLRS
+Name=РСЗО;MLRS
 TechLevel=5
 
 [TDNTRAN]
-Name=CH-47 Chinook
+Name=Чинук CH-47;CH-47 Chinook
 TechLevel=6
 
 [TDORCA]
-Name=ORCA Fighter
+Name=КОСАТКА Истребитель;ORCA Fighter
 TechLevel=5
 
 [NASAMS]
@@ -503,20 +503,20 @@ TechLevel=5
 AIBuildThis=yes
 
 [TDSSM]
-Name=SSM Launcher
+Name=Установка РЗЗ;SSM Launcher
 TechLevel=7
 BuildLimit=5
 
 [TDSTN]
-Name=Stealth Tank
+Name=Стелс Танк;Stealth Tank
 TechLevel=7
 
 [TDTRAN]
-Name=CH-47 Chinook
+Name=Чинук CH-47;CH-47 Chinook
 TechLevel=6
 
 [NATURR]
-Name=Turret
+Name=Туррель;Turret
 TechLevel=2
 AIBuildThis=yes
 IsBaseDefense=yes

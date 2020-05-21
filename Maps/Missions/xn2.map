@@ -36,7 +36,7 @@ AllyReveal=yes
 
 [BILLTORE]
 Cost=250
-Name=Support Scaffolding
+Name=Вспомогательные Леса;Support Scaffolding
 Armor=wood
 Immune=yes
 Points=5
@@ -96,7 +96,7 @@ Primary=none
 Primary=none
 
 [COMMCENT]
-Name=General Owen's Command Center
+Name=Командный Центр Генерала Оуэна;General Owen's Command Center
 Armor=heavy
 Strength=3000
 Repairable=true
@@ -138,7 +138,7 @@ TechLevel=-1
 SuperWeapon=none
 
 [GASPOT]
-Name=Lighthouse
+Name=Маяк;Lighthouse
 Owner=Neutral
 Nominal=yes
 
@@ -155,7 +155,7 @@ MaxVeinholeGrowth=400
 [KANE]
 Pip=yellow
 Cost=800
-Name=Machinist
+Name=Механик;Machinist
 Armor=none
 Image=ENGINERN
 Owner=Nod
@@ -198,10 +198,10 @@ BuildLimit=9999
 SuperWeapon=none
 
 [NODCITY2]
-Name=Nod Research Building
+Name=Научно-исследовательское Здание Нод;Nod Research Building
 
 [NODCITY3]
-Name=Nod Research Building
+Name=Научно-исследовательское Здание Нод;Nod Research Building
 
 [NASTLH]
 CloakRadiusInCells=16
@@ -209,7 +209,7 @@ CloakRadiusInCells=16
 [OXANNA]
 Pip=white
 Cost=50
-Name=Armed Civilian
+Name=Вооружённый Гражданский;Armed Civilian
 Armor=none
 Owner=GDI,Nod
 Sight=6
@@ -240,7 +240,7 @@ VeteranAbilities=STRONGER,FASTER
 AllowedToStartInMultiplayer=no
 
 [SCAFFOL2]
-Name=Support Scaffolding
+Name=Вспомогательные Леса;Support Scaffolding
 
 [SCRINB]
 BuildLimit=9999
@@ -285,7 +285,7 @@ LightIntensity=0.007
 LightVisibility=2400
 
 [TRACAR]
-Name=Armored Train Wagon
+Name=Бронированный Вагон Поезда;Armored Train Wagon
 Armor=concrete
 Owner=Nod
 Speed=15
@@ -294,7 +294,7 @@ Passengers=0
 Selectable=no
 
 [TRACARGO]
-Name=Armored Train Cargo Wagon
+Name=Бронированный Грузовой Вагон Поезда;Armored Train Cargo Wagon
 Armor=concrete
 Owner=Nod
 Speed=15
@@ -303,7 +303,7 @@ Passengers=0
 Selectable=no
 
 [TRAENG]
-Name=Armored Train Locomotive
+Name=Бронированный Локомотив Поезда;Armored Train Locomotive
 Armor=concrete
 Owner=Nod
 Speed=15
@@ -316,7 +316,7 @@ Name=Trash disposal cart
 [UMAGON]
 Pip=white
 Cost=50
-Name=Armed Civilian
+Name=Вооружённый Гражданский;Armed Civilian
 Armor=none
 Owner=GDI,Nod
 Sight=6

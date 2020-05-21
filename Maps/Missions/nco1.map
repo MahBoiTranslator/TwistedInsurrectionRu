@@ -31,7 +31,7 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=yes
 
 [CA0011]
-Name=Fuel Tank
+Name=Бензовоз;Fuel Tank
 Explodes=yes
 Explosion=AMMOXINI
 MaxDebris=1
@@ -40,7 +40,7 @@ MaxDebris=1
 WoodCrate=HealBase
 
 [DOCRNS]
-Name=Crane
+Name=Кран;Crane
 
 [ENGINERG]
 TechLevel=-1

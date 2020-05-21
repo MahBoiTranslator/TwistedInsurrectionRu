@@ -34,21 +34,21 @@ TiberiumDeathToVisceroid=yes
 999=DUMMYINF
 
 [BBOARD01]
-Name=GlocoTech safe city, for your protection!
+Name=Защищённые города ГлобоТэк для вашей защиты!;GlocoTech safe city, for your protection!
 
 [BBOARD05]
-Name=Enjoy life without tiberium!
+Name=Наслаждайтесь жизнью без тиберия!;Enjoy life without tiberium!
 
 [BBOARD09]
-Name=Enjoy life without tiberium!
+Name=Наслаждайтесь жизнью без тиберия!;Enjoy life without tiberium!
 
 [CA0006]
-Name=Sewage Machinery
+Name=Канализационное Оборудование;Sewage Machinery
 Points=25
 ThreatPosed=60
 
 [CA0007]
-Name=Sewage Machinery
+Name=Канализационное Оборудование;Sewage Machinery
 Points=25
 ThreatPosed=60
 
@@ -66,157 +66,157 @@ LightIntensity=0.4
 LightVisibility=2400
 
 [CITY10]
-Name=Supply Storage
+Name=Хранилище Припасов;Supply Storage
 Points=25
 ThreatPosed=60
 
 [CITY50]
-Name=Apartment Block
+Name=Многоквартирный Дом;Apartment Block
 Points=25
 ThreatPosed=60
 
 [CITY52]
-Name=Apartment Block
+Name=Многоквартирный Дом;Apartment Block
 Points=25
 ThreatPosed=60
 
 [CITY53]
-Name=Apartment Block
+Name=Многоквартирный Дом;Apartment Block
 Points=25
 ThreatPosed=60
 
 [CITY54]
-Name=Apartment Block
+Name=Многоквартирный Дом;Apartment Block
 Points=25
 ThreatPosed=60
 
 [CITY55]
-Name=Apartment Block
+Name=Многоквартирный Дом;Apartment Block
 Points=25
 ThreatPosed=60
 
 [CITY56]
-Name=Apartment Block
+Name=Многоквартирный Дом;Apartment Block
 Points=25
 ThreatPosed=60
 
 [CITY60]
-Name=Apartment Block
+Name=Многоквартирный Дом;Apartment Block
 Points=25
 ThreatPosed=60
 
 [CITY61]
-Name=Apartment Block
+Name=Многоквартирный Дом;Apartment Block
 Points=25
 ThreatPosed=60
 
 [CITY62]
-Name=Apartment Block
+Name=Многоквартирный Дом;Apartment Block
 Points=25
 ThreatPosed=60
 
 [CITY63]
-Name=Apartment Block
+Name=Многоквартирный Дом;Apartment Block
 Points=25
 ThreatPosed=60
 
 [CITY64]
-Name=Apartment Block
+Name=Многоквартирный Дом;Apartment Block
 Points=25
 ThreatPosed=60
 
 [CITY65]
-Name=Apartment Block
+Name=Многоквартирный Дом;Apartment Block
 Points=25
 ThreatPosed=60
 
 [CITY66]
-Name=Apartment Block
+Name=Многоквартирный Дом;Apartment Block
 Points=25
 ThreatPosed=60
 
 [CITY67]
-Name=Apartment Block
+Name=Многоквартирный Дом;Apartment Block
 Points=25
 ThreatPosed=60
 
 [CITY68]
-Name=Apartment Block
+Name=Многоквартирный Дом;Apartment Block
 Points=25
 ThreatPosed=60
 
 [CITY69]
-Name=Apartment Block
+Name=Многоквартирный Дом;Apartment Block
 Points=25
 ThreatPosed=60
 
 [CITY70]
-Name=Apartment Block
+Name=Многоквартирный Дом;Apartment Block
 Points=25
 ThreatPosed=60
 
 [CITY71]
-Name=Apartment Block
+Name=Многоквартирный Дом;Apartment Block
 Points=25
 ThreatPosed=60
 
 [CITY72]
-Name=Apartment Block
+Name=Многоквартирный Дом;Apartment Block
 Points=25
 ThreatPosed=60
 
 [CITY73]
-Name=Apartment Block
+Name=Многоквартирный Дом;Apartment Block
 Points=25
 ThreatPosed=60
 
 [CITY74]
-Name=Apartment Block
+Name=Многоквартирный Дом;Apartment Block
 Points=25
 ThreatPosed=60
 
 [CITY75]
-Name=Apartment Block
+Name=Многоквартирный Дом;Apartment Block
 Points=25
 ThreatPosed=60
 
 [CITY76]
-Name=Shopping Center
+Name=Торгово-Развлекательный Центр;Shopping Center
 Points=25
 ThreatPosed=60
 
 [CITY77]
-Name=Shopping Center
+Name=Торгово-Развлекательный Центр;Shopping Center
 Points=25
 ThreatPosed=60
 
 [CITY78]
-Name=Shopping Center
+Name=Торгово-Развлекательный Центр;Shopping Center
 Points=25
 ThreatPosed=60
 
 [CITY79]
-Name=Shopping Center
+Name=Торгово-Развлекательный Центр;Shopping Center
 Points=25
 ThreatPosed=60
 
 [CITY80]
-Name=Shopping Center
+Name=Торгово-Развлекательный Центр;Shopping Center
 Points=25
 ThreatPosed=60
 
 [CITY81]
-Name=Shopping Center
+Name=Торгово-Развлекательный Центр;Shopping Center
 Points=25
 ThreatPosed=60
 
 [CITY82]
-Name=Shopping Center
+Name=Торгово-Развлекательный Центр;Shopping Center
 Points=25
 ThreatPosed=60
 
 [CITY83]
-Name=Shopping Center
+Name=Торгово-Развлекательный Центр;Shopping Center
 Points=25
 ThreatPosed=60
 
@@ -261,7 +261,7 @@ CollateralDamageCoefficient=0.03
 [DUMMYINF]
 Pip=white
 Cost=10
-Name=Railroad Crossing Blocker Opener
+Name=Стрелка На Железнодрожных Путях;Railroad Crossing Blocker Opener
 Armor=none
 Image=E1
 Owner=GDI,Nod
@@ -312,7 +312,7 @@ Strength=600
 [GTREPAIR]
 ROT=10
 Cost=400
-Name=GloboTech Humvee
+Name=Хамви ГлобоТэк;GloboTech Humvee
 Armor=light
 Elite=HummerGunElite
 Image=GHUM
@@ -356,7 +356,7 @@ Strength=300
 [GTSGO]
 ROT=5
 Cost=1400
-Name=GloboTech Missile Launcher
+Name=Ракетная Установка ГлобоТэк;GloboTech Missile Launcher
 Armor=light
 Image=GTMS
 Owner=GDI,Nod
@@ -452,7 +452,7 @@ Primary=none
 Insignificant=no
 
 [POWGEN]
-Name=Emergency Power Generator
+Name=Экстренный Энергогенератор;Emergency Power Generator
 Power=0
 
 [STBUG]

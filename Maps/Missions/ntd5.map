@@ -33,17 +33,17 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [1TNK]
-Name=Light Tank
+Name=Лёгкий Танк;Light Tank
 TechLevel=3
 
 [2TNK]
-Name=Medium Tank
+Name=Средний Танк;Medium Tank
 TechLevel=3
 
 [4TNK]
 ROT=1
 Cost=1000
-Name=Gunboat
+Name=Канонерка;Gunboat
 Armor=concrete
 Image=TDBOAT
 Owner=GDI
@@ -108,14 +108,14 @@ AllyReveal=yes
 UnloadingHarvester=TDHORV
 
 [BGGY]
-Name=Attack Buggy
+Name=Багги;Attack Buggy
 TechLevel=2
 
 [BILLCRIM]
-Name=How'd you get here?
+Name=Как вы здесь оказались?;How'd you get here?
 
 [CA0011]
-Name=Gas Tank
+Name=Бензовоз;Gas Tank
 Explosion=DEBOOMEX
 
 [CACBTA]
@@ -125,7 +125,7 @@ Powered=no
 Capturable=no
 
 [CHAMSPY]
-Name=Martyr
+Name=Мученик;Martyr
 Agent=no
 Sight=4
 Speed=5
@@ -149,7 +149,7 @@ VoiceFeedback=
 SpecialThreatValue=0
 
 [CITY44]
-Name=Supply Depot
+Name=Склад;Supply Depot
 Armor=wood
 Strength=1000
 BaseNormal=no
@@ -191,11 +191,11 @@ TechLevel=11
 CrateGoodie=no
 
 [E1]
-Name=Minigunner
+Name=Пулемётчик;Minigunner
 Strength=60
 
 [E1NOD]
-Name=Minigunner
+Name=Пулемётчик;Minigunner
 Strength=60
 
 [E2]
@@ -204,7 +204,7 @@ TechLevel=2
 CollateralDamageCoefficient=.23
 
 [E3]
-Name=Rocket Soldier
+Name=Ракетомётчик;Rocket Soldier
 Strength=60
 
 [E4]
@@ -216,7 +216,7 @@ TechLevel=3
 
 [ENGINERN]
 Cost=500
-Name=Engineer
+Name=Инженер;Engineer
 Sight=4
 Speed=4
 Strength=50
@@ -345,7 +345,7 @@ Speed=50
 Projectile=Cannon
 
 [HMVAV]
-Name=Avenger HumVee
+Name=Хамви Мститель;Avenger HumVee
 TechLevel=11
 
 [HOVAPC]
@@ -425,7 +425,7 @@ TechLevel=11
 TechLevel=11
 
 [NAPOWR]
-Name=Power Plant
+Name=Энергостанция;Power Plant
 Storage=0
 Explodes=no
 PipScale=none
@@ -485,7 +485,7 @@ TechLevel=11
 CrateGoodie=no
 
 [NODFLAME]
-Name=Flamethrower Infantry
+Name=Огнемётчик;Flamethrower Infantry
 Strength=70
 TechLevel=3
 CollateralDamageCoefficient=.018
@@ -504,7 +504,7 @@ TechLevel=11
 TechLevel=11
 
 [RAT20]
-Name=Ratel IFV
+Name=БМП Медоед;Ratel IFV
 TechLevel=3
 
 [REAPER]
@@ -516,7 +516,7 @@ CrateGoodie=no
 
 [RLTNK]
 Cost=1600
-Name=A-10 Warthog
+Name=Бородавочник A-10;A-10 Warthog
 Elite=none
 Speed=4
 Primary=none
@@ -568,34 +568,34 @@ CrateGoodie=no
 TechLevel=5
 
 [GAAGT]
-Name=Advanced Guard Tower
+Name=Улучшенная Сторожевая Башня;Advanced Guard Tower
 TechLevel=5
 AIBuildThis=yes
 IsBaseDefense=yes
 
 [TDAPACHE]
 Ammo=5
-Name=Apache
+Name=Апач;Apache
 PipScale=ammo
 TechLevel=5
 
 [TDAPC]
-Name=APC
+Name=БТР;APC
 TechLevel=2
 
 [TDARTY]
-Name=Artillery
+Name=Артиллерия;Artillery
 TechLevel=5
 
 [TDBIKE]
-Name=Recon Bike
+Name=Мотоцикл;Recon Bike
 Sight=6
 TechLevel=2
 
 [TDBOAT]
 ROT=1
 Cost=1000
-Name=Gunboat
+Name=Канонерка;Gunboat
 Armor=concrete
 Owner=GDI
 Sight=10
@@ -639,73 +639,73 @@ DamageParticleSystems=SparkSys,SmallGreySSys
 AllowedToStartInMultiplayer=no
 
 [TDFTNK]
-Name=Flame Tank
+Name=Огнемётный Танк;Flame Tank
 TechLevel=5
 
 [GAGUTO]
-Name=Guard Tower
+Name=Сторожевая Башня;Guard Tower
 TechLevel=2
 AIBuildThis=yes
 IsBaseDefense=yes
 
 [TDHARV]
-Name=Harvester
+Name=Комбайн;Harvester
 TechLevel=2
 
 [TDHORV]
-Name=Unloading Harvester
+Name=Разгружающийся Комбайн;Unloading Harvester
 TechLevel=11
 CrateGoodie=no
 
 [TDJEP]
-Name=HumVee
+Name=Хамви;HumVee
 TechLevel=2
 
 [TDMCV]
-Name=Mobile Construction Vehicle
+Name=Мобильный Строительный Цех;MCV
 TechLevel=7
 CrateGoodie=yes
 DeploysInto=GACNST
 Prerequisite=FACTORY,TECH
 
 [TDMRJ]
-Name=Mobile HQ
+Name=Мобильный Штаб;Mobile HQ
 TechLevel=11
 CrateGoodie=no
 
 [TDMSM]
-Name=MLRS
+Name=РСЗО;MLRS
 TechLevel=5
 
 [TDNTRAN]
-Name=CH-47 Chinook
+Name=Чинук CH-47;CH-47 Chinook
 Sight=0
 TechLevel=6
 
 [TDORCA]
-Name=ORCA Fighter
+Name=КОСАТКА Истребитель;ORCA Fighter
 TechLevel=5
 
 [NASAMS]
-Name=SAM Site
+Name=ПВО;SAM Site
 TechLevel=4
 AIBuildThis=yes
 
 [TDSSM]
-Name=SSM Launcher
+Name=Установка РЗЗ;SSM Launcher
 TechLevel=7
 BuildLimit=5
 
 [TDSTN]
-Name=Stealth Tank
+Name=Стелс Танк;Stealth Tank
 TechLevel=7
 
 [TDTRAN]
-Name=CH-47 Chinook
+Name=Чинук CH-47;CH-47 Chinook
 TechLevel=6
 
 [NATURR]
-Name=Turret
+Name=Туррель;Turret
 TechLevel=5
 AIBuildThis=yes
 IsBaseDefense=yes

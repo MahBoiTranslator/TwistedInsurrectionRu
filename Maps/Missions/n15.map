@@ -37,7 +37,7 @@ Damage=260
 Damage=240
 
 [BBOARD10]
-Name=Hitchhiking forbidden, punishable by death!
+Name=Автостоп запрещён, карается смертью!;Hitchhiking forbidden, punishable by death!
 
 [CACRSH04]
 Immune=yes
@@ -46,7 +46,7 @@ LegalTarget=no
 InvisibleInGame=yes
 
 [CITY45]
-Name=Storage House
+Name=Дом-хранилище;Storage House
 
 [CIV1]
 Primary=none
@@ -66,7 +66,7 @@ Repairable=true
 RadarInvisible=no
 
 [CIVB20]
-Name=Launch Tower Prototype
+Name=Прототип Стартовой Площадки;Launch Tower Prototype
 
 [CIVB21]
 Capturable=true
@@ -82,7 +82,7 @@ RadarInvisible=no
 TechLevel=-1
 
 [DOCRNS]
-Name=Crane
+Name=Кран;Crane
 
 [GADPSA]
 Nominal=yes
@@ -108,7 +108,7 @@ Dock=GAREFN,DPREFN,NAREFN
 ROT=5
 Cost=1500
 Dock=TDPROC,GAREFN,NAREFN,DPREFN
-Name=Harvester
+Name=Комбайн;Harvester
 Armor=heavy
 Image=GHV
 Owner=GDI,Nod
@@ -285,7 +285,7 @@ LightIntensity=0.013
 LightVisibility=2800
 
 [WTRSILOB]
-Name=Chemical Silo
+Name=Хранилище Химикатов;Chemical Silo
 
 [Preview]
 Size=0,0,200,110

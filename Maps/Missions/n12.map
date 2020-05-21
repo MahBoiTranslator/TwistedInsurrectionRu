@@ -170,15 +170,15 @@ LightIntensity=-0.15
 LightVisibility=3500
 
 [NODCITY1]
-Name=Office Buildings
+Name=Офисные Здания;Office Buildings
 Sight=7
 
 [NODCITY2]
-Name=Office Buildings
+Name=Офисные Здания;Office Buildings
 Sight=7
 
 [NODCITY3]
-Name=Office Buildings
+Name=Офисные Здания;Office Buildings
 Sight=7
 
 [Normal]

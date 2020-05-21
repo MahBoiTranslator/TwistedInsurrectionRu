@@ -34,13 +34,13 @@ TiberiumDeathToVisceroid=yes
 TechLevel=-1
 
 [BBOARD03]
-Name=Speedboat races sponsored by GloboTech!
+Name=Гонки на скоростных катерах спонсированы ГлобоТэк;Speedboat races sponsored by GloboTech!
 
 [BBOARD10]
-Name=Come cheer 'Kaneboat' to victory!
+Name=Приходите поболеть за победу 'Кейнолодки';Come cheer 'Kaneboat' to victory!
 
 [BBOARD14]
-Name=Don't miss the annual speedboat race!
+Name=Не пропустите ежегодную гонку на скоростных катерах;Don't miss the annual speedboat race!
 
 [BEHEMOTH]
 TechLevel=11
@@ -126,7 +126,7 @@ Prerequisite=GAPULS
 [GHOST]
 C4=no
 Cost=3000
-Name=Commando
+Name=Коммандо;Commando
 TechLevel=-1
 Infiltrate=no
 
@@ -146,12 +146,12 @@ Power=750
 Dock=GLOAIR
 
 [GTUNI1]
-Name=GloboTech Recearch Laboratory
+Name=Научно-исследовательская Лаборатория ГлобоТэк;GloboTech Recearch Laboratory
 Repairable=true
 LegalTarget=no
 
 [GTUNI2]
-Name=GloboTech Recearch Laboratory
+Name=Научно-исследовательская Лаборатория ГлобоТэк;GloboTech Recearch Laboratory
 Repairable=true
 LegalTarget=no
 
@@ -235,7 +235,7 @@ TechLevel=-1
 TechLevel=-1
 
 [MEGAGLOB]
-Name=GloboTech Recearch Laboratory
+Name=Научно-исследовательская Лаборатория ГлобоТэк;GloboTech Recearch Laboratory
 Repairable=true
 LegalTarget=no
 

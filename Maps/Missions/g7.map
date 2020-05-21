@@ -397,7 +397,7 @@ Capturable=false
 Repairable=false
 
 [CITY44]
-Name=Warehouse
+Name=Склад;Warehouse
 Capturable=false
 Repairable=false
 
@@ -769,7 +769,7 @@ Nominal=yes
 LegalTarget=no
 
 [RLTNK]
-Name=Railgun Tank Prototype
+Name=Прототип Рельсотрона;Railgun Tank Prototype
 Image=RLTNKP
 TechLevel=-1
 

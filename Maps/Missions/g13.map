@@ -34,7 +34,7 @@ TiberiumDeathToVisceroid=yes
 [APACHE]
 ROT=5
 Cost=1000
-Name=Orca Dropship
+Name=КОСАТКА Десантный Корбаль;Orca Dropship
 Armor=heavy
 Image=DSHP
 Owner=GDI
@@ -77,70 +77,70 @@ Repairable=true
 Insignificant=no
 
 [CA0001]
-Name=Research Center
+Name=Научно-исследовательский Центр;Research Center
 Repairable=true
 Insignificant=no
 
 [CA0002]
-Name=Research Building
+Name=Исследовательское Здание;Research Building
 Repairable=true
 Insignificant=no
 
 [CA0003]
-Name=Research Building
+Name=Исследовательское Здание;Research Building
 Repairable=true
 Insignificant=no
 
 [CA0004]
-Name=Research Building
+Name=Исследовательское Здание;Research Building
 Repairable=true
 Insignificant=no
 
 [CA0005]
-Name=Supply Storage
+Name=Хранилище Припасов;Supply Storage
 Insignificant=no
 
 [CA0006]
-Name=Sample Storage
+Name=Хранилище Образцов;Sample Storage
 Insignificant=no
 
 [CA0007]
-Name=Field Generator
+Name=Генератор Поля;Field Generator
 Insignificant=no
 
 [CA0008]
-Name=Subterranean Laboratory
+Name=Подземная Лаборатория;Subterranean Laboratory
 Repairable=true
 Insignificant=no
 
 [CA0009]
-Name=Subterranean Laboratory
+Name=Подземная Лаборатория;Subterranean Laboratory
 Repairable=true
 Insignificant=no
 
 [CA0010]
-Name=Research Laboratory
+Name=Научно-исследовательская Лаборатория;Research Laboratory
 Repairable=true
 Insignificant=no
 
 [CA0011]
-Name=Chemical Tank
+Name=Химический Танк;Chemical Tank
 Insignificant=no
 
 [CA0012]
-Name=Cages
+Name=Клеки;Cages
 Insignificant=no
 
 [CA0013]
-Name=Refining Machinery
+Name=Перерабатывающее Оборудовние;Refining Machinery
 Insignificant=no
 
 [CA0015]
-Name=Portable Building
+Name=Перемещаемое Здание;Portable Building
 Insignificant=no
 
 [CA0016]
-Name=Portable Building
+Name=Перемещаемое Здание;Portable Building
 Insignificant=no
 
 [CAARAY]
@@ -181,27 +181,27 @@ Insignificant=yes
 Insignificant=yes
 
 [CITY33]
-Name=GloboTech Offices
+Name=Офисы ГлобоТэк;GloboTech Offices
 Repairable=true
 Insignificant=no
 
 [SCIENCE1]
-Name=Researcher
+Name=Учёный;Researcher
 
 [SCIENCE2]
-Name=Researcher
+Name=Учёный;Researcher
 
 [SCIENCE3]
-Name=Researcher
+Name=Учёный;Researcher
 
 [SCIENCE4]
-Name=Researcher
+Name=Учёный;Researcher
 
 [SCIENCE5]
-Name=Researcher
+Name=Учёный;Researcher
 
 [SCIENCE6]
-Name=Researcher
+Name=Учёный;Researcher
 
 [CIVWPP]
 Repairable=true
@@ -212,7 +212,7 @@ Strength=999999
 
 [CYBORG]
 Cost=2500
-Name=East Armor Support
+Name=Западная Бронетанковая Поддержка;East Armor Support
 Image=DSHP
 Sight=0
 Selectable=no
@@ -223,7 +223,7 @@ InvisibleInGame=yes
 
 [CYCCANN]
 Cost=2500
-Name=West Armor Support
+Name=Восточная Бронетанковая Поддержка;West Armor Support
 Image=DSHP
 Sight=0
 Selectable=no
@@ -405,7 +405,7 @@ Insignificant=yes
 
 [ROCK003]
 Cost=1250
-Name=Hall of Faith
+Name=Зал Веры;Hall of Faith
 Armor=light
 Owner=NodA,Nod
 Power=0
@@ -464,7 +464,7 @@ LightIntensity=0.02
 LightVisibility=3000
 
 [TRATOS]
-Name=Scientist
+Name=Учёный;Scientist
 
 [TestUnitWeapon]
 ROF=30

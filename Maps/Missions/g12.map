@@ -37,7 +37,7 @@ Damage=60
 [2TNK]
 ROT=10
 Cost=400
-Name=Dragonfly Hovvee
+Name=Стрекоза Ховви;Dragonfly Hovvee
 Armor=light
 Elite=HovRocketElite
 Image=Hovve
@@ -74,13 +74,13 @@ TooBigToFitUnderBridge=true
 AllowedToStartInMultiplayer=no
 
 [BBOARD01]
-Name=GloboTech: We care
+Name=ГлобоТэк: Нам не всё равно;GloboTech: We care
 
 [BEHEMOTH]
 TechLevel=11
 
 [COMMGDI]
-Name=Commando
+Name=Коммандо;Commando
 TechLevel=7
 BuildLimit=1
 Prerequisite=BARRACKS,TECH

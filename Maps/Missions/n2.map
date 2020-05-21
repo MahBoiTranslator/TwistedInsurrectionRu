@@ -32,17 +32,17 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [1TNK]
-Name='M2 Bradley' Light Tank
+Name=Лёгкий Танк 'M2 Бредли';'M2 Bradley' Light Tank
 Strength=300
 
 [2TNK]
-Name='M1A1 Abrams' Medium Tank
+Name=Средний Танк 'M1A1 Абрамс';'M1A1 Abrams' Medium Tank
 
 [4TNK]
-Name='X-66' Mammoth Tank
+Name=Танк Мамонт 'X-66';'X-66' Mammoth Tank
 
 [BGGY]
-Name=Attack Buggy
+Name=Багги;Attack Buggy
 
 [BUILDT02]
 Sight=4
@@ -146,7 +146,7 @@ Insignificant=no
 [HOVVE]
 ROT=10
 Cost=400
-Name=General Owen's Hum-vee
+Name=Хамви Генерала Оуэна;General Owen's Hum-vee
 Armor=light
 Elite=none
 Image=HUMVGEN
@@ -253,35 +253,35 @@ Range=6
 Damage=200
 
 [TDAPC]
-Name='M113' APC
+Name=БТР 'M113';'M113' APC
 
 [TDARTY]
-Name='M110' Mobile Artillery
+Name=Мобильная Артиллерия 'M110';'M110' Mobile Artillery
 
 [TDBIKE]
-Name=Recon Bike
+Name=Мотоцикл;Recon Bike
 
 [TDFTNK]
-Name='Pyradon' Flame Tank
+Name=Огнемётный Танк 'Пирадон';'Pyradon' Flame Tank
 
 [TDHARV]
-Name=Harvester
+Name=Комбайн;Harvester
 
 [TDHORV]
-Name=Harvester (Unloading)
+Name=Комбайн (Загружается);Harvester (Unloading)
 
 [TDJEP]
-Name=Humvee
+Name=Хамви;Humvee
 Speed=3
 
 [TDMCV]
-Name=M.C.V
+Name=Мобильный Строительный Цех;M.C.V
 
 [TDMRJ]
-Name=Mobile HQ
+Name=Мобильный Штаб;Mobile HQ
 
 [TDMSM]
-Name='M270' MLRS
+Name=РСЗО 'M270';'M270' MLRS
 Primary=227mmMissile
 Secondary=227mmMissile
 
@@ -295,7 +295,7 @@ LightVisibility=2100
 [TRUCK5]
 ROT=5
 Cost=500
-Name=Truck
+Name=Грузовик;Truck
 Armor=light
 Image=TRUCK18W
 Owner=GDI,Nod

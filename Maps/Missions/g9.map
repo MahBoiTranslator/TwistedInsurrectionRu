@@ -298,7 +298,7 @@ TechLevel=-1
 [MMKII]
 ROT=5
 Cost=900
-Name=Testing Unit
+Name=Тестовый Юнит;Testing Unit
 Armor=heavy
 Elite=TestUnitWeapon
 Owner=GDIA

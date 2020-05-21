@@ -204,10 +204,10 @@ Passengers=0
 Passengers=0
 
 [CIVCOP5]
-Name=Colonel Owen
+Name=Полковник Оуэн;Colonel Owen
 
 [CIVGANG1]
-Name=GloboTech Representative
+Name=Представитель ГлобоТэк;GloboTech Representative
 Primary=none
 Fraidycat=no
 

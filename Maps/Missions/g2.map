@@ -32,13 +32,13 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [1TNK]
-Name='M2 Bradley' Light Tank
+Name=Лёгкий Танк 'M2 Бредли';'M2 Bradley' Light Tank
 
 [2TNK]
-Name='M1A1 Abrams' Medium Tank
+Name=Средний Танк 'M1A1 Абрамс';'M1A1 Abrams' Medium Tank
 
 [4TNK]
-Name='X-66' Mammoth Tank
+Name=Танк Мамонт 'X-66';'X-66' Mammoth Tank
 
 [APC]
 Locomotor={4A582741-9839-11d1-B709-00A024DDAFD1}
@@ -49,7 +49,7 @@ MovementZone=Destroyer
 UnloadingHarvester=TDHORV
 
 [BGGY]
-Name=Attack Buggy
+Name=Багги;Attack Buggy
 
 [BUILDT02]
 Sight=4
@@ -118,7 +118,7 @@ Elasticity=0.5
 [HOVVE]
 ROT=10
 Cost=400
-Name=General Owen's Hum-vee
+Name=Хамви Генерала Оуэна;General Owen's Hum-vee
 Armor=light
 Elite=none
 Image=HUMVGEN

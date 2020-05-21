@@ -47,7 +47,7 @@ LegalTarget=no
 InvisibleInGame=yes
 
 [DSHP]
-Name=Chinook
+Name=Чинук;Chinook
 Image=TDNTRAN
 AuxSound1=HELUP01
 AuxSound2=HELDWN01
@@ -105,13 +105,13 @@ Prerequisite=NAHAND
 CollateralDamageCoefficient=.04
 
 [GAAGT]
-Name=Advanced Guard Tower
+Name=Улучшенная Сторожевая Башня;Advanced Guard Tower
 
 [GAGUTO]
-Name=Guard Tower
+Name=Сторожевая Башня;Guard Tower
 
 [NATURR]
-Name=Turret
+Name=Туррель;Turret
 
 [Preview]
 Size=0,0,120,60

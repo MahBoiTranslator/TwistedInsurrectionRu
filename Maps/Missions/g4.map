@@ -146,19 +146,19 @@ Repairable=false
 Insignificant=no
 
 [CA0011]
-Name=Tiberium Storage Tank
+Name=Тибериевая Цистерна;Tiberium Storage Tank
 Capturable=false
 Repairable=false
 Insignificant=no
 
 [CA0012]
-Name=Field Laboratory
+Name=Полевая Лаборатория;Field Laboratory
 Capturable=false
 Repairable=false
 Insignificant=no
 
 [CA0013]
-Name=Tiberium Purifier
+Name=Тибериевый Очиститель;Tiberium Purifier
 Capturable=false
 Repairable=false
 Insignificant=no
@@ -641,7 +641,7 @@ Repairable=false
 Insignificant=no
 
 [DSHP]
-Name=Chinook
+Name=Чинук;Chinook
 Image=TDTRAN
 Sight=0
 AuxSound1=HELUP01
@@ -865,7 +865,7 @@ Damage=600
 Speed=6
 
 [TDTRAN]
-Name=Downed Chinook
+Name=Сбитый Чинук;Downed Chinook
 Speed=0
 Nominal=yes
 
@@ -884,7 +884,7 @@ LightIntensity=0.02
 LightVisibility=2200
 
 [TRATOS]
-Name=Scientist
+Name=Учёный;Scientist
 
 [VISC_LRG]
 Armor=heavy
@@ -894,7 +894,7 @@ Strength=1400
 Strength=1200
 
 [WAREZ]
-Name=Hangar
+Name=Ангар;Hangar
 Capturable=false
 Repairable=false
 Insignificant=no

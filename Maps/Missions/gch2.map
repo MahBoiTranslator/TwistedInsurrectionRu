@@ -205,7 +205,7 @@ Strength=1000
 Repairable=no
 
 [NASHRN]
-Name=Control Center
+Name=Центр Управления;Control Center
 LightRedTint=0.5
 LightBlueTint=0.01
 LightGreenTint=0.01

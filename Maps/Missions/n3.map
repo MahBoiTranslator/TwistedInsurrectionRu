@@ -32,16 +32,16 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=yes
 
 [1TNK]
-Name='M2 Bradley' Light Tank
+Name=Лёгкий Танк 'M2 Бредли';'M2 Bradley' Light Tank
 Strength=300
 
 [2TNK]
 Cost=800
-Name='M1A1 Abrams' Medium Tank
+Name=Средний Танк 'M1A1 Абрамс';'M1A1 Abrams' Medium Tank
 TechLevel=11
 
 [4TNK]
-Name='X-66' Mammoth Tank
+Name=Танк Мамонт 'X-66';'X-66' Mammoth Tank
 Speed=3
 
 [AI]
@@ -51,7 +51,7 @@ BuildWeapons=GAWEAP,CITY41
 UnloadingHarvester=TDHORV
 
 [BGGY]
-Name=Attack Buggy
+Name=Багги;Attack Buggy
 
 [BUILDT02]
 Sight=4
@@ -77,7 +77,7 @@ Nominal=no
 [CITY41]
 Bib=yes
 Cost=2000
-Name=Fist of Nod
+Name=Кулак Нод;Fist of Nod
 Armor=heavy
 Owner=Nod
 Power=0
@@ -126,7 +126,7 @@ Cost=1.0
 [FTNK]
 ROT=8
 Cost=600
-Name=Scorpion Tank
+Name=Танк Скорпион;Scorpion Tank
 Armor=light
 Elite=65mme
 Image=LTNK
@@ -196,7 +196,7 @@ VeteranAbilities=FASTER
 
 [GOLIA]
 Cost=800
-Name=Medium Tank M1A1
+Name=Средний Танк M1A1;Medium Tank M1A1
 Elite=105mme
 Image=2TNK
 Sight=5
@@ -275,7 +275,7 @@ TechLevel=11
 
 [HOVVE]
 Cost=600
-Name=TOW Humvee
+Name=Противотанковый Хамви;TOW Humvee
 Armor=light
 Elite=HovRocketElite
 Image=HUMV
@@ -316,7 +316,7 @@ TooBigToFitUnderBridge=true
 [HOWITZ]
 ROT=10
 Cost=300
-Name=Attack Buggy
+Name=Багги;Attack Buggy
 Armor=light
 Elite=RaiderCannonElite
 Image=BGGY
@@ -439,7 +439,7 @@ CollateralDamageCoefficient=.04
 ROT=6
 Cost=1200
 Dock=NAREFN,DPREFN,GAREFN
-Name=Harvester
+Name=Комбайн;Harvester
 Armor=heavy
 Image=TDHARV
 Owner=Nod
@@ -492,48 +492,48 @@ AllowedToStartInMultiplayer=no
 TechLevel=11
 
 [GAAGT]
-Name=Advanced Guard Tower
+Name=Улучшенная Сторожевая Башня;Advanced Guard Tower
 
 [TDAPC]
 Cost=600
-Name='M113' APC
+Name=БТР 'M113';'M113' APC
 TechLevel=4
 Prerequisite=GDIFACTORY,GAPILE
 
 [TDARTY]
-Name='M110' Mobile Artillery
+Name=Мобильная Артиллерия 'M110';'M110' Mobile Artillery
 
 [TDBIKE]
-Name=Recon Bike
+Name=Мотоцикл;Recon Bike
 
 [TDFTNK]
-Name='Pyradon' Flame Tank
+Name=Огнемётный Танк 'Пирадон';'Pyradon' Flame Tank
 
 [GAGUTO]
-Name=Guard Tower
+Name=Сторожевая Башня;Guard Tower
 TechLevel=2
 AIBuildThis=yes
 IsBaseDefense=yes
 
 [TDHARV]
-Name=Harvester
+Name=Комбайн;Harvester
 
 [TDHORV]
-Name=Harvester (Unloading)
+Name=Комбайн (Загружается);Harvester (Unloading)
 
 [TDJEP]
-Name=Humvee
+Name=Хамви;Humvee
 Speed=6
 TechLevel=11
 
 [TDMCV]
-Name=M.C.V
+Name=Мобильный Строительный Цех;M.C.V
 
 [TDMRJ]
-Name=Mobile HQ
+Name=Мобильный Штаб;Mobile HQ
 
 [TDMSM]
-Name='M270' MLRS
+Name=РСЗО 'M270';'M270' MLRS
 Primary=227mmMissile
 Secondary=227mmMissile
 
@@ -546,7 +546,7 @@ LegalTarget=false
 RadarInvisible=yes
 
 [NATURR]
-Name=Turret
+Name=Туррель;Turret
 
 [TIBSPRAYER]
 Damage=300

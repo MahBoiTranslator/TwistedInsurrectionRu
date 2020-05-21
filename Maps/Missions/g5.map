@@ -33,7 +33,7 @@ TiberiumDeathToVisceroid=yes
 
 [1TNK]
 Image=LTNK
-Name=Scorpion Tank
+Name=Танк Скорпион;Scorpion Tank
 Prerequisite=NODFACTORY,CABHUT
 Primary=65mm
 Elite=65mme
@@ -181,7 +181,7 @@ LightIntensity=0.02
 LightVisibility=2200
 
 [WAREZ]
-Name=Hangar
+Name=Ангар;Hangar
 
 [Preview]
 

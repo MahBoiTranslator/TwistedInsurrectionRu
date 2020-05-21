@@ -31,7 +31,7 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=yes
 
 [BGGY]
-Name=Attack Buggy
+Name=Багги;Attack Buggy
 
 [CACRSH04]
 Selectable=no
@@ -39,7 +39,7 @@ LegalTarget=no
 InvisibleInGame=yes
 
 [CNVYWP]
-Name=Chinook
+Name=Чинук;Chinook
 Image=TDNTRAN
 Speed=40
 
@@ -127,7 +127,7 @@ Primary=none
 SuperWeapon=none
 
 [RAT20]
-Name=Ratel IFV
+Name=БМП Медоед;Ratel IFV
 
 [TBATT]
 Power=5
@@ -136,7 +136,7 @@ Power=5
 Power=5
 
 [TDFTNK]
-Name='Pyradon' Flame Tank
+Name=Огнемётный Танк 'Пирадон';'Pyradon' Flame Tank
 VeteranAbilities=FASTER,STRONGER,SELF_HEAL
 
 [TIBSPRDC]

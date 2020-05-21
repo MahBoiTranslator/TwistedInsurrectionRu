@@ -145,7 +145,7 @@ Power=5
 Power=5
 
 [TDFTNK]
-Name='Pyradon' Flame Tank
+Name=Огнемётный Танк 'Пирадон';'Pyradon' Flame Tank
 VeteranAbilities=FASTER,STRONGER,SELF_HEAL
 
 [TIBSPRDC]

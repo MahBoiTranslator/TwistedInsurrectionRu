@@ -56,7 +56,7 @@ BridgeExplosions=INVISO
 UnloadingHarvester=TDHORV
 
 [BBOARD10]
-Name=Bridge out of order!
+Name=Мост вышел из строя;Bridge out of order!
 
 [CACRSH04]
 Selectable=no
@@ -177,7 +177,7 @@ DeaccelerationFactor=0
 [HOVVE]
 ROT=10
 Cost=400
-Name=General Shephard's Humvee
+Name=Хамви Генерала Шеппарда;General Shephard's Humvee
 Armor=light
 Elite=none
 Image=HUMVGEN

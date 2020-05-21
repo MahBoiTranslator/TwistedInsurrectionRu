@@ -33,7 +33,7 @@ TiberiumDeathToVisceroid=yes
 
 [1TNK]
 Image=LTNK
-Name=Scorpion Tank
+Name=Танк Скорпион;Scorpion Tank
 Prerequisite=NODFACTORY,CABHUT
 Primary=65mm
 Elite=65mme
@@ -75,7 +75,7 @@ AllyReveal=yes
 [BILLTORE]
 Image=DUMIMP
 Cost=250
-Name=Support Scaffolding
+Name=Опорные Леса;Support Scaffolding
 Armor=wood
 Immune=yes
 Points=5
@@ -179,7 +179,7 @@ TechLevel=-1
 SuperWeapon=none
 
 [GASPOT]
-Name=Lighthouse
+Name=Маяк;Lighthouse
 Owner=Neutral
 Nominal=yes
 
@@ -190,7 +190,7 @@ TechLevel=-1
 Nominal=yes
 
 [GTCIVHO]
-Name=GloboTech Tiberium Storage
+Name=Хранилище Тиберия ГлобоТэк;GloboTech Tiberium Storage
 
 [General]
 TunnelSpeed=1
@@ -282,15 +282,15 @@ CloakRadiusInCells=20
 Nominal=yes
 
 [NODCITY2]
-Name=Nod Research Building
+Name=Научно-исследовательское Здание Нод;Nod Research Building
 
 [NODCITY3]
-Name=Nod Research Building
+Name=Научно-исследовательское Здание Нод;Nod Research Building
 
 [OXANNA]
 Pip=white
 Cost=50
-Name=Armed Civilian
+Name=Вооружённый Гражданский;Armed Civilian
 Armor=none
 Owner=GDI,Nod
 Sight=6
@@ -321,7 +321,7 @@ VeteranAbilities=STRONGER,FASTER
 AllowedToStartInMultiplayer=no
 
 [SCAFFOL2]
-Name=Support Scaffolding
+Name=Вспомогательные Леса;Support Scaffolding
 Immune=yes
 
 [SCRINB]
@@ -352,7 +352,7 @@ LightVisibility=2300
 [UMAGON]
 Pip=white
 Cost=50
-Name=Armed Civilian
+Name=Вооружённый Гражданский;Armed Civilian
 Armor=none
 Owner=GDI,Nod
 Sight=6

@@ -31,14 +31,14 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [1TNK]
-Name='M2 Bradley' Light Tank
+Name=Лёгкий Танк 'M2 Бредли';'M2 Bradley' Light Tank
 Strength=300
 
 [2TNK]
-Name='M1A1 Abrams' Medium Tank
+Name=Средний Танк 'M1A1 Абрамс';'M1A1 Abrams' Medium Tank
 
 [4TNK]
-Name='X-66' Mammoth Tank
+Name=Танк Мамонт 'X-66';'X-66' Mammoth Tank
 
 [90mmArtyIntro]
 ROF=120
@@ -95,10 +95,10 @@ MinimumRange=3
 [AircraftTypes]
 
 [BBOARD03]
-Name=See Tampere Illuminations, opening next Sunday!
+Name=Наблюдайте иллюминацию Тампере, открывается в следующее Воскресенье!;See Tampere Illuminations, opening next Sunday!
 
 [BGGY]
-Name=Attack Buggy
+Name=Багги;Attack Buggy
 
 [BUILDT02]
 Sight=4
@@ -356,7 +356,7 @@ Nominal=no
 Insignificant=no
 
 [GTFUS]
-Name=Globotech Power Plant
+Name=Энергостарнция ГлобоТэк;Globotech Power Plant
 Power=1000
 Nominal=no
 Capturable=no

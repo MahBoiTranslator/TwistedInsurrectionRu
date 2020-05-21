@@ -85,7 +85,7 @@ TechLevel=2
 
 [ENGINERN]
 Cost=500
-Name=Engineer
+Name=Инженер;Engineer
 Sight=4
 Speed=4
 Strength=50
@@ -169,7 +169,7 @@ AuxSound2=DUMMY
 TechLevel=11
 
 [TDMCV]
-Name=MCV
+Name=Мобильный Стоительный Цэх;MCV
 DeploysInto=GACNST
 
 [NATURR]

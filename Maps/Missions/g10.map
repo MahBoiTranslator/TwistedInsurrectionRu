@@ -32,7 +32,7 @@ TiberiumDeathToVisceroid=yes
 
 [1TNK]
 Image=LTNK
-Name=Scorpion Tank
+Name=Танк Скорпион;Scorpion Tank
 Prerequisite=NODFACTORY,CABHUT
 Primary=65mm
 Elite=65mme
@@ -70,7 +70,7 @@ Nominal=yes
 
 [2TNK]
 Image=LTNK
-Name=Scorpion Tank
+Name=Танк Скорпион;Scorpion Tank
 Prerequisite=NODFACTORY,CABHUT
 Primary=65mm
 Elite=65mme

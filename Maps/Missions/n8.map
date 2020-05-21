@@ -98,22 +98,22 @@ TiberiumDeathToVisceroid=yes
 01000216=1,80,1,01000213,0,0,0,0,BC
 
 [BILLGDI]
-Name=Stop! Out of use
+Name=Стойте! Опасно;Stop! Out of use
 
 [CA0005]
-Name=Barracks
+Name=Казармы;Barracks
 
 [CA0006]
-Name=Temp Labs
+Name=Временные Лаборатории;Temp Labs
 
 [CA0010]
-Name=Canteen
+Name=Военный Торговый Магазин;Canteen
 
 [CIVB19]
-Name=Heavy Weapons Factory
+Name=Тяжёлый Военный Завод;Heavy Weapons Factory
 
 [CIVB22]
-Name=Light Weapons Factory
+Name=Лёгкий Военный Завол;Light Weapons Factory
 
 [CrateRules]
 WoodCrate=HealBase
@@ -197,10 +197,10 @@ Capturable=yes
 Insignificant=yes
 
 [GDIBILLB]
-Name=Stop! Bridge out!
+Name=Стойте! Мост разрушен!;Stop! Bridge out!
 
 [GTCIVHO]
-Name=GloboTech Personnel Accomodations
+Name=Жилые Помещения Персонала ГлобоТэк;GloboTech Personnel Accomodations
 
 [NARADR]
 SuperWeapon=none
@@ -216,7 +216,7 @@ LightIntensity=0.05
 LightVisibility=4000
 
 [POWGEN]
-Name=Power Relay
+Name=Реле;Power Relay
 Armor=Light
 Strength=200
 

@@ -224,15 +224,15 @@ LightVisibility=3500
 TechLevel=-1
 
 [NODCITY1]
-Name=Office Buildings
+Name=ќфисное «дание;Office Buildings
 Sight=7
 
 [NODCITY2]
-Name=Office Buildings
+Name=ќфисное «дание;Office Buildings
 Sight=7
 
 [NODCITY3]
-Name=Office Buildings
+Name=ќфисное «дание;Office Buildings
 Sight=7
 
 [NODFLAME]
@@ -240,7 +240,7 @@ TechLevel=-1
 CollateralDamageCoefficient=.04
 
 [SCAFFOL2]
-Name=Support Scaffolding
+Name=ќпорные Ћеса;Support Scaffolding
 
 [SCORPION]
 Speed=4

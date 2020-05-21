@@ -88,7 +88,7 @@ VeteranAbilities=FASTER
 
 [GOLIA]
 Cost=800
-Name=Medium Tank M1A1
+Name=Средний Танк M1A1;Medium Tank M1A1
 Elite=105mme
 Image=2TNK
 Sight=5
@@ -127,7 +127,7 @@ Elasticity=0.5
 
 [HTNK]
 Cost=600
-Name=Light Tank
+Name=Лёгкий Танк;Light Tank
 Armor=light
 Elite=55mm
 Image=1TNK
@@ -159,7 +159,7 @@ TechLevel=11
 [LTNK]
 ROT=5
 Cost=500
-Name=Recon Bike
+Name=Мотоцикл;Recon Bike
 Elite=HovRocket
 Image=TDBIKE
 Sight=7
@@ -223,7 +223,7 @@ Prerequisite=GAWEAP
 [TDJEP]
 ROT=10
 Cost=400
-Name=General Shephard's Humvee
+Name=Хамви Генерала Шеппарда;General Shephard's Humvee
 Armor=light
 Elite=none
 Image=HUMVGEN
@@ -273,7 +273,7 @@ Particle=GasCloudSys
 
 [VIPER]
 Cost=300
-Name=Attack Buggy
+Name=Мотоцикл;Attack Buggy
 Elite=RaiderCannonElite
 Image=BGGY
 Sight=7

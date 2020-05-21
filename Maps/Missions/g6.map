@@ -31,14 +31,14 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=yes
 
 [BILLDREG]
-Name=All hail our Tiberian Future!
+Name=Да здравствует наше Тибериевое Будущее!;All hail our Tiberian Future!
 Armor=concrete
 Strength=800
 BaseNormal=yes
 Insignificant=no
 
 [CA0014]
-Name=Bridge Traffic Control
+Name=Контрольно-Пропускной Пункт;Bridge Traffic Control
 Nominal=yes
 Capturable=yes
 Insignificant=no

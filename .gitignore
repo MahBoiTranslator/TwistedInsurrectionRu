@@ -1,29 +1,32 @@
 # Если добавляется файл в репозиторий, то необходимо его сюда добавить, т.к. иначе он будет игнорироваться СУВ
 
 # Корень папки
+*
 !.gitignore
 !README.md
 !readmeRU.txt
-*
 
 # Инишники
+INI/*
 !INI/Battle.ini
 !INI/BattleE.ini
 !INI/LangFS.ini
 !INI/MPMaps.ini
 !INI/Tutorial.ini
-INI/*
 
 # Миксы
-!MIX/echache98.mix
 MIX/*
+!MIX/echache98.mix
 
 # Ресурсы
+Resources/*
 !Resources/CampaignSelector.ini
 !Resources/CheaterScreen.ini
 !Resources/ClientDefinitions.ini
 !Resources/CnCNetGameLobby.ini
 !Resources/CnCNetLobby.ini
+!Resources/GameCreationWindow.ini
+!Resources/GameCreationWindow_Advanced.ini
 !Resources/GameInProgressWindow.ini
 !Resources/GameLoadingLobbyBase.ini
 !Resources/GameLoadingWindow.ini
@@ -51,10 +54,10 @@ MIX/*
 !Resources/PasswordRequestWindow.ini
 !Resources/PrivateMessageNotificationBox.ini
 !Resources/PrivateMessagingWindow.ini
+# Темы
 !Resources/GTTheme/MainMenu.ini
 !Resources/NodTheme/MainMenu.ini
 !Resources/GDITheme/MainMenu.ini
-Resources/*
 
 # Всё остальное
 Client/*

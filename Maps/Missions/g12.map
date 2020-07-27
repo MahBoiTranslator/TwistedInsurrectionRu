@@ -80,7 +80,7 @@ Name=ГлобоТэк: Нам не всё равно;GloboTech: We care
 TechLevel=11
 
 [COMMGDI]
-Name=Коммандо;Commando
+Name=Командос;Commando
 TechLevel=7
 BuildLimit=1
 Prerequisite=BARRACKS,TECH

@@ -77,7 +77,7 @@ Strength=60
 TechLevel=11
 
 [COMMGDI]
-Name=Коммандо;Commando
+Name=Командос;Commando
 TechLevel=6
 BuildLimit=1
 Prerequisite=GAPILE,GATECH

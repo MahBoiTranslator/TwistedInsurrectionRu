@@ -118,7 +118,7 @@ Speed=3
 Insignificant=no
 
 [COMMGDI]
-Name=Коммандо;Commando
+Name=Командос;Commando
 TechLevel=6
 BuildLimit=1
 Prerequisite=GAPILE,GATECH

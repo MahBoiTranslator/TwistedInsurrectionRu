@@ -126,7 +126,7 @@ Prerequisite=GAPULS
 [GHOST]
 C4=no
 Cost=3000
-Name=Коммандо;Commando
+Name=Командос;Commando
 TechLevel=-1
 Infiltrate=no
 

@@ -275,7 +275,7 @@ TechLevel=11
 
 [HOVVE]
 Cost=600
-Name=Противотанковый Хамви;TOW Humvee
+Name=Противотанковый Хаммер;TOW Humvee
 Armor=light
 Elite=HovRocketElite
 Image=HUMV
@@ -522,7 +522,7 @@ Name=Комбайн;Harvester
 Name=Комбайн (Загружается);Harvester (Unloading)
 
 [TDJEP]
-Name=Хамви;Humvee
+Name=Хаммер;Humvee
 Speed=6
 TechLevel=11
 

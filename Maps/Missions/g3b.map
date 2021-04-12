@@ -223,7 +223,7 @@ Prerequisite=GAWEAP
 [TDJEP]
 ROT=10
 Cost=400
-Name=Хамви Генерала Шеппарда;General Shephard's Humvee
+Name=Хаммер Генерала Шеппарда;General Shephard's Humvee
 Armor=light
 Elite=none
 Image=HUMVGEN

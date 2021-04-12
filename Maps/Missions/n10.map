@@ -121,7 +121,7 @@ IonLightningRandomness=100
 [HOVVE]
 ROT=10
 Cost=400
-Name=Ракетный Хамви;Missile Humvee
+Name=Ракетный Хаммер;Missile Humvee
 Armor=light
 Elite=HovRocketElite
 Image=HUMV

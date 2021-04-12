@@ -312,7 +312,7 @@ Strength=600
 [GTREPAIR]
 ROT=10
 Cost=400
-Name=Хамви ГлобоТэк;GloboTech Humvee
+Name=Хаммер ГлобоТэк;GloboTech Humvee
 Armor=light
 Elite=HummerGunElite
 Image=GHUM

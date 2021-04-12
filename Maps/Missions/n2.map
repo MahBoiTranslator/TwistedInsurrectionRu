@@ -146,7 +146,7 @@ Insignificant=no
 [HOVVE]
 ROT=10
 Cost=400
-Name=Хамви Генерала Оуэна;General Owen's Hum-vee
+Name=Хаммер Генерала Оуэна;General Owen's Hum-vee
 Armor=light
 Elite=none
 Image=HUMVGEN
@@ -271,7 +271,7 @@ Name=Комбайн;Harvester
 Name=Комбайн (Загружается);Harvester (Unloading)
 
 [TDJEP]
-Name=Хамви;Humvee
+Name=Хаммер;Humvee
 Speed=3
 
 [TDMCV]

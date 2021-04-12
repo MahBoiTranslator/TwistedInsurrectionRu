@@ -251,7 +251,7 @@ Floater=yes
 Elasticity=0.5
 
 [HMVAV]
-Name=Õאלגט Ìסעטעוכü;Avenger HumVee
+Name=Õאללונ Ìסעטעוכü;Avenger HumVee
 TechLevel=5
 
 [HOVAPC]
@@ -474,7 +474,7 @@ TechLevel=11
 CrateGoodie=no
 
 [TDJEP]
-Name=Õאלגט;HumVee
+Name=Õאללונ;HumVee
 TechLevel=2
 
 [TDMCV]

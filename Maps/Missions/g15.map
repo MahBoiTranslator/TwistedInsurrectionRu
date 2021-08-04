@@ -190,7 +190,7 @@ TechLevel=-1
 Nominal=yes
 
 [GTCIVHO]
-Name=Хранилище Тиберия ГлобоТэк;GloboTech Tiberium Storage
+Name=Хранилище Тиберия ГлобоТех;GloboTech Tiberium Storage
 
 [General]
 TunnelSpeed=1

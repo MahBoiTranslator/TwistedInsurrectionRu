@@ -356,7 +356,7 @@ Nominal=no
 Insignificant=no
 
 [GTFUS]
-Name=Энергостарнция ГлобоТэк;Globotech Power Plant
+Name=Энергостарнция ГлобоТех;Globotech Power Plant
 Power=1000
 Nominal=no
 Capturable=no

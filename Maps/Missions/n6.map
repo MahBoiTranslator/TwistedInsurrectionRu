@@ -208,7 +208,7 @@ DamageParticleSystems=SparkSys,SmallGreySSys
 AllowedToStartInMultiplayer=yes
 
 [GAGATE_A]
-Name=Врата ГлобоТэк;Globotech Gate
+Name=Врата ГлобоТех;Globotech Gate
 Immune=yes
 Nominal=yes
 Selectable=no
@@ -216,7 +216,7 @@ LegalTarget=no
 Insignificant=yes
 
 [GAGATE_B]
-Name=Врата ГлобоТэк;Globotech Gate
+Name=Врата ГлобоТех;Globotech Gate
 Immune=yes
 Nominal=yes
 Selectable=no
@@ -227,10 +227,10 @@ Insignificant=yes
 Name=Контейнер С Жидкостью;Liquid Container
 
 [GTCIVHO]
-Name=Научно-исследовательская Лаборатория ГлобоТэк;GloboTech Research Laboratory
+Name=Научно-исследовательская Лаборатория ГлобоТех;GloboTech Research Laboratory
 
 [GTTIBMON]
-Name=Хранилище ГлобоТэк;GloboTech Storage
+Name=Хранилище ГлобоТех;GloboTech Storage
 
 [General]
 WindDirection=3
@@ -2227,9 +2227,9 @@ AreTeamMembersRecruitable=no
 01000401=3,57,0,16,0,0,0,0,A,80,1,01000408,0,0,0,0,AC,54,2,01000395,0,0,0,0,A
 
 [Briefing]
-1= Великолепная работа, Брат. Ваши успехи в предыдущей миссии позволили нам проникнуть внутрь склада ГлобоТэк. Нам здесь 
+1= Великолепная работа, Брат. Ваши успехи в предыдущей миссии позволили нам проникнуть внутрь склада ГлобоТех. Нам здесь 
 2=не нужны ни припасы, ни оборудование, так что обыщите комплекс на предмет структурных изъянов. Мы обрушим это место при 
-3=помощи наших Дронов-Бомб. Этот большой удар по ГлобоТэк будет ударной волной, которая со временем обрушится на ГСБ.@@ 
+3=помощи наших Дронов-Бомб. Этот большой удар по ГлобоТех будет ударной волной, которая со временем обрушится на ГСБ.@@ 
 4=Задача 1: Найдите уязвимые места комплекса.@@
 
 [CellTags]

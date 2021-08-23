@@ -8,4 +8,5 @@ xcopy /h /y /c /r /s Source\ _Test\
 timeout /t 3
 
 : Запуск клиента
-start Source\TwistedInsurrection.exe
+cd _Test
+start TwistedInsurrection.exe

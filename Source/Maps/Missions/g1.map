@@ -4971,14 +4971,14 @@ Name=Flash
 6=Т.к. ООН скомпрометирована, то нашим единственным выходом ;With the UN compromised, our only option is to cooperate
 7=является кооперация с ГлобоТех - частным производителем оружия и ;with GloboTech, a private arms manufacturer and tech
 8=технологическим гигантом. Мы не можем найти генерала Шеппарда для подтверждения согласия с нашими действиями, ;giant. We haven't received confirmation from General
-9=и у нас кончается время на принятие решения. Полковник Оуэн;Sheppard yet but we're out of time. Colonel Owen has
-10=назначил встречу с ГлобоТех. Сопроводите его;arranged a meeting with GloboTech -- escort him to the
+9=и у нас кончается время на принятие решения. Полковник Оуэн ;Sheppard yet but we're out of time. Colonel Owen has
+10=назначил встречу с ГлобоТех. Сопроводите его ;arranged a meeting with GloboTech -- escort him to the
 11=на место встречи, избегая КПП ООН.@@;rendezvous while avoiding UN checkpoints.@@
 13=Местная база ГСБ уже в процессе расформирования. ;The local GDI base is already being decommissioned --
 14=Полковник может уговорить их присоединиться к нам, ;the colonel might be able to convince them to join
-15=если вы сможете его быстро сопроводить до базы.;us, if you can escort him to the base in time.@@
+15=если вы сможете его быстро сопроводить до базы.@@;us, if you can escort him to the base in time.@@
 16=КОНЕЦ СООБЩЕНИЯ@@;END TRANSMISSION@@
-17=Первостепенная Задача: Встретьтесь с представителем ГлобоТех;Primary Objective: Rendezvous with the GT delegate.@@
+17=Первостепенная Задача: Встретьтесь с представителем ГлобоТех.@@;Primary Objective: Rendezvous with the GT delegate.@@
 18=Второстепенная Задача: Возьмите командование над базой ГСБ.;Secondary Objective: Rally the GDI base to our cause.
 
 [CellTags]

@@ -1735,22 +1735,22 @@ PercentBuilt=0
 PlayerControl=no
 
 [Briefing]
-1=COMM. RECEIVED 0706Z@@
-2=We have an urgent task for you Commander. Just a few
-3=minutes ago, we received a distress call from General
-4=Sheppard. He went missing after the UN hearings in
-5=Geneve, apparently he's been gathering what GDI
-6=patriots he could while evading Nod hunters. Now
-7=they're trapped in enemy territory and cannot break out
-8=on their own -- an extraction team must be assembled.@@
-9=If we can rescue Sheppard, it would be a major boost
-10=to morale! Sheppard's survival and the help of our new
-11=GloboTech allies might be just enough to get GDI back
-12=on its feet.@@
-13=You will have to act fast, Commander. Get the General
-14=and his convoy to safety before Nod finds them!@@
-15=END TRANSMISSION@@
-16=Objective: Find & evacuate General Sheppard.
+1=СООБЩЕНИЕ ПРИНЯТО 0706Z@@
+2=У нас есть неотложное задание для вас, Командир. 
+3=Несколько минут назад мы получили сигнал SOS от генерала
+4=Шеппарда. Он считался пропавшим со слушаний ООН в 
+5=Женеве. Видимо, он собирал тех патриотов ГСБ, 
+6=что смог найти, избегая охотников Нод. Теперь же 
+7=он с товарищами попал в западню на вражеской территории и 
+8=не может выбраться своими силами. Предстоит собрать спасательную группу.@@
+9=Если мы сможем вызвалить Шеппарда - это значительно повысит 
+10=моральный дух! Выживание Шеппарда и помощь нашего нового союзника, ГлобоТех,
+11=должно быть достаточно, чтобы поднять ГСБ обратно 
+12=на ноги.@@
+13=Вы должны действовать быстро, Командир. Переправьте генерала 
+14=и его конвой в безопасное место до того, как Нодовцы найдут их!@@
+15=КОНЕЦ СООБЩЕНИЯ@@
+16=Задача: Найдите и эвакуируйте генерала Шеппарда.
 
 [CellTags]
 108129=01000049

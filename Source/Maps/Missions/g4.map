@@ -1890,23 +1890,23 @@ Name=Heavy Tank
 1=GDIorca,TDTRAN,30,127,95,32,Sleep,None,0,0,1,0
 
 [Briefing]
-1=COMM. RECEIVED 1453Z@@
-2=GloboTech has informed us of suspiciously high Nod
-3=activity near Turin, Italy. The Brotherhood has spread
-4=their forces throughout the urban center, but we doubt
-5=that the crumbling city is what they are actually
-6=interested in -- one of the largest Tiberium fields to
-7=date, codenamed Wellspring, sits at the edge of downtown.
-8=The last thing we want to do is allow the Brotherhood to
-9=exploit these resources.@@
-10=You will conduct a covert raid on the Nod research
-11=facilities bordering downtown. We are equipping your
-12=task force with our new KAZUAR mechanized walkers.
-13=Their vulcan cannons can eliminate infantry with
-14=pinpoint accuracy.@@
-15=END TRANSMISSION@@
-16=Objective 1: Remove Nod presence from the city.@@
-17=Objective 2: Destroy Nod's Tiberium research facility.
+1=СООБЩЕНИЕ ПРИНЯТО 1453Z@@;
+2=ГлобоТех проинформировала нас о подозрительно высокой активности Нод 
+3=около Турина в Италии. Братство расставило 
+4=свои войска в центре города, но мы сомневаемся, 
+5=что разрушение города - это их истинная цель. 
+6=Одно из самых больших тибериевых полей на сегодняшний день, 
+7=под кодовым названием Уэллспринг, располагается в городских окрестностях. 
+8=Последнее, чего мы хотим, так это позволять Братству 
+9=использовать эти ресурсы.@@
+10=Вы проведёте скрытую атаку на исследовательский 
+11=комплекс Нод в пригороде. Мы оснастим 
+12=вышу ударную группу нашими новыми шагаходами КАЗУАР. 
+13=Их пулемёты могут уничтожать пехоту с 
+14=высокой точностью.@@
+15=КОНЕЦ СООБЩЕНИЯ@@
+16=Задача 1: Уничтожьте все войска Нод в городе.@@
+17=Задача 2: Уничтожьте исследовательский комплекс Нод.
 
 [CITY46]
 Capturable=false

@@ -897,22 +897,22 @@ AreTeamMembersRecruitable=no
 Name=Heavy Tank
 
 [Briefing]
-1=COMM. RECEIVED 0614Z@@
-2=Well done, Commander. The GloboTech executives
-3=are impressed with how you handled the situation.
-4=They are already offering us their support. Your
-5=actions may have been the first step towards GDI's
-6=rebirth.@@
-7=Before we can proceed with further negotiations,
-8=we have agreed to escort a vital supply shipment
-9=to the nearby city of Chambery. Nod forces have
-10=surrounded the city, leaving the GloboTech garrison
-11=trapped in downtown. Break through the siege and
-12=deliver the supplies before the city is overrun.
-13=Good luck.@@
-14=END TRANSMISSION@@
-15=Objective: Escort the CONVOY TRUCKS safely to the
-16=city.
+1=СООБЩЕНИЕ ПРИНЯТО 0614Z@@
+2=Так держать, Командир. Директора ГлобоТех 
+3=впечатлены тем, как вы управились с ситуацией. 
+4=Они уже предложили нам свою помощь. Ваши 
+5=действия стали первым шагом на пути к возрождению 
+6=ГСБ.@@
+7=До того, как мы продолжил дальнейшие переговоры, 
+8=нам было поручено сопровождать важную поставку припасов 
+9=в город неподалёку - Шамбери. Войска Нод окружили город,  
+10=а покидающий гарнизон ГлобоТех попал в ловушку в пригороде.
+11=Пропрвитесь сквозь осаду и доставьте припасы до того
+12=как город будет разрушен. 
+13=Удачи.@@
+14=КОНЕЦ СООБЩЕНИЯ@@
+15=Задача: Сопроводите КОНВОЙ ГРУЗОВИКОВ в целости 
+16=и сохранности в город.
 
 [CellTags]
 75141=01000038

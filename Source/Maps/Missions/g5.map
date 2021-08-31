@@ -1410,19 +1410,19 @@ Group=-1
 5=Nod,APACHE,256,81,32,64,Guard,None,0,0,1,0
 
 [Briefing]
-1=COMM. RECEIVED 1556Z@@
-2=Welcome back to Wellspring, Commander. This vast
-3=Tiberium field you helped secure six years ago has
-4=played a key part in our research and funding.
-5=Unfortunately, with the situation in Italy getting
-6=worse by the day, the facility is becoming too costly
-7=to upkeep. Tiberium contamination is approaching critical
-8=levels, and Nod forces are exhausting our defenses.@@
-9=Your task is to oversee one last harvesting operation.
-10=We will then decommission the base and leave Nod with
-11=the ruins.@@
-12=END TRANSMISSION@@
-13=Objective: Harvest 30,000 credits worth of Tiberium.
+1=СООБЩЕНИЕ ДОСТАВЛЕНО 1556Z@@
+2=Добро пожаловать в Уэллспринг, Командир.
+3=Это огромное тибериевое поле, которые вы помогли отбить 6 лет тому назад, 
+4=сыграло ключевую роль в наших исследованиях и финансированиях. 
+5=К сожалению, сложившаяся ситуация в Италии становится 
+6=хуже день ото дня. Содержание комплекса становится всё дороже. 
+7=Тибериевое заражение достигает критических 
+8=значений, а войска Нод изнурили нашу оборону.@@
+9=Вашей задачей является руководство последней операцией по добыче. 
+10=Мы выведем базу из эксплуатации, а нодовцам оставим 
+11=лишь руины базы.@@
+12=КОНЕЦ СООБЩЕНИЯ@@
+13=Задача: Накопите 30,000 кредитов.
 
 [CellTags]
 54093=01000033

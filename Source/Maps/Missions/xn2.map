@@ -36,7 +36,7 @@ AllyReveal=yes
 
 [BILLTORE]
 Cost=250
-Name=Вспомогательные Леса;Support Scaffolding
+Name=Support Scaffolding
 Armor=wood
 Immune=yes
 Points=5
@@ -96,7 +96,7 @@ Primary=none
 Primary=none
 
 [COMMCENT]
-Name=Командный Центр Генерала Оуэна;General Owen's Command Center
+Name=General Owen's Command Center
 Armor=heavy
 Strength=3000
 Repairable=true
@@ -138,7 +138,7 @@ TechLevel=-1
 SuperWeapon=none
 
 [GASPOT]
-Name=Маяк;Lighthouse
+Name=Lighthouse
 Owner=Neutral
 Nominal=yes
 
@@ -155,7 +155,7 @@ MaxVeinholeGrowth=400
 [KANE]
 Pip=yellow
 Cost=800
-Name=Механик;Machinist
+Name=Machinist
 Armor=none
 Image=ENGINERN
 Owner=Nod
@@ -198,10 +198,10 @@ BuildLimit=9999
 SuperWeapon=none
 
 [NODCITY2]
-Name=Научно-исследовательское Здание Нод;Nod Research Building
+Name=Nod Research Building
 
 [NODCITY3]
-Name=Научно-исследовательское Здание Нод;Nod Research Building
+Name=Nod Research Building
 
 [NASTLH]
 CloakRadiusInCells=16
@@ -209,7 +209,7 @@ CloakRadiusInCells=16
 [OXANNA]
 Pip=white
 Cost=50
-Name=Вооружённый Гражданский;Armed Civilian
+Name=Armed Civilian
 Armor=none
 Owner=GDI,Nod
 Sight=6
@@ -240,7 +240,7 @@ VeteranAbilities=STRONGER,FASTER
 AllowedToStartInMultiplayer=no
 
 [SCAFFOL2]
-Name=Вспомогательные Леса;Support Scaffolding
+Name=Support Scaffolding
 
 [SCRINB]
 BuildLimit=9999
@@ -285,7 +285,7 @@ LightIntensity=0.007
 LightVisibility=2400
 
 [TRACAR]
-Name=Бронированный Вагон Поезда;Armored Train Wagon
+Name=Armored Train Wagon
 Armor=concrete
 Owner=Nod
 Speed=15
@@ -294,7 +294,7 @@ Passengers=0
 Selectable=no
 
 [TRACARGO]
-Name=Бронированный Грузовой Вагон Поезда;Armored Train Cargo Wagon
+Name=Armored Train Cargo Wagon
 Armor=concrete
 Owner=Nod
 Speed=15
@@ -303,7 +303,7 @@ Passengers=0
 Selectable=no
 
 [TRAENG]
-Name=Бронированный Локомотив Поезда;Armored Train Locomotive
+Name=Armored Train Locomotive
 Armor=concrete
 Owner=Nod
 Speed=15
@@ -316,7 +316,7 @@ Name=Trash disposal cart
 [UMAGON]
 Pip=white
 Cost=50
-Name=Вооружённый Гражданский;Armed Civilian
+Name=Armed Civilian
 Armor=none
 Owner=GDI,Nod
 Sight=6
@@ -2725,15 +2725,19 @@ PercentBuilt=0
 PlayerControl=no
 
 [Briefing]
-1=Несмотря на ваши усилия, ГСБ развернули своё Ионное Орудие на орбите. В дополнение к этому, мы обнаружили кое-что 
-2=тревожное во время атаки на конструкторский комплекс ИКАР: ГСБ массово производит ШАГОХОДЫ МАМОНТ. Это мобильные боевые 
-3=станции с огромной боевой мощью. Их производство было сосредоточено в недавно построенном укрепленном комплексе. Мы не 
-4=можем позволить комплексу и Ионному Орудию существовать, поэтому мы начинаем полномасштабную атаку на этот регион.@@ 
-5=Мамонты не единственная причина, почему мы атакуем их крепость. Здесь расположен КОМАНДНЫЙ ЦЕНТР генерала Оуэна. 
-6=Уничтожить его и подорвать боевой дух ГСБ - ваша главная цель.@@ Мы должны развернуть базу в этом регионе. Поблизости 
-7=есть заброшенный научно-исследовательский комплекс, который захватили ГСБшники у “Сынов Кейна”. Возвращение этой базы 
-8=даст нам плацдарм, в котором мы нуждаемся, и позволить прибыть большему количеству подкреплений. Удачи, Командир.@@ 
-9=Задача 1: Уничтожьте командный центр генерала Оуэна.@@ Задача 2: Освободите комплекс по производству Банши.@@
+1=Despite your efforts, GDI has managed to get their Ion Cannon into orbit. In addition
+2=to that, we discovered something alarming while attacking the ICARUS development facility.
+3=GDI is mass producing "Mammoth" walkers, mobile battle stations with enormous firepower.
+4=Their production is centered in a recently built but heavily fortified facility. We cannot let
+5=this production continue, so we're launching a full-scale attack on the area.@@
+6=The Mammoths are not the only reason we're attacking this site, as GDI's General Owen has
+7=moved his Command Center to this location. Taking him out and crippling GDI's morale
+8=is your main objective.@@
+9=We must establish a base in the area. There's a Banshee development facility nearby that GDI
+10=captured from the "New Brotherhood". Liberating this base should gain us the foothold we need and
+11=open a route for further reinforcements. Good luck, Commander.@@
+12=Objective 1: Destroy General Owen's command center.@@
+13=Objective 2: Liberate the Banshee facility.@@
 
 [CellTags]
 135154=01000376

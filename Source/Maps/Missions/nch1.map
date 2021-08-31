@@ -45,10 +45,6 @@ LightGreenTint=0.8
 LightIntensity=0.01
 LightVisibility=3000
 
-[KAZUAR]
-Passengers=0
-PipScale=none
-
 [NARADR]
 SuperWeapon=None
 
@@ -754,9 +750,13 @@ AreTeamMembersRecruitable=no
 01000111=1,53,2,01000008,0,0,0,0,A
 
 [Briefing]
-1=Испытание Нод 01:@@
-2=Успешно отразите волны войск ГСБ, ГлобоТех и неизвестных. Испытание будет пройдено, как только таймер обнулится. 
-3=Подкрепления будут доступны в зависимости от вашей результативности. Удачи, брат.
+1=Nod Challenge 01:@@
+2=Successfully survive the incoming waves of enemy GDI, GloboTech and other
+3=forces. The challenge will be complete once the timer reaches zero. Reinforcements are
+4=available dependent on your performance.
+5=Good luck, brother.@@
+6=@@
+7=@@
 
 [CellTags]
 26084=01000019

@@ -33,13 +33,13 @@ TiberiumDeathToVisceroid=no
 AllyReveal=no
 
 [BBOARD08]
-Name=Присоединяйтесь к ГлобоТех: Ваш Город Нуждается В Вас;Join GloboTech - Your City Needs You!
+Name=Join GloboTech - Your City Needs You!
 
 [BBOARD11]
 LegalTarget=no
 
 [CA0013]
-Name=Автоматизированный Очиститель Воды;Automated Water Purifiers
+Name=Automated Water Purifiers
 
 [CAARAY]
 Power=100
@@ -58,14 +58,14 @@ LegalTarget=no
 LegalTarget=no
 
 [CITY08]
-Name=Заброшенные Офисы;Abandoned Offices
+Name=Abandoned Offices
 
 [CITY18]
-Name=Психбольница Драймана;Draiman Asylum
+Name=Draiman Asylum
 LegalTarget=no
 
 [CITY32]
-Name=Башня Дзета;Zeta Tower
+Name=Zeta Tower
 
 [CITY33]
 Insignificant=no
@@ -74,11 +74,11 @@ Insignificant=no
 LegalTarget=no
 
 [CITY40]
-Name=Военкомат;Recruitement Center
+Name=Recruitement Center
 LegalTarget=no
 
 [CITY45]
-Name=Дом-хранилище;Storage House
+Name=Storage House
 
 [CIV1]
 Strength=50
@@ -1917,14 +1917,18 @@ AreTeamMembersRecruitable=no
 01000187=2,11,0,658,0,0,0,0,A,2,0,9,0,0,0,0,A
 
 [Briefing]
-1=Добрый вечер, Командир. Я исполнительный директор, Конан Стил. Сегодня вечером мы получили анонимное сообщение о том, 
-2=что один из наших безопасных городов, город Зета, будет целью террористической атаки. Всё это, конечно, только слухи и 
-3=беспочвенные домыслы, но мы не можем сейчас рисковать, воспринимая эти угрозы не всерьез. Большая часть гарнизона города 
-4=Зета была отведена из города, чтобы служить моим эскортом. Сегодня вечером я присутствую на встрече с генералом Оуэном 
-5=по поводу потенциального делового соглашения, или, как он выразился, "альянса".@@ Пока нас не будет, пожалуйста, 
-6=бдительно следите за городом. Если террористические угрозы окажутся правдой, используйте всё, что в ваших силах, чтобы 
-7=предотвратить нанесение какого-либо ущерба! Я понимаю, что возможны жертвы, но, пожалуйста, сделайте всё, что в ваших 
-8=силах, чтобы свести их к минимуму.@@ Задача 1: Защитить город Зета от любых действий террористов.@@
+1=Good evening, Commander. I'm chief operating officer, Conan Steele. This evening
+2=we received an anonymous tip that one of our safe-cities, Zeta City, is to be
+3=the target of a terrorist attack. All of this is purely rumor and
+4=baseless speculation, of course, but we can't risk taking these threats lightly right
+5=now. A large portion of our Zeta City garrison has been diverted away from the city
+6=to serve as my escorts -- I am attending a meeting tonight with GDI's General Owen
+7=regarding a potential business agreement, or as he's termed it, an "alliance".@@
+8=While we are away, please keep a vigilant watch over the city. If the terrorist threats
+9=turn out to be true, use everything in your power to prevent them from doing any damage!
+10=I understand that casualties may be a possibility, but -- please, do everything in your
+11=power to minimize them.@@
+12=Objective 1: Protect Zeta City from any and all terrorist actions@@
 
 [CellTags]
 44077=01000142

@@ -117,7 +117,7 @@ Primary=none
 Primary=none
 
 [DSHP]
-Name=Чинук;Chinook
+Name=Chinook
 Image=TDTRAN
 Sight=0
 AuxSound1=HELUP01
@@ -864,14 +864,18 @@ AreTeamMembersRecruitable=yes
 01000101=1,57,0,0,0,0,0,0,A
 
 [Briefing]
-1=Добрый вечер, Командир. Я исполнительный директор, Конан Стил. Сегодня вечером мы получили анонимное сообщение о том, 
-2=что один из наших безопасных городов, город Эпсилон, будет целью террористической атаки. Всё это, конечно, только слухи 
-3=и беспочвенные домыслы, но мы не можем сейчас рисковать, воспринимая эти угрозы не всерьез. Большая часть гарнизона 
-4=города Эпсилон была отведена из города, чтобы служить моим эскортом. Сегодня вечером я присутствую на встрече с 
-5=генералом Оуэном по поводу потенциального делового соглашения, или, как он выразился, "альянса".@@ Пока нас не будет, 
-6=пожалуйста, бдительно следите за городом. Если террористические угрозы окажутся правдой, используйте всё, что в ваших 
-7=силах, чтобы предотвратить нанесение какого-либо ущерба! Я понимаю, что возможны жертвы, но, пожалуйста, сделайте всё, 
-8=что в ваших силах, чтобы свести их к минимуму.@@ Задача 1: Защитить город Эпсилон от любых действий террористов.@@
+1=Good evening, Commander. I'm chief operating officer, Conan Steele. This evening
+2=we received an anonymous tip that one of our safe-cities, Upsilon City, is to be
+3=the target of a terrorist attack. All of this is purely rumor and
+4=baseless speculation, of course, but we can't risk taking these threats lightly right
+5=now. A large portion of our Upsilon City garrison has been diverted away from the city
+6=to serve as my escorts -- I am attending a meeting tonight with GDI's General Owen
+7=regarding a potential business agreement, or as he's termed it, an "alliance".@@
+8=While we are away, please keep a vigilant watch over the city. If the terrorist threats
+9=turn out to be true, use everything in your power to prevent them from doing any damage!
+10=I understand that casualties may be a possibility, but -- please, do everything in your
+11=power to minimize them.@@
+12=Objective 1: Protect Upsilon City from any and all terrorist actions@@
 
 [CellTags]
 83114=01000066

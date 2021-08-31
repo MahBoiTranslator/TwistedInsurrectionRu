@@ -89,7 +89,7 @@ BridgeExplosions=INVISO
 UnloadingHarvester=TDHORV
 
 [BBOARD10]
-Name=Bridge out of order!
+Name=Конец Моста!;Bridge out of order!
 
 [CACRSH04]
 Selectable=no
@@ -208,7 +208,7 @@ AccelerationFactor=1
 DeaccelerationFactor=0
 
 [GGHUMV]
-Name=General Shephard's Humvee
+Name=Хаммер Генерала Шеппарда;General Shephard's Humvee
 Speed=7
 
 [INBLULMP]

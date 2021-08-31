@@ -173,7 +173,7 @@ Cost=1.0
 01000118=1,13,0,10
 
 [GGHUMV]
-Name=Colonel Owen's Humvee
+Name=Хаммер Полковника Оуэна;Colonel Owen's Humvee
 Speed=5
 
 [GTCIVHO]
@@ -183,7 +183,7 @@ Sight=4
 Capturable=no
 
 [GTTRU]
-Name=Convoy Truck
+Name=Грузовик Конвоя;Convoy Truck
 Speed=5
 
 [Grenade]
@@ -235,7 +235,7 @@ LightIntensity=0.008
 LightVisibility=2100
 
 [NAAPWR]
-Name=Advanced Power Plant
+Name=Продвинутая Энергостанция;Advanced Power Plant
 Power=200
 Explodes=no
 Explosion=CLSN3_D,BANG1D_D,BRNL4_D,CLSN1E_D,TUMU1E_D,TWLT5,CLST5_D,TUMU1F_D,CLSN2_D

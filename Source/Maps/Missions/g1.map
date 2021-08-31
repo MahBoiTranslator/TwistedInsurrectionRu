@@ -207,13 +207,13 @@ Passengers=0
 Passengers=0
 
 [CIVCOP5]
-Name=Colonel Owen
+Name=Полковник Оуэн;Colonel Owen
 VoiceMove=GENOMOA,GENOMOB,GENOMOC
 VoiceAttack=GENOMOB,GENOMOC
 VoiceSelect=GENOSEA,GENOSEB,GENOSEC
 
 [CIVGANG1]
-Name=GloboTech Representative
+Name=Представитель ГлобоТех;GloboTech Representative
 Primary=none
 Fraidycat=no
 VoiceMove=70-N006,70-N008,70-N010,70-N018
@@ -363,7 +363,7 @@ FreeUnit=TDHARV
 TechLevel=2
 
 [GGHUMV]
-Name=Colonel Owen's Humvee
+Name=Хаммер Полковника Оуэна;Colonel Owen's Humvee
 
 [GTTRAN]
 Primary=none

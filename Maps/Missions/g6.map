@@ -2861,7 +2861,7 @@ PlayerControl=yes
 [GDIA]
 IQ=0
 Edge=North
-Side=GDIA
+Side=GDI
 Color=Gold
 Allies=GDIA,GDI,GDIB,NodNeutral
 Credits=0
@@ -2874,7 +2874,7 @@ PlayerControl=yes
 [GDIB]
 IQ=5
 Edge=North
-Side=GDIB
+Side=GDI
 Color=Cream
 Allies=GDIB,NodNeutral
 Credits=0
@@ -5510,7 +5510,7 @@ PlayerControl=no
 [NodA]
 IQ=5
 Edge=North
-Side=NodA
+Side=Nod
 Color=Red
 Allies=NodA,Nod,NodB,NodC,NodD,NodE,Cultist,NodNeutral
 Credits=10000
@@ -5523,7 +5523,7 @@ PlayerControl=no
 [NodB]
 IQ=5
 Edge=North
-Side=NodB
+Side=Nod
 Color=Red
 Allies=NodB,Nod,NodA,NodC,NodD,NodE,Cultist,NodNeutral
 Credits=10000
@@ -6035,7 +6035,6 @@ PlayerControl=no
 [Tags]
 01000001=0,AI Auto Production GDI 1,01000000
 01000003=0,AI Auto Production Nod 1,01000002
-01000005=0,AI Auto Production TMF 1,01000004
 01000007=0,AI Auto Production GDIA 1,01000006
 01000009=0,AI Auto Production GDIB 1,01000008
 01000011=0,AI Auto Production NodA 1,01000010
@@ -8126,7 +8125,6 @@ PlayerControl=no
 [Triggers]
 01000000=GDI,<none>,AI Auto Production GDI,1,1,1,1,0
 01000002=Nod,<none>,AI Auto Production Nod,1,1,1,1,0
-01000004=TMF,<none>,AI Auto Production TMF,1,1,1,1,0
 01000006=GDIA,<none>,AI Auto Production GDIA,1,1,1,1,0
 01000008=GDIB,<none>,AI Auto Production GDIB,1,1,1,1,0
 01000010=NodA,<none>,AI Auto Production NodA,1,1,1,1,0

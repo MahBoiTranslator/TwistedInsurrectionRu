@@ -1326,12 +1326,9 @@ TransportsReturnOnUnload=no
 AreTeamMembersRecruitable=no
 
 [Briefing]
-1=GDI Covert Operation:@@
-2=Defend your fortress from the incoming waves of Tiberium lifeforms. Enemy numbers
-3=increase over time and no reinforcements are available.
-4=Good luck.@@
-5=@@
-6=@@
+1=Спецоперация ГСБ:@@
+2=Защищайте вашу базу от волн тибериевых организмов. С каждой волной количество организмов будет возрастать и подкрепления 
+3=не будут доступны. Удачи.@@
 
 [CellTags]
 

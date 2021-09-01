@@ -203,7 +203,7 @@ Repairable=no
 LegalTarget=no
 
 [NASHRN]
-Name=Control Center
+Name=Центр Управления;Control Center
 LightRedTint=0.5
 LightBlueTint=0.01
 LightGreenTint=0.01
@@ -211,7 +211,7 @@ LightIntensity=0.03
 LightVisibility=2500
 
 [POWGEN]
-Name=Power Regulator
+Name=Регулятор Энергии;Power Regulator
 Power=15
 Repairable=no
 
@@ -847,16 +847,10 @@ TransportsReturnOnUnload=no
 AreTeamMembersRecruitable=no
 
 [Briefing]
-1=GDI Covert Operation:@@
-2=Secure this underground facility by locating and
-3=destroying all Nod CONTROL CENTERS. You only have
-4=one combat unit available, the COMMANDO.@@
-5=The facility is divided into multiple sectors.
-6=Destroy the Control Center of each sector to gain
-7=access to the next sector. Be warned, each sector is
-8=more difficult than the last.@@
-9=If the Commando dies, you will fail the challenge.
-10=Good luck.@@
+1=Спецоперация ГСБ:@@
+2=Зачистите этот подземный комплекс, ища и уничтожая ЦЕНТРЫ УПРАВЛЕНИЯ Нод. Вам доступен только одна боевая единица  - 
+3=КОМАНДОС. Будьте осторожны, каждый последующий сектор сложнее предыдущего. Если Командос умрёт, то испытание будет 
+4=провалено. Удачи.@@
 
 [CellTags]
 34051=01000048

@@ -226,7 +226,7 @@ Prerequisite=NAREFN
 Unsellable=true
 
 [NAPSYT]
-Name=Unknown Device
+Name=Неизвестное Устройство;Unknown Device
 Armor=heavy
 Sensors=no
 SensorArray=no
@@ -1583,15 +1583,24 @@ TransportsReturnOnUnload=no
 AreTeamMembersRecruitable=no
 
 [Briefing]
-1=We've received strange reports of seismic waves and
-2=dazzling flares from the Black Forest region. The
-3=strongly periodic and precise nature of these phenomena
-4=suggest they are artificial, and may be linked to Nod
-5=activity in the region. It is imperative we determine
-6=the exact nature of these events. If they are indeed
-7=produced by Nod, we must halt their experiments at
-8=once. Find out what's going on, Commander.@@
-9=Objective: Locate the source of the strange phenomena.
+1=Мы получили отчёты о странных сейсмических волнах и
+ ;We've received strange reports of seismic waves and
+2=об ослепительных вспышках в районе Чёрного Леса. 
+ ;dazzling flares from the Black Forest region. The
+3=Строгая периодичность и выраженная природа этого феномена
+ ;strongly periodic and precise nature of these phenomena
+4=заставляют задуматься об его исскуственном происхождении, и, возможно, 
+ ;suggest they are artificial, and may be linked to Nod
+5=об активности Нод в регионе. Определить истинную 
+ ;activity in the region. It is imperative we determine
+6=природу этого являения - это наша первостепенная задача. Если феномен 
+ ;the exact nature of these events. If they are indeed
+7=создаётся нодовцами, то мы обязаны прервать их эксперименты 
+ ;produced by Nod, we must halt their experiments at
+8=на корню. Выясните, что происходит, Командир.@@
+ ;once. Find out what's going on, Commander.@@
+9=Задача: Найдите источник странного феномена.
+ ;Objective: Locate the source of the strange phenomena.
 
 [CellTags]
 53093=01000077

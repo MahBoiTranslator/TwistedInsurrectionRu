@@ -349,7 +349,7 @@ Primary=none
 SuperWeapon=none
 
 [NASILO]
-Name=A.I. Linker
+Name=Соединитель С ИИ;A.I. Linker
 Storage=0
 PipScale=none
 
@@ -364,22 +364,22 @@ LightVisibility=3500
 TechLevel=-1
 
 [NODCITY1]
-Name=Office Buildings
+Name=Офисное Здание;Office Buildings
 Sight=7
 
 [NODCITY2]
-Name=Office Buildings
+Name=Офисное Здание;Office Buildings
 Sight=7
 
 [NODCITY3]
-Name=Office Buildings
+Name=Офисное Здание;Office Buildings
 Sight=7
 
 [SCAFFOL2]
-Name=Support Scaffolding
+Name=Леса;Support Scaffolding
 
 [SCORPION]
-Name=Prototype Walker
+Name=Прототип Шагохода;Prototype Walker
 Speed=4
 Nominal=yes
 Strength=2000
@@ -2436,18 +2436,18 @@ AreTeamMembersRecruitable=no
 01000286=yes
 
 [Briefing]
-1=COMM. RECEIVED 1324Z@@
-2=Intel recovered from GloboTech has revealed the
-3=location of a top secret Nod R&D facility. Our recon
-4=shows they're testing a new type of heavy walker,
-5=one that could rival our own MAMMOTH project. It is
-6=imperative that the walker prototype is destroyed
-7=ASAP. Unfortunately, we can only spare a small
-8=force. Capture one of Nod's auxiliary outposts and
-9=use it as your forward base.@@
-10=END TRANSMISSION@@
-11=Objective 1: Take over one of the two Nod outposts.@@
-12=Objective 2: Destroy the walker prototype.
+1=СООБЩЕНИЕ ДОСТАВЛЕНО 1324Z@@
+2=Разведка расшифровала, что ГлобоТех раскрыла
+3=расположение сверхсекретного научно- исследовательского комплекса Нод.
+4=Наши разведчики выяснили, что они тестируют новый тип тяжёлого шагохода, 
+5=который может посоревноваться с нашим проектом МАМОНТ. 
+6=Крайне важно, чтобы прототип шагохода был уничтожен так быстро, 
+7=насколько это возможно. К сожалению, мы можем выделить только небольшой 
+8=отряд. Захватите один из вспомогательных аванпостов Нод и
+9=используйте его для развёртывания базы.@@
+10=КОНЕЦ СООБЩЕНИЯ@@
+11=Задача 1: Захватите один из двух нодовских аванпостов.@@
+12=Задача 2: Уничтожьте прототип шагохода.
 
 [CellTags]
 59059=01000181

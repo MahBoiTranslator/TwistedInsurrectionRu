@@ -36,7 +36,7 @@ TiberiumDeathToVisceroid=yes
 [2TNK]
 ROT=10
 Cost=400
-Name=Dragonfly Hovvee
+Name=Стрекоза Ховви;Dragonfly Hovvee
 Armor=light
 Elite=HovRocketElite
 Image=Hovve
@@ -205,7 +205,7 @@ Prerequisite=GAWEAP,GATECH
 01000335=3,71,0,1010000000,0,0,0,0,A,72,0,0100000000,0,0,0,0,A,73,0,74,0,0,0,0,A
 
 [BBOARD01]
-Name=GloboTech: We care
+Name=ГлобоТех: Нам не всё равно;GloboTech: We care
 
 [BEHEMOTH]
 TechLevel=11
@@ -2347,16 +2347,16 @@ TransportsReturnOnUnload=no
 AreTeamMembersRecruitable=no
 
 [Briefing]
-1=COMM. RECEIVED 2052Z@@
-2=We have reclaimed our technology from the GloboTech
-3=facilities you successfully captured. The assets are
-4=currently en route to a secure location. However, the
-5=convoy is unarmed, with GloboTech forces in hot pursuit.@@
-6=The convoy will pass through this canyon at 0800. Stop
-7=the pursuers and protect the convoy at all costs. Good
-8=luck, Commander.@@
-9=END TRANSMISSION@@
-10=Objective: Protect the GDI convoys.
+1=СООБЩЕНИЕ ДОСТАВЛЕНО 2052Z@@
+2=Мы вернули наши технологии из комплексов 
+3=ГлобоТех, которые вы успешно захватили. Разработки и документы 
+4=на данный момент перемещаются в защищённое место. Однако, 
+5=конвои безоружны, а войска ГлобоТех в погоне за ним.@@
+6=Конвои будут проходить через этот каньон в 08:00. Остановите 
+7=преследователей и защитите конвои любой ценой. 
+8=Удачи, Командир.@@
+9=КОНЕЦ СООБЩЕНИЯ@@
+10=Задача: Защищайте конвои ГСБ.
 
 [CellTags]
 83091=01000289

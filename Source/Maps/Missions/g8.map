@@ -65,7 +65,7 @@ Sight=4
 Sight=4
 
 [NASPOT]
-Name=Speaker Tower
+Name=Громкоговоритель;Speaker Tower
 Armor=heavy
 Strength=400
 Insignificant=no
@@ -1407,14 +1407,13 @@ AreTeamMembersRecruitable=no
 01000180=1,1,0,0,0,0,0,0,A
 
 [Briefing]
-1=It has recently come to light that a Nod cell has been quite active in this area as of
-2=late. The area was thought to be uninhabited, but recent reports of intense seismic waves
-3=and dazzling flares indicate something strange is going on within these mountains.
-4=The strongly periodic and precise nature of the phenomena suggest they are artificial,
-5=and may be linked to the Nod activity in the region. It is imperative we determine the exact
-6=nature of these events. If they are indeed produced by Nod, we must halt their experiments
-7=at once. Find out what's going on, Commander.@@
-8=Objective 1: Investigate Nod activities until further orders are provided.
+1=Совсем недавно мы обнаружили, что ячейка Нод начала действовать активно в этом регионе. Мы думали, 
+2=что регион необитаем, но интенсивная сейсмическая активность и ослепительные вспышки говорят о том, 
+3=что в этих горах происходит что-то странное. Строго периодичный и выраженный характер явления явно даёт понять, 
+4=чтобы они были искусственными и могут быть связаны с активностью Нод в регионе. Крайне важно определить 
+5=точный характер этих событий. Если они и в самом деле были созданы нодовцами, то мы должны немедленно 
+6=прекратить их эксперименты. Узнайте, что происходит, Командир.@@ Задача 1: Разузнайте, что затевают Нод, 
+7=и ждите дальнейших приказов.
 
 [CellTags]
 53093=01000077

@@ -152,7 +152,7 @@ AllyReveal=yes
 
 [BILLTORE]
 Cost=250
-Name=Support Scaffolding
+Name=Строительные Леса;Support Scaffolding
 Armor=wood
 Image=DUMIMP
 Immune=yes
@@ -198,7 +198,7 @@ Primary=none
 
 [CIV29]
 Cost=100
-Name=Armed Civilian
+Name=Вооружённый Гражданский;Armed Civilian
 Owner=GDI,Nod
 Sight=6
 Speed=5
@@ -404,7 +404,7 @@ Sensors=no
 TechLevel=-1
 
 [GASPOT]
-Name=Lighthouse
+Name=Маяк;Lighthouse
 Owner=Neutral
 Nominal=yes
 
@@ -415,7 +415,7 @@ TechLevel=-1
 ThreatAvoidanceCoefficient=.1
 
 [GTCIVHO]
-Name=GloboTech Tiberium Storage
+Name=Тибериевое Хранилище ГлобоТех;GloboTech Tiberium Storage
 
 [General]
 TunnelSpeed=1
@@ -490,14 +490,14 @@ CloakRadiusInCells=20
 TechLevel=-1
 
 [NODCITY2]
-Name=Nod Research Building
+Name=Исследовательское Здание Нод;Nod Research Building
 
 [NODCITY3]
-Name=Nod Research Building
+Name=Исследовательское Здание Нод;Nod Research Building
 
 [OXANNA]
 Cost=50
-Name=Armed Civilian
+Name=Вооружённый Гражданский;Armed Civilian
 Owner=GDI,Nod
 Sight=6
 Speed=5
@@ -523,7 +523,7 @@ TechLevel=-1
 TechLevel=-1
 
 [SCAFFOL2]
-Name=Support Scaffolding
+Name=Строительные Леса;Support Scaffolding
 Immune=yes
 
 [SCRINB]
@@ -559,7 +559,7 @@ LightVisibility=2300
 
 [UMAGON]
 Cost=50
-Name=Armed Civilian
+Name=Вооружённый Гражданский;Armed Civilian
 Owner=GDI,Nod
 Sight=6
 Speed=5
@@ -3012,24 +3012,24 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=yes
 
 [Briefing]
-1=COMM. RECEIVED 0802Z@@
-2=We've received reports of Nod field-testing new bomber
-3=aircraft. These Wraith bombers appear to use the same
-4=unknown technology as the Banshees you encountered
-5=earlier, granting them immense durability and
-6=devastating energy weapons.@@
-7=The Wraith R&D facility has been located to this area.
-8=Your mission is to capture key Nod structures, so we can
-9=learn more about the nature of this technology.@@
-10=We are currently preparing our latest weapon, the
-11=Mammoth walker, to aid in the assault. Defend the
-12=Mammoth until preparations are complete. Resources are
-13=scarce, so we suggest you scout for additional Tiberium
-14=deposits. Good luck, Commander.@@
-15=END TRANSMISSION@@
-16=Objective 1: Locate and find more resources.@@
-17=Objective 2: Defend the base and the Mammoth Walker.@@
-18=Objective 3: Capture Nod's Construction Yard, Technology Center and Wraith Supply Pads.
+1=СООБЩЕНИЕ ДОСТАВЛЕНО 0802Z@@
+2=Мы получили доклады о том, что Нод проводит полевые тесты нового бомбардировщика. 
+3=Эти бомбардировщики Рейф, похоже, используют аналогичную технологию, 
+4=что и Банши, с которыми вы имели знакомство 
+5=ранее, предоставляющую им огромное время полёта 
+6=и разрушительную мощь.@@
+7=Научно-исследовательский комплекс Рейфов расположен в этом регионе. 
+8=Вашей миссией является захват ключевых зданий Нод, чтобы мы могли 
+9=понять больше о природе этой технологии.@@
+10=Мы на данный момент подготавливаем наше последнее оружие - 
+11=шагоход Мамонт, чтобы помочь вам в осаде. Защищайте 
+12=Мамонта до тех пор, пока приготовления не будут завершены. Ресурсы 
+13=скудные, поэтому мы поручаем вам поиск дополнительных тибериевых 
+14=резервов. Удачи, Командир.@@
+15=КОНЕЦ СООБЩЕНИЯ@@
+16=Задача 1: Найдите больше ресурсов.@@
+17=Задача 2: Защищайте базу и шагоход Мамонт.@@
+18=Задача 3: Захватите Сборочный Цех Нод, Техцентр и Комплексы Обслуживания Рейфов.
 
 [CellTags]
 129178=01000400

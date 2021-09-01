@@ -36,7 +36,7 @@ TiberiumDeathToVisceroid=yes
 [1TNK]
 ROT=6
 Cost=350
-Name=Scorpion Tank
+Name=Танк Скорпион;Scorpion Tank
 Armor=light
 Elite=65mme
 Image=LTNK
@@ -221,7 +221,6 @@ TechLevel=-1
 Insignificant=no
 
 [GTFUS]
-Name=Fusion Plant
 Power=1000
 
 [GTHEAVY]
@@ -1400,15 +1399,15 @@ AreTeamMembersRecruitable=no
 1=GDI,ORCA,256,164,261,64,Guard,None,0,0,1,0
 
 [Briefing]
-1=COMM. RECEIVED 1823Z@@
-2=Emerald Peak, one of our largest harvesting facilities,
-3=is struggling with a sudden influx of hostile Tiberian
-4=lifeforms. Defend the facility and investigate where
-5=the creatures are coming from.@@
-6=Be advised, Nod forces have been detected in the area.@@
-7=END TRANSMISSION@@
-8=Objective 1: Defend the harvesting facility.@@
-9=Objective 2: Find the source of the Tiberian lifeforms.
+1=СООБЩЕНИЕ ДОСТАВЛЕНО 1823Z@@
+2=Изумрудная Гора - это один из самых больших добывающих комплексов, 
+3=который тяжело страдает от атак враждебных тибериевых 
+4=форм жизни. Защищайте комплекс и разузнайте, откуда 
+5=эти создания приходят.@@
+6=Будьте осторожны, т.к. были замечены войска Нод в регионе.@@
+7=КОНЕЦ СООБЩЕНИЯ@@
+8=Задача 1: Защищайте добывающий комплекс.@@
+9=Задача 2: Найдите источник тибериевых форм жизни.
 
 [Dummy1]
 IQ=0

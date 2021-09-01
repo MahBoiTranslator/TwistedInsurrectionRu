@@ -1347,16 +1347,16 @@ AreTeamMembersRecruitable=no
 9=GDI2,ORCA,256,66,248,32,Harmless,01000007,0,-2,1,0
 
 [Briefing]
-1=COMM. RECEIVED 1709Z@@
-2=We've lost contact with Fort Morelli, a strategically
-3=important airbase in the Dinaric mountains, Bosnia.
-4=This base is our only foothold in the area and vital
-5=for tracking Nod's movements in the Sarajevo Exclusion
-6=Zone. Take a small taskforce and re-establish contact
-7=with the base. Be warned, the area is crawling with
-8=enemy forces and hostile mutant fauna.@@
-9=END TRANSMISSION@@
-10=Objective: Make contact with the GDI airbase.
+1=СООБЩЕНИЕ ДОСТАВЛЕНО 1709Z@@
+2=Мы потеряли связь с фортом Морелли, стратегически 
+3=важной авиабазой вблизи Динарского нагорья в Боснии. 
+4=Эта база - наш единственный плацдарм и жизненноважная точка в регионе 
+5=для отслеживания передвижения Братства в Сараевской Зоне Отчуждения.
+6=Возьмите под командование небольщую ударную группу и восстановите 
+7=связь с базой. Будьте осторожны, регион кишит 
+8=вражескими войсками и мутировавшей фауной.@@
+9=КОНЕЦ СООБЩЕНИЯ@@
+10=Задача: Установите контакт с авиабазой ГСБ.
 
 [CellTags]
 60211=01000101

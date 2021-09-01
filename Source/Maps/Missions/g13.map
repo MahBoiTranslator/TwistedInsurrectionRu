@@ -37,7 +37,7 @@ TiberiumDeathToVisceroid=yes
 [APACHE]
 ROT=5
 Cost=1000
-Name=Dropship
+Name=Десантный Корбаль;Orca Dropship
 Armor=heavy
 Image=DSHP
 Owner=GDI
@@ -191,70 +191,70 @@ Repairable=true
 Insignificant=no
 
 [CA0001]
-Name=Research Center
+Name=Исследовательский Центр;Research Center
 Repairable=true
 Insignificant=no
 
 [CA0002]
-Name=Research Building
+Name=Исследовательское Здание;Research Building
 Repairable=true
 Insignificant=no
 
 [CA0003]
-Name=Research Building
+Name=Исследовательское Здание;Research Building
 Repairable=true
 Insignificant=no
 
 [CA0004]
-Name=Research Building
+Name=Исследовательское Здание;Research Building
 Repairable=true
 Insignificant=no
 
 [CA0005]
-Name=Supply Storage
+Name=Хранилище Припасов;Supply Storage
 Insignificant=no
 
 [CA0006]
-Name=Sample Storage
+Name=Хранилище Образцов;Sample Storage
 Insignificant=no
 
 [CA0007]
-Name=Field Generator
+Name=Генератор Поля;Field Generator
 Insignificant=no
 
 [CA0008]
-Name=Subterranean Laboratory
+Name=Подземная Лаборатория;Subterranean Laboratory
 Repairable=true
 Insignificant=no
 
 [CA0009]
-Name=Subterranean Laboratory
+Name=Подземная Лаборатория;Subterranean Laboratory
 Repairable=true
 Insignificant=no
 
 [CA0010]
-Name=Research Laboratory
+Name=Исследовательская Лаборатория;Research Laboratory
 Repairable=true
 Insignificant=no
 
 [CA0011]
-Name=Chemical Tank
+Name=Химический Танк;Chemical Tank
 Insignificant=no
 
 [CA0012]
-Name=Cages
+Name=Клетка;Cages
 Insignificant=no
 
 [CA0013]
-Name=Refining Machinery
+Name=Перерабатывающее Оборудовние;Refining Machinery
 Insignificant=no
 
 [CA0015]
-Name=Portable Building
+Name=Перемещаемое Здание;Portable Building
 Insignificant=no
 
 [CA0016]
-Name=Portable Building
+Name=Перемещаемое Здание;Portable Building
 Insignificant=no
 
 [CAARMR]
@@ -291,7 +291,7 @@ Insignificant=yes
 Insignificant=yes
 
 [CITY33]
-Name=GloboTech Offices
+Name=Офисы ГлобоТех;GloboTech Offices
 Repairable=true
 Insignificant=no
 
@@ -300,7 +300,7 @@ Strength=999999
 
 [CYBORG]
 Cost=2500
-Name=East Armor Support
+Name=Западная Бронетанковая Поддержка;East Armor Support
 Image=DSHP
 Sight=0
 Selectable=no
@@ -311,7 +311,7 @@ InvisibleInGame=yes
 
 [CYCCANN]
 Cost=2500
-Name=West Armor Support
+Name=Восточная Бронетанковая Поддержка;West Armor Support
 Image=DSHP
 Sight=0
 Selectable=no
@@ -568,7 +568,7 @@ LightIntensity=-0.15
 LightVisibility=4000
 
 [PDRNAI]
-Name=Demolition Drone
+Name=Дрон Бомбовоз;Demolition Drone
 Primary=SelfDestruct
 Explodes=yes
 Strength=1
@@ -615,7 +615,7 @@ InvisibleInGame=yes
 
 [GTEXO]
 Image=GTEXO2
-Name=Exo-Suit
+Name=Солдат в Экзокостюме;Exo-Suit
 Category=Soldier
 Primary=ExoGrenadeL
 Elite=ExoGrenadeLE
@@ -651,22 +651,22 @@ IsWebImmune=true
 Nominal=yes
 
 [SCIENCE1]
-Name=Researcher
+Name=Исследователь;Researcher
 
 [SCIENCE2]
-Name=Researcher
+Name=Исследователь;Researcher
 
 [SCIENCE3]
-Name=Researcher
+Name=Исследователь;Researcher
 
 [SCIENCE4]
-Name=Researcher
+Name=Исследователь;Researcher
 
 [SCIENCE5]
-Name=Researcher
+Name=Исследователь;Researcher
 
 [SCIENCE6]
-Name=Researcher
+Name=Исследователь;Researcher
 
 [SelfDestruct]
 ROF=1
@@ -693,7 +693,7 @@ LightIntensity=0.02
 LightVisibility=3000
 
 [TRATOS]
-Name=Scientist
+Name=Учёный;Scientist
 
 [Preview]
 Size=0,0,160,120
@@ -2478,16 +2478,16 @@ AreTeamMembersRecruitable=no
 17=GT,GTGUN,256,121,129,64,Area Guard,None,0,0,1,0
 
 [Briefing]
-1=COMM. RECEIVED 0954Z@@
-2=This cluster of islands is home to GloboTech's main
-3=R&D facility. Its destruction should put an end to
-4=their senseless aggression against us.@@
-5=We deeply regret that it has come to this, but the
-6=survival of GDI is our utmost priority. Once your
-7=mission is complete, we will salvage what we can from
-8=the GloboTech stronghold.@@
-9=END TRANSMISSION@@
-10=Objective: Destroy all GloboTech research facilities.
+1=СООБЩЕНИЕ ДОСТАВЛЕНО 0954Z@@
+2=Этот архипелаг является домом главного научно-исследовательского 
+3=комплекса ГлобоТех. Его уничтожение положит конец их 
+4=бессмысленной агрессии против нас.@@
+5=Мы глубоко сожалеем, что всё пришло к этому, но 
+6=выживание ГСБ имеет для нас наивысший приоритет. Как только ваша 
+7=миссия будет выполнена, мы соберём всё, что сможем найти, 
+8=в крепости ГлобоТех.@@
+9=КОНЕЦ СООБЩЕНИЯ@@
+10=Задача: Уничтожьте все исследовательские комплексы ГлобоТех.
 
 [CellTags]
 13119=01000298

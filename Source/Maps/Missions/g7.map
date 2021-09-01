@@ -1874,18 +1874,18 @@ TransportsReturnOnUnload=no
 AreTeamMembersRecruitable=no
 
 [Briefing]
-1=COMM. RECEIVED 0621Z@@
-2=GloboTech has sent us an emergency request to retrieve
-3=a prototype railgun platform. Nod has captured the
-4=research laboratory that holds the prototype and its
-5=design documents. Your mission is to recapture the lab
-6=ASAP.@@
-7=Be wary of the Nod base in the area -- they must not
-8=become aware of your presence. Move quickly and
-9=carefully, Commander.@@
-10=END TRANSMISSION@@
-11=Objective: Recapture the GloboTech laboratory and
-12=retrieve the railgun prototype.
+1=СООБЩЕНИЕ ДОСТАВЛЕНО 0621Z@@
+2=ГлобоТех послала экстренный запрос на возвращение
+3=прототипа рельсотроновой платформы. Нодовцы захватили
+4=исследовательскую лабораторию, в которой находился прототип 
+5=вместе с документацией. Ваша миссия - захватить лабораторию
+6=как можно скорее.@@
+7=Будьте осторожны, Братство развернуло базу в регионе. 
+8=Они не должны узнать о вашем присутствии. Перемещайтейсь быстро и
+9=осторожно, Командир.@@
+10=КОНЕЦ СООБЩЕНИЯ@@
+11=Задача: Захватите лабораторию ГлобоТех и 
+12=верните прототип рельсотрона.
 
 [CITY46]
 Capturable=false

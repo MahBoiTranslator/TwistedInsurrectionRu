@@ -400,7 +400,7 @@ Capturable=false
 Repairable=false
 
 [CITY44]
-Name=Warehouse
+Name=Склад;Warehouse
 Capturable=false
 Repairable=false
 
@@ -749,7 +749,7 @@ LegalTarget=no
 TechLevel=-1
 
 [RLTNK]
-Name=Prototype
+Name=Прототип;Prototype
 Image=RLTNKP
 TechLevel=-1
 

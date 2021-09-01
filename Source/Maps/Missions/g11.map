@@ -144,13 +144,13 @@ TechLevel=-1
 01000382=1,14,0,17,0,0,0,0,A
 
 [BBOARD03]
-Name=Speedboat races sponsored by GloboTech!
+Name=Гонки на скоростных катерах спонсированы ГлобоТех;Speedboat races sponsored by GloboTech!
 
 [BBOARD10]
-Name=Come cheer 'Kaneboat' to victory!
+Name=Приходите поболеть за победу 'Кейнолодки';Come cheer 'Kaneboat' to victory!
 
 [BBOARD14]
-Name=Don't miss the annual speedboat race!
+Name=Не пропустите ежегодную гонку на скоростных катерах;Don't miss the annual speedboat race!
 
 [BEHEMOTH]
 TechLevel=11
@@ -190,7 +190,7 @@ Sight=0
 [COMMGDI]
 C4=no
 Cost=3000
-Name=Commando
+Name=Командос;Commando
 TechLevel=-1
 Infiltrate=no
 
@@ -393,7 +393,7 @@ Strength=350
 [GTEXO]
 Pip=green
 Cost=800
-Name=Exo-Suit
+Name=Солдат в Экзокостюме;Exo-Suit
 Armor=heavy
 Elite=ExoGrenadeLE
 Image=GTEXO2
@@ -454,12 +454,12 @@ Strength=500
 Capturable=false
 
 [GTUNI1]
-Name=GloboTech Recearch Laboratory
+Name=Исследовательская Лаборатория ГлобоТех;GloboTech Recearch Laboratory
 Repairable=true
 LegalTarget=no
 
 [GTUNI2]
-Name=GloboTech Recearch Laboratory
+Name=Исследовательская Лаборатория ГлобоТех;GloboTech Recearch Laboratory
 Repairable=true
 LegalTarget=no
 
@@ -540,7 +540,7 @@ TechLevel=-1
 TechLevel=-1
 
 [MEGAGLOB]
-Name=GloboTech Recearch Laboratory
+Name=Исследовательская Лаборатория ГлобоТех;GloboTech Recearch Laboratory
 Repairable=true
 LegalTarget=no
 
@@ -2834,24 +2834,24 @@ IgnoreGlobalAITriggers=yes
 TiberiumDeathToVisceroid=yes
 
 [Briefing]
-1=COMM. RECEIVED 0636Z@@
-2=It's an insurrection! The massacre at Emerald Peak has
-3=provoked GloboTech into taking over our facilities!
-4=Their forces are attempting to confiscate assets
-5=that they originally provided to us. If we lose this
-6=technology, we will stand no chance against Nod!@@
-7=The last thing we want to do is to open hostilities
-8=against GloboTech, but they have refused to negotiate
-9=and our forces are already engaged in skirmish. We
-10=have to neutralize this new threat immediately.@@@
-11=GloboTech has stored the stolen technology in three
-12=nearby research laboratories. Establish a base and
-13=retrieve our assets from the labs. Remember, GloboTech
-14=forces should now be considered hostile.@@
-15=END TRANSMISSION@@
-16=Objective 1: Establish a base.@@
-17=Objective 2: Escort the convoy trucks to the three
-18=GloboTech laboratories.
+1=СООБЩЕНИЕ ДОСТАВЛЕНО 0636Z@@
+2=Это мятеж! Резня на Изумрудной Горе 
+3=спровоцировала ГлобоТех на захват наших комплексов! 
+4=Их войска пытаются изъять наше оборудование и документы, 
+5=которые они изначально нам предоставили. Если мы потеряем эти 
+6=технологии, то у нас нет шанса против Нод!@@
+7=Последнее, что мы хотим, так это открывать фронт 
+8=против ГлобоТех. Тем не менее, они отказались от переговоров, 
+9=а наши войска уже вступили в схватку. Мы вынуждены
+10=нейтрализовать эту новую угрозу немедленно.@@
+11=ГлобоТех перевезла украденные технологии в три 
+12=исследовательские лаборатории неподалёку. Разверните базу и 
+13=верните из этих лабораторий то, что принадлежит нам по праву. Помните, что войска
+14=ГлобоТех следует расценивать как враждебные.@@
+15=КОНЕЦ СООБЩЕНИЯ@@
+16=Задача 1: Разверните базу.@@
+17=Задача 2: Сопроводите конвой грузовиков в 3
+18=лаборатории ГлобоТех.
 
 [CellTags]
 33149=01000079

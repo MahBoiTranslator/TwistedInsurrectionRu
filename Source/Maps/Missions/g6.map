@@ -151,14 +151,14 @@ TiberiumDeathToVisceroid=yes
 01000332=2,53,2,01000104,0,0,0,0,A,22,2,01000104,0,0,0,0,A
 
 [BILLDREG]
-Name=All hail our Tiberian Future!
+Name=Славьте все наше Тибериевое Будущее!;All hail our Tiberian Future!
 Armor=concrete
 Strength=800
 BaseNormal=yes
 Insignificant=no
 
 [CA0014]
-Name=Bridge Traffic Control
+Name=Контрольно-пропускной Пункт;Bridge Traffic Control
 Nominal=yes
 Capturable=yes
 Insignificant=no
@@ -2034,26 +2034,26 @@ TransportsReturnOnUnload=no
 AreTeamMembersRecruitable=no
 
 [Briefing]
-1=COMM. RECEIVED 1048Z@@
-2=A recent Ion Storm has damaged the radar network
-3=of an important Nod supply base. This critical
-4=blackout in their surveillance system allows
-5=us to fly a small task force behind their lines
-6=undetected.@@
-7=Your first priority is to capture the nearby bridge
-8=traffic control tower, whereupon your engineer can
-9=demolish the whole bridge. Once the bridge is down,
-10=make contact with the amphibious company en route,
-11=and then proceed to the other side of the river.
-12=Across the river is an old, abandoned GDI base that
-13=should still be of use. Locate the base, and repair it
-14=back to operational status. Then use the base to
-15=launch attacks against the main Nod supply facility,
-16=and wipe it out.@@
-17=END TRANSMISSION@@
-18=Objective 1: Capture the bridge traffic control tower.@@
-19=Objective 2: Locate and repair the abandoned GDI base.@@
-20=Objective 3: Destroy the Nod supply base.
+1=СООБЩЕНИЕ ПРИНЯТО 1048Z@@
+2=Недавная ионная буря повредила радарную сеть 
+3=важной базы снабжения Нод. Эта критическая слепота 
+4=в их системе наблюдения позволяет 
+5=перебросить небольшую ударную группу по воздуху незамеченной 
+6=сквозь их линию обороны.@@
+7=Вашей первой задачей станет захват КПП ближайшего моста, 
+8=после чего ваш инженер сможет 
+9=подорвать весь мост. Как только вы это сделаете,
+10=выходите на контакт с группой амфибий, которые движутся к вам, 
+11=а затем переместитесь на другой берег реки. 
+12=За рекой находится старая заброшенная база ГСБ, 
+13=которая должна быть полезной. Найдите базу и отремонтируйте её 
+14=до рабочего состояния. После этого используйте её, чтобы 
+15=начать атаку на главный комплекс снабжения Нод, 
+16=и выкурите нодовцев оттуда.@@
+17=КОНЕЦ СООБЩЕНИЯ@@
+18=Задача 1: Захватите КПП.@@
+19=Задача 2: Найдите и восстановите заброшенную базу ГСБ.@@
+20=Задача 3: Уничтожьте базу снабжения Нод.
 
 [CellTags]
 15118=01000204

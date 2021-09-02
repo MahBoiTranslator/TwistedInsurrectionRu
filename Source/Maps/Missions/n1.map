@@ -58,7 +58,7 @@ MinimumRange=3
 01000234=1,20,0,17,0,0,0,0,A
 
 [BBOARD03]
-Name=See Tampere Illuminations, opening next Sunday!
+Name=Приходите посмотреть Иллюминации Тампере. Открываемся в следующее воскресенье!;See Tampere Illuminations, opening next Sunday!
 
 [BUILDT02]
 Sight=4
@@ -181,7 +181,7 @@ Secondary=none
 [CYBORG]
 Pip=yellow
 Cost=30
-Name=Protestor
+Name=Протестующий;Protestor
 Armor=none
 Elite=Pistola
 Image=CIV5
@@ -217,7 +217,7 @@ VeteranAbilities=STRONGER,FASTER
 [CYC2]
 Pip=yellow
 Cost=30
-Name=Protestor
+Name=Протестующий;Protestor
 Armor=none
 Elite=Pistola
 Image=CIV4
@@ -258,7 +258,7 @@ AllowedToStartInMultiplayer=no
 [CYCCANN]
 Pip=yellow
 Cost=30
-Name=Protestor
+Name=Протестующий;Protestor
 Armor=none
 Elite=Pistola
 Image=UMAGON
@@ -357,7 +357,7 @@ Nominal=no
 Insignificant=no
 
 [GTFUS]
-Name=GloboTech Power Plant
+Name=Энергостанция ГлобоТех;GloboTech Power Plant
 Power=1000
 Nominal=no
 Capturable=no
@@ -420,7 +420,7 @@ Speed=3
 [HOVVE]
 ROT=10
 Cost=400
-Name=General Owen's Humvee
+Name=Хаммер Генерала Оуэна;General Owen's Humvee
 Armor=light
 Elite=none
 Image=HUMVGEN
@@ -459,7 +459,7 @@ AllowedToStartInMultiplayer=no
 [HTNK]
 ROT=5
 Cost=700
-Name=Artillery
+Name=Артиллерия;Artillery
 Armor=light
 Image=TDARTY
 Owner=Nod
@@ -503,7 +503,7 @@ LightVisibility=2500
 [INFECT]
 Pip=red
 Cost=100
-Name=Militant
+Name=Боевик;Militant
 Armor=none
 Elite=none
 Image=E1NOD
@@ -587,7 +587,7 @@ VoiceAttack=none
 [MSAM]
 ROT=9
 Cost=700
-Name=Ratel IFV
+Name=БМП Медоед;Ratel IFV
 Armor=heavy
 Image=TDRAT
 Owner=Nod
@@ -633,7 +633,7 @@ Image=TDHARV
 [NREPAIR]
 ROT=6
 Cost=1000
-Name=Stealth Tank
+Name=Стелс Танк;Stealth Tank
 Armor=light
 Image=TDSTN
 Owner=Nod
@@ -1724,14 +1724,14 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-1=DATA LINK ESTABLISHED@@
-2=Welcome back, brother. Current GDI activity seems to be at an all time low. However, a small city in your
-3=vicinity is infested with a hostile militia. At first we believed this group to be a small GDI
-4=splinter cell, but our field operatives report that this group isn't GDI at all. The Inner Circle
-5=would like to understand. Brother, you are to eradicate the city, and its pathetic militia.
-6=Their destruction will remind all of the fate of those who disobey Kane!@@
-7=DATA LINK TERMINATED@@
-8=Objective 1: Destroy the city and any enemy militia you encounter.
+1=СВЯЗЬ УСТАНОВЛЕНА@@
+2=С возвращением, брат. Активность ГСБ, видимо, будет оставаться низкой, прямо как сейчас, и далее. Однако небольшой город по соседству 
+3=с вами заражён вражебными повстанцами. Сперва мы предполагали, что это малая группировка отколовшихся ГСБшников, 
+4=однако полевые разведчики докладывают, что это не ГСБшники вовсе. Внутренний Круг 
+5=желает выяснить, кто они. Брат, вам поручена ликвидация города и его жалких повстанцев. 
+6=Уничтожение города напомнит всем судьбу тех, кто противится воле Кейна!@@
+7=СВЯЗЬ ПРЕРВАНА@@
+8=Задача 1: Уничтожьте город и любых встреченных поставнцев.
 
 [Civilians]
 IQ=0

@@ -42,11 +42,11 @@ BuildBarracks=TDHAND
 WoodCrate=Veteran
 
 [E1]
-Name=Minigunner
+Name=Пулметёчик;Minigunner
 Prerequisite=TDPYLE
 
 [E1NOD]
-Name=Minigunner
+Name=Пулметёчик;Minigunner
 Prerequisite=TDHAND
 
 [E2]
@@ -54,11 +54,11 @@ Prerequisite=TDPYLE
 CollateralDamageCoefficient=.23
 
 [E3]
-Name=Rocket Soldier
+Name=Ракетчик;Rocket Soldier
 Prerequisite=TDHAND
 
 [ENGINERN]
-Name=Engineer
+Name=Инженер;Engineer
 Prerequisite=TDHAND
 Strength=60
 Sight=5
@@ -82,7 +82,7 @@ Projectile=BouncyG
 Projectile=BouncyG
 
 [NAPOWR]
-Name=Power Plant
+Name=Энергостанция;Power Plant
 Prerequisite=TDFACT
 Storage=0
 PipScale=none
@@ -98,7 +98,7 @@ CloakRadiusInCells=0
 HasRadialIndicator=false
 
 [TDTRAN]
-Name=CH-47 Chinook
+Name=Чинук CH-47;CH-47 Chinook
 Immune=yes
 Selectable=no
 LegalTarget=no
@@ -465,10 +465,9 @@ AreTeamMembersRecruitable=no
 01000072=2,27,0,420,0,0,0,0,A,53,2,01000068,0,0,0,0,A
 
 [Briefing]
-1=Nod has captured classified GDI property. You must find and retrieve the
-2=stolen equipment. It is being transported in a shipping crate. Use the new
-3=APC to strategically transport infantry through Nod forces.@@
-4=Objective 1: Retrieve the stolen rods.@@
+1=Нод захватили секретную разработку ГСБ. Вы должны найти и вернуть украденное оборудование. Оно транспортируется в 
+2=грузовых ящиках. Используйте БТР, чтобы тактически транспортировать пехоту через войска Нод.@@
+3=Задача 1: Верните украденные стержни.@@
 
 [CellTags]
 55047=01000040

@@ -53,11 +53,11 @@ Primary=none
 Primary=none
 
 [E1]
-Name=Minigunner
+Name=Пулемётчик;Minigunner
 Prerequisite=TDPYLE
 
 [E1NOD]
-Name=Minigunner
+Name=Пулемётчик;Minigunner
 Prerequisite=TDHAND
 
 [E2]
@@ -65,7 +65,7 @@ Prerequisite=TDPYLE
 CollateralDamageCoefficient=.23
 
 [E3]
-Name=Rocket Soldier
+Name=Ракетчик;Rocket Soldier
 Prerequisite=TDHAND
 
 [ENGINERG]
@@ -73,7 +73,7 @@ Prerequisite=TDPYLE
 TechLevel=2
 
 [ENGINERN]
-Name=Engineer
+Name=Инженер;Engineer
 Prerequisite=TDHAND
 Strength=60
 Sight=5
@@ -112,7 +112,7 @@ Projectile=BouncyG
 Projectile=BouncyG
 
 [NAPOWR]
-Name=Power Plant
+Name=Энергостанция;Power Plant
 Prerequisite=TDFACT
 Storage=0
 PipScale=none
@@ -121,7 +121,7 @@ Cost=400
 Points=4
 
 [NARADR]
-Name=Communications Center
+Name=Центр Связи;Communications Center
 SensorArray=no
 HasRadialIndicator=false
 CloakRadiusInCells=0
@@ -319,11 +319,10 @@ PlayerControl=no
 01000066=1,37,0,13,0,0,0,0,A
 
 [Briefing]
-1=Build up forces to destroy the Nod base. Once all Nod SAM sites are neutralized
-2=then air support will be provided to combat obstacles such as turrets. Destroy all
-3=units and structures to complete the mission objective.@@
-4=Objective 1: Destroy all SAM sites.@@
-5=Objective 2: Destroy all Nod forces & Structures@@
+1=Постройте войска для уничтожения базы Нод. Как только вся ПВО Нод будет уничтожена, вам будет предоставлена воздушная 
+2=поддержка для уничтожения таких препятствий, как турели. Уничтожьте все войска и зданий, чтобы выполнить поставленные задачи.@@
+3=Задача 1: Уничтожьте всю ПВО.@@
+4=Задача 2: Уничтожьте все войска и здания Нод.
 
 [Events]
 01000000=1,13,0,0

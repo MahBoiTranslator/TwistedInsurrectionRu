@@ -92,7 +92,7 @@ BuildBarracks=TDPYLE,TDHAND
 UnloadingHarvester=TDHORV
 
 [BCWALL]
-Name=Dragons Teeth
+Name=Зубы Дракона;Dragons Teeth
 Wall=no
 Sight=0
 
@@ -106,16 +106,16 @@ InvisibleInGame=yes
 Fraidycat=no
 
 [E1]
-Name=Minigunner
+Name=Пулемётчик;Minigunner
 Prerequisite=TDPYLE
 
 [E1NOD]
-Name=Minigunner
+Name=Пулемётчик;Minigunner
 Prerequisite=TDHAND
 
 [E3]
 Cost=100
-Name=Minigunner
+Name=Пулемётчик;Minigunner
 Elite=M1CarbineNod
 Image=E1NOD
 Owner=Nod
@@ -140,7 +140,7 @@ VeteranAbilities=STRONGER,FASTER
 TechLevel=-1
 
 [ENGINERN]
-Name=Engineer
+Name=Инженер;Engineer
 Owner=Nod
 Sight=5
 Speed=5
@@ -251,7 +251,7 @@ PrerequisitePower=GAPOWR,NAPOWR
 PrerequisiteBarracks=TDPYLE,TDHAND
 
 [JEFFA]
-Name=Landing Craft
+Name=Амфибия;Landing Craft
 Speed=6
 SpeedType=Float
 Selectable=no
@@ -270,7 +270,7 @@ Insignificant=yes
 
 [NAPOWR]
 Cost=400
-Name=Power Plant
+Name=Энергостанция;Power Plant
 Points=4
 Storage=0
 Explodes=no
@@ -1443,10 +1443,9 @@ IgnoreGlobalAITriggers=yes
 TiberiumDeathToVisceroid=yes
 
 [Briefing]
-1=Commander, once the enemy defences have been breached, Colonel Carter can
-2=sneak your taskforce ashore. Your mission is simple, knockout all fortifications,
-3=eliminate all Nod troops so we can establish a beachhead. Good luck.@@
-4=Objective: Clear the landing zone so you can safely deploy your base.@@
+1=Командир, как только вражеская оборона будет прорвана, полковник Картер высадит ударную группу на берег. Ваша миссия 
+2=проста – выбить все укрепления и уничтожить все войска Нод, чтобы мы могли развернуть плацдарм. Удачи.@@
+3=Задача: Очистите зону высадки, чтобы вы могли безопасно развернуть вашу базу.@@
 
 [CellTags]
 42065=01000120

@@ -79,7 +79,7 @@ MinimumRange=10
 
 [2TNK]
 Cost=1600
-Name=M1 Abrams
+Name=Абрамс M1;M1 Abrams
 Speed=11
 TechLevel=11
 Prerequisite=ROCK001,GAPILE
@@ -310,20 +310,20 @@ Wall=no
 
 [BGGY]
 Cost=1200
-Name=DPV
+Name=Багги;DPV
 Owner=GDI
 Speed=18
 TechLevel=11
 Prerequisite=ROCK001,GAPILE
 
 [BILLTORE]
-Name=Fun awaits you at the Train Station!
+Name=Вас ожидает веселье не вокзале!;Fun awaits you at the Train Station!
 Immune=yes
 
 [BRAWL]
 ROT=2
 Cost=1200
-Name=Killdozer
+Name=Киллдозер;Killdozer
 Armor=heavy
 Elite=TankBusterE
 Image=BRWL
@@ -436,17 +436,17 @@ Projectile=Cannon2
 BurstDelay0=1
 
 [CA0006]
-Name=HAARP Shielded Observatory
+Name=Экранированная Обсерватория ХААРП;HAARP Shielded Observatory
 
 [CA0007]
-Name=UPS Backup
+Name=Резервное Питание;UPS Backup
 
 [CA0008]
-Name=Weather Control Lab
+Name=Лаборатория Управления Погодой;Weather Control Lab
 Capturable=true
 
 [CA0017]
-Name=HAARP
+Name=ХААРП;HAARP
 
 [CABBB12]
 Power=0
@@ -503,7 +503,7 @@ Insignificant=no
 
 [CHEM]
 Cost=2500
-Name=A10 Warthog
+Name=Бородавочник A10;A10 Warthog
 Image=TDA10
 Owner=GDI
 Speed=15
@@ -515,23 +515,23 @@ RadarInvisible=yes
 InvisibleInGame=yes
 
 [CHRONOSP]
-Name=Chronosphere
+Name=Хроносфера;Chronosphere
 Capturable=true
 
 [CITY15]
-Name=Warehouse
+Name=Склад;Warehouse
 Capturable=true
 
 [CITY37]
-Name=Warehouse
+Name=Склад;Warehouse
 Capturable=true
 
 [CITY44]
-Name=Warehouse
+Name=Склад;Warehouse
 Capturable=true
 
 [CITY45]
-Name=Warehouse
+Name=Склад;Warehouse
 Capturable=true
 
 [CIV1]
@@ -577,7 +577,7 @@ VehicleThief=yes
 Insignificant=no
 
 [CIVB16]
-Name=Warehouse
+Name=Склад;Warehouse
 Capturable=true
 
 [CIVB18]
@@ -614,7 +614,7 @@ Wall=no
 [DRFTR]
 ROT=8
 Cost=800
-Name=Drifter IFV
+Name=БМП Бродяга;Drifter IFV
 Armor=heavy
 Elite=MachineGunElite
 Owner=Special
@@ -652,12 +652,12 @@ AllowedToStartInMultiplayer=no
 
 [E1]
 Cost=200
-Name=Soldier
+Name=Солдат;Soldier
 TechLevel=11
 
 [E1NOD]
 Cost=1600
-Name=M1 Abrams
+Name=Абрамс M1;M1 Abrams
 Image=2TNK
 Owner=GDI
 Speed=15
@@ -670,7 +670,7 @@ InvisibleInGame=yes
 
 [E2]
 Cost=1000
-Name=Soldier Squad
+Name=Отряд Солдат;Soldier Squad
 Image=E1
 Owner=GDI
 Speed=15
@@ -683,7 +683,7 @@ InvisibleInGame=yes
 
 [E3]
 Cost=1200
-Name=DPV
+Name=Багги;DPV
 Image=BGGY
 Owner=GDI
 Speed=15
@@ -696,7 +696,7 @@ InvisibleInGame=yes
 
 [E4]
 Cost=1750
-Name=Apache
+Name=Апач;Apache
 Image=TDAPACHE
 Owner=GDI
 Speed=15
@@ -709,7 +709,7 @@ InvisibleInGame=yes
 
 [ENGINERG]
 Cost=1200
-Name=Sniper Team
+Name=Команда Снайперов;Sniper Team
 Image=SNIPER
 Owner=GDI
 Speed=15
@@ -948,7 +948,7 @@ Warhead=BlueFireBurst
 Projectile=Invisible
 
 [GAHPAD]
-Name=Airstrip
+Name=Взлётная Полоса;Airstrip
 Power=0
 Immune=yes
 Factory=none
@@ -961,7 +961,7 @@ ThreatPosed=0
 InvisibleInGame=yes
 
 [GAPILE]
-Name=Command Center
+Name=Штаб;Command Center
 Factory=None
 Unsellable=true
 
@@ -970,7 +970,7 @@ Storage=400
 
 [GDIC]
 Cost=2000
-Name=M270 MLRS
+Name=РСЗО M270;M270 MLRS
 Image=TDMSM
 Owner=GDI
 Speed=15
@@ -987,7 +987,7 @@ InvisibleInGame=yes
 Insignificant=yes
 
 [GTSENS]
-Name=Fluxgate Magnometer
+Name=Феррозондовый Магнитометр;Fluxgate Magnometer
 Unsellable=true
 
 [General]
@@ -1050,7 +1050,7 @@ ProjectileRange=60
 
 [INFECT]
 Cost=500
-Name=Medic
+Name=Медик;Medic
 Image=MEDIC
 Owner=GDI
 Speed=15
@@ -1064,7 +1064,7 @@ RadarInvisible=yes
 InvisibleInGame=yes
 
 [JUNKHO]
-Name=Warehouse
+Name=Склад;Warehouse
 Capturable=true
 
 [KNGFLG]
@@ -1112,7 +1112,7 @@ Warhead=SAGDI
 Projectile=Invisible
 
 [NABPAD]
-Name=UFO Launch Pad
+Name=Посадочная Площадка НЛО;UFO Launch Pad
 
 [NAMINE]
 Cloakable=no
@@ -1145,7 +1145,7 @@ Capturable=true
 [ROCK001]
 Bib=yes
 Cost=2000
-Name=Rock
+Name=Камень;Rock
 Armor=heavy
 Image=DONUTS
 Owner=GDI
@@ -1210,7 +1210,7 @@ Damage=250
 [SCRINB]
 ROT=20
 Ammo=-1
-Name=UFO Prototype
+Name=Прототип НЛО;UFO Prototype
 Elite=HarpyClawElite
 Image=SCRINB
 Speed=50
@@ -1231,7 +1231,7 @@ Conventional=yes
 
 [SNIPER]
 Cost=600
-Name=Sniper
+Name=Снайпер;Sniper
 Category=Soldier
 TechLevel=11
 
@@ -1255,7 +1255,7 @@ Projectile=Invisible
 
 [TDA10]
 Cost=2500
-Name=A10 Warthog
+Name=Бородавочник A10;A10 Warthog
 Elite=BombElite
 Speed=40
 Primary=Bomb
@@ -1277,7 +1277,7 @@ HasSpotlight=true
 
 [TDMSM]
 Cost=2000
-Name=M270 MLRS
+Name=РСЗО M270;M270 MLRS
 Primary=227mmMissileGDI
 TechLevel=11
 Prerequisite=ROCK001,GAPILE
@@ -1301,7 +1301,7 @@ Speed=40
 
 [TRAP]
 Cost=400
-Name=Motorcycle
+Name=Мотоцикл;Motorcycle
 Speed=20
 Crusher=no
 Primary=none
@@ -10122,9 +10122,9 @@ AreTeamMembersRecruitable=no
 15=GDI,TDA10,256,154,82,64,Guard,None,0,0,1,0
 
 [Briefing]
-1=They actually decided to do it.  These crazy bastards showed up outside Area 51 and now we have to get rid of them.  We cannot allow any civilians to expose the truth about extraterrestrial life, time manipulation, or weather control.@@
-2=OBJECTIVE 1: Defend the base for 30 minutes.@@
-3=OBJECTIVE 2: Do not allow our secret technology to be infiltrated or stolen.@@
+1=Они действительно решили это сделать. Эти сумасшедшие ублюдки появились за пределами Зоны 51, и теперь мы должны избавиться от них. Мы не можем позволить ни одному гражданскому раскрыть правду о внеземной жизни, манипуляции временем или управлении погодой.@@
+2=Задача 1: Защищайте базу в течении 30 минут.@@ 
+3=Задача 2: Не позвольте украсть или воспользоваться нашими секретными технологиями.@@
 
 [CHIN]
 IQ=0

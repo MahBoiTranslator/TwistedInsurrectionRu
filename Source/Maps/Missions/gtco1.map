@@ -91,19 +91,19 @@ TiberiumDeathToVisceroid=no
 AllyReveal=no
 
 [BBOARD08]
-Name=Join GloboTech - Your City Needs You!
+Name=Присоединяйтесь к ГлобоТех: Ваш Город Нуждается В Вас;Join GloboTech - Your City Needs You!
 
 [BBOARD11]
 LegalTarget=no
 
 [CA0013]
-Name=Automated Water Purifiers
+Name=Автоматизированный Очиститель Воды;Automated Water Purifiers
 
 [CATRBN]
 Insignificant=yes
 
 [CITY02]
-Name=Crimson & Co's
+Name=Кримзон И Компания;Crimson & Co's
 
 [CITY03]
 LegalTarget=no
@@ -112,14 +112,14 @@ LegalTarget=no
 LegalTarget=no
 
 [CITY08]
-Name=Abandoned Offices
+Name=Заброшенные Офисы;Abandoned Offices
 
 [CITY18]
-Name=Draiman Asylum
+Name=Психбольница Драймана;Draiman Asylum
 LegalTarget=no
 
 [CITY32]
-Name=Zeta Tower
+Name=Башня Дзета;Zeta Tower
 
 [CITY33]
 Insignificant=no
@@ -128,11 +128,11 @@ Insignificant=no
 LegalTarget=no
 
 [CITY40]
-Name=Recruitement Center
+Name=Военкомат;Recruitement Center
 LegalTarget=no
 
 [CITY45]
-Name=Storage House
+Name=Дом-хранилище;Storage House
 
 [CIV1]
 Primary=none
@@ -1955,14 +1955,22 @@ TransportsReturnOnUnload=no
 AreTeamMembersRecruitable=no
 
 [Briefing]
-1=We have become aware of an impending terrorist attack
-2=in Upsilon City. Unfortunately, most of the local
-3=garrison is preoccupied with escorting vital GloboTech
-4=assets outside the city. Defend the city with all
-5=available units.@@
-6=You must avoid excess civilian casualties.@@
-7=Mission Objective: Protect Upsilon City from any and
-8=all terrorist actions.@@
+1=Нас предупредили о готовящейся террористической атаке 
+;We have become aware of an impending terrorist attack
+2=на город Эпсилон. К сожалению, большая часть местного 
+;in Upsilon City. Unfortunately, most of the local
+3=гарнизона занята сопровождением жизненно важных предметов ГлобоТех 
+;garrison is preoccupied with escorting vital GloboTech
+4=вне города. Защищайте город всеми 
+;assets outside the city. Defend the city with all
+5=доступными войсками.@@
+;available units.@@
+6=Вы должны избегать излишних потерь среди гражданских.@@
+;You must avoid excess civilian casualties.@@
+7=Задача: Защищайте город Эпсилон от любых 
+;Mission Objective: Protect Upsilon City from any and
+8=террористических действий.
+;all terrorist actions.@@
 
 [CellTags]
 44077=01000142

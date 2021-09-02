@@ -32,16 +32,16 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=yes
 
 [BILLDREG]
-Name=Hail to our tiberian future!
+Name=Да здравствует наше Тибериевое Будущее!;Hail to our tiberian future!
 
 [CA0004]
-Name=Train Station
+Name=Вокзал;Train Station
 
 [CIV1]
 Primary=none
 
 [CIV2]
-Name=Cultist
+Name=Культист;Cultist
 
 [CIV3]
 Primary=none
@@ -505,15 +505,13 @@ AreTeamMembersRecruitable=no
 01000071=1,1,0,0,0,0,0,0,A
 
 [Briefing]
-1=We have become aware of a Nod supply facility within the area. Our intelligence tells
-2=us that this is a very important Nod transit route -- so destroying this facility should
-3=help us cripple the Brotherhood and bring it closer to defeat. There is an old GDI base
-4=standing somewhere in the area. Locate it and bring it back online.@@
-5=You will be supplied with our latest weapon, the "Scatterpack" Gatling Walker, for this
-6=operation. These walkers excel at eliminating enemy infantry and aircraft.
-7=Good luck, sir.@@
-8=Objective 1: Locate the Abandoned GDI base.@@
-9=Objective 2: Destroy the Nod supply facility.@@
+1=Нам стало известно о комплексе снабжения Нод в этом регионе. Наша разведка докладывает нам, что это очень важный 
+2=транзитный маршрут Нод. Так что уничтожение этого комплекса поможет нам навредить Братству и приблизить его к поражению. 
+3=Где-то в этом районе находится старая база ГСБ. Найдите её и верните её в строй.@@ Для этой операции вы будете оснащены 
+4=нашими последними разработками, Шагоходом Распылитель. Эти шагоходы преуспеют в уничтожении вражеской пехоты и авиации. 
+5=Удачи, сэр.@@
+6=Задача 1: Найдите заброшенную базу ГСБ.@@
+7=Задача 2: Уничтожьте базу снабжения Нод.@@
 
 [CellTags]
 35121=01000037

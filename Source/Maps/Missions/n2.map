@@ -1571,23 +1571,23 @@ Name=Intro Civilian 2
 Name=Heavy Tank
 
 [Briefing]
-1=DATA LINK ESTABLISHED@@
-2=It seems our victory over GDI wasn't as absolute as
-3=we initially thought. Even though the UN has formally
-4=capitulated, stubborn elements of GDI have refused to
-5=die, scuttling about like the insects they truly are.@@
-6=One of our air patrols has located several small groups
-7=of GDI infantry in the surrounding forest. They appear
-8=to be aided by the same militia you encountered in your
-9=last assignment. It is unknown as to what exactly these
-10=pests are up to, but whatever it is, it is defiance
-11=against Kane's will and therefore must be dealt with.@@
-12=Use this INCINERATOR team to purify the forest of
-13=enemy forces. Once the area is secured, locate the
-14=nest of these vermin and burn it to the ground.@@
-15=DATA LINK TERMINATED@@
-16=Objective 1: Eliminate all enemy forces in the area.@@
-17=Objective 2: Locate and destroy the enemy base camp.
+1=СВЯЗЬ УСТАНОВЛЕНА@@
+2=Похоже наша победа над ГСБ не была окончательной, как 
+3=мы изначально думали. Хотя ООН формально 
+4=капитулировала, небольшие ячейки ГСБ отказываются
+5=умирать, разбегаясь как насекомые, которыми они и являются.@@
+6=Один из наших воздушных патрулей обнаружил несколько небольших групп 
+7=пехоты ГСБ в близлежащем к вам лесу. По-видимому, им 
+8=помогают те же повстанцы, с которыми вы
+9=в последний раз сталкивались. Неизвестно, чем именно эти 
+10=вредители занимаются, но чтобы это ни было, оно идёт в разрез
+11=с волей Кейна и, следовательно, должно быть пресечено на корню.@@
+12=Используйте эту команду ИСПЕПЕЛИТЕЛЕЙ, чтобы очистить лес 
+13=от вражеских войск. Как только лес будет очищен, найдите 
+14=гнездо этих вредителей и сожгите его до тла.@@
+15=СВЯЗЬ ПРЕРВАНА@@
+16=Задача 1: Уничтожьте все вражеские войска в регионе.@@
+17=Задача 2: Найдите и уничтожьте вражеский лагерь.
 
 [CellTags]
 99109=01000079

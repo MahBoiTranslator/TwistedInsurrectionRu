@@ -107,7 +107,7 @@ DebrisMaximums=3
 InvisibleInGame=yes
 
 [CNVYWP]
-Name=Chinook
+Name=Чинук;Chinook
 Image=TDNTRAN
 Speed=40
 
@@ -1399,16 +1399,16 @@ TransportsReturnOnUnload=no
 AreTeamMembersRecruitable=no
 
 [Briefing]
-1=DATA LINK ESTABLISHED@@
-2=Brother, you are indeed zealous! We had not expected to find anything of value in that
-3=nest of vipers, but your deeds have borne unexpected fruit. This data you retrieved
-4=could prove to be valuable to the Brotherhood. Your new orders are to bring this
-5=information, and your valorous brethren, safely back to our nearby airbase
-6=for extraction. Time is of the essence brother, as GloboTech are certain to send their
-7=lackeys to investigate the communications blackout.
-8=Once your forces are safe, we'll be able to look into your discovery.@@
-9=DATA LINK TERMINATED@@
-10=Objective: Return to the airbase for immediate evacuation.
+1=СВЯЗЬ УСТАНОВЛЕНА@@
+2=Брат, вы действительно преданный своему делу! Мы не ожидали найти что-нибудь ценное в этом
+3=гнезде гадюк, но ваши поступки принесли неожиданные плоды. Эти данные, которые вы заполучили,
+4=могут оказаться ценными для Братства. Ваш новый приказ - доставить эту
+5=информацию и ваших доблестных братьев в безопасности на ближайшую авиабазу 
+6=для эвакуации. Время - самое важное, брат, поскольку ГлобоТех наверняка отправит своих 
+7=лакеев, чтобы узнать, почему комплекс не выходит на связь.
+8=Как только ваши войска будут в безопасности, мы сможем изучить вашу находку.@@
+9=СВЯЗЬ ПРЕРВАНА@@
+10=Задача: Вернитесь на авиабазу для незамедлительной эвакуации.
 
 [CellTags]
 59138=01000138

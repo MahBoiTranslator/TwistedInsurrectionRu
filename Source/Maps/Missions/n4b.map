@@ -257,7 +257,7 @@ TechLevel=-1
 TechLevel=-1
 
 [TDFTNK]
-Name=Flame Tank
+Name=Огнемётный Танк;Flame Tank
 
 [TIBSPRDR]
 LightRedTint=0.01
@@ -1431,18 +1431,18 @@ Group=-1
 3=GDI,ORCA,256,156,103,64,Area Guard,None,0,0,1,0
 
 [Briefing]
-1=DATA LINK ESTABLISHED@@
-2=GDI is rapidly growing in strength and we have yet to discover why. We believe the hostile
-3=militia that we have encountered on previous occasions may somehow be linked to GDI's rising
-4=power. We have detected heavy GDI activity in this sector, and intel reports a GDI base is located
-5=in the area. We have also traced anti-Brotherhood radio broadcasts emitting from a radar array
-6=station located in a nearby city. Additional intel reports inform us that the radar array belongs to
-7=our dear friends, the resistance forces. It must be captured! Destroy the GDI base, and silence the
-8=irritating resistance groups!@@
-9=DATA LINK TERMINATED@@
-10=Objective 1: Destroy 4 enemy armories.@@
-11=Objective 2: Destroy the GDI base.@@
-12=Objective 3: Capture the radar array.
+1=СВЯЗЬ УСТАНОВЛЕНА@@
+2=ГСБ быстро набирает силу, и нам ещё предстоит выяснить почему. Мы предполагаем, что враждебные 
+3=повстанцы, с которыми мы сталкивались ранее, могут быть каким-то образом связаны с возрастающей 
+4=мощью ГСБ. Мы обнаружили высокую активность ГСБ в этом секторе, а разведка обнаружила базу ГСБ в 
+5=регионе. Мы также отслеживаем радиопередачи с противонодовской риторикой, исходящие с радара, 
+6=расположенного в ближайшем городе. Дополнительные разведданные говорят нам о том, что радар принадлежит 
+7=нашим дорогим друзьям из сил сопротивления. Он должен быть захвачен! Уничтожьте базу ГСБ и заставьте замолчать 
+8=раздращающие ячейки сопротивления!@@
+9=СВЯЗЬ ПРЕРВАНА@@
+10=Задача 1: Уничтожьте 4 вражеских арсенала.@@
+11=Задача 2: Уничтожьте базу ГСБ@@
+12=Задача 3: Захватите радар.
 
 [CellTags]
 36126=01000088

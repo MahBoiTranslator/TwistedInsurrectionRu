@@ -1069,19 +1069,19 @@ AreTeamMembersRecruitable=no
 7=Nod1,APACHE,256,85,219,64,Guard,01000064,0,0,1,0
 
 [Briefing]
-1=DATA LINK ESTABLISHED@@
-2=Excellent work, brother. The success of your previous mission has provided us with
-3=the location of a large, underground GloboTech supply depot. GloboTech has been the backbone
-4=of GDI's sudden resurrection, and it is imperative we destroy the corporation's assets if we
-5=are to finally crush GDI. Unfortunately, we can only spare a small force for this mission.@@
-6=We have recently constructed an experimental airbase in this region that houses the new
-7=Hornet attack aircraft -- but we have been unable to make contact with it due to a high
-8=level of electromagnetic interference. Locate and establish contact with the airbase, then
-9=proceed to take over the GloboTech supply depot. Destroy any and all defenses they might have
-10=around the depot entrance.@@
-11=DATA LINK TERMINATED@@
-12=Objective 1: Make contact with the Nod airbase.@@
-13=Objective 2: Secure the GloboTech depot entrance.
+1=СВЯЗЬ УСТАНОВЛЕНА@@
+2=Прекрасная работа, брат. Ваш успех на предыдущей миссии позволил нам 
+3=обнаружить большое подземный склад снабжения ГлобоТех. ГлобоТех была причиной 
+4=внезапного восстания ГСБ, и крайне важно, чтобы мы уничтожили активы корпорации, если мы 
+5=хотим окончательно сокрушить ГСБ. К сожалению, мы можем предоставить только небольшой отряд для этой миссии.@@
+6=Мы недавно построили экспериментальную авиабазу в этом регионе, на которой располаются новые
+7=боевые самолёты - Шерни. Однако мы не смогли связаться с базой из-за сильных 
+8=электромагнитных помех. Найдите и установите связь с базой, а затем 
+9=начните атаку на склад ГлобоТех. Уничтожьте всю оборону, 
+10=которую они имеют вокруг входа в склад.@@
+11=СВЯЗЬ ПРЕРВАНА@@
+12=Задача 1: Установите контакт с авиабазой Нод.@@
+13=Задача 2: Зачистите вход в склад ГлобоТех.
 
 [CellTags]
 83183=01000045

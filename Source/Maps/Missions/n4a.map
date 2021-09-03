@@ -109,7 +109,7 @@ LegalTarget=no
 InvisibleInGame=yes
 
 [DSHP]
-Name=Chinook
+Name=Чинук;Chinook
 Image=TDNTRAN
 AuxSound1=HELUP01
 AuxSound2=HELDWN01
@@ -937,15 +937,15 @@ Name=GDI Patroll Waypoint 56
 01000112=1,1,0,1,0,0,0,0,A
 
 [Briefing]
-1=DATA LINK ESTABLISHED@@
-2=Outstanding, brother. Because of your quick thinking, we were able to hold that base and
-3=obliterate the rest of that city the militia was operating out of. Now it is time to take action against GDI's
-4=miraculous, resurrected resistance cells. Intelligence informs us of a recently
-5=constructed GDI supply base in the region. Your mission is to destroy it as soon as possible.@@
-6=You have been given clearance to use our new Viper Drones, brother. Enemy infantry stand no
-7=chance against their twin laser rifles. Use them well.@@
-8=DATA LINK TERMINATED@@
-9=Objective: Destroy the GDI supply base.
+1=СВЯЗЬ УСТАНОВЛЕНА@@
+2=Превосходно, брат. Благодаря вашему быстрому мышлению, мы смоглу удержать эту базу и
+3=уничтожить оставшуюся часть того города, из которого действовали повстанцы. Теперь пришло время принять меры против удивительно воскресших 
+4=ячеек сопротивления ГСБ. Разведка информирует нас о недавно 
+5=возведённой базе ГСБ в регионе. Выша миссия - уничтожить её как можно быстрее.@@
+6=Вам дано разрешение на использование наших новых Дронов Гадюка, брат. Вражеская пехота и шанса не имеет 
+7=выстоять против их сдвоенных лазерных винтовок. Используйте их с умом.@@
+8=СВЯЗЬ ПРЕРВАНА@@
+9=Задача: Уничтожьте базу снабжения ГСБ.
 
 [CellTags]
 24080=01000111

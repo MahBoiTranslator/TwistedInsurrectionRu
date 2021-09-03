@@ -120,19 +120,19 @@ TiberiumDeathToVisceroid=yes
 01000271=9,17,0,0,0,0,0,0,A,17,0,2,0,0,0,0,A,17,0,4,0,0,0,0,A,17,0,7,0,0,0,0,A,17,0,9,0,0,0,0,A,17,0,11,0,0,0,0,A,17,0,13,0,0,0,0,A,17,0,14,0,0,0,0,A,17,0,16,0,0,0,0,A
 
 [BBOARD01]
-Name=GlocoTech safe city, for your protection!
+Name=Защищённые города ГлобоТех для вашей защиты!;GlocoTech safe city, for your protection!
 
 [BBOARD05]
-Name=Enjoy life without tiberium!
+Name=Наслаждайтесь жизнью без тиберия!;Enjoy life without tiberium!
 
 [BBOARD09]
-Name=Enjoy life without tiberium!
+Name=Наслаждайтесь жизнью без тиберия!;Enjoy life without tiberium!
 
 [CA0006]
-Name=Sewage Machinery
+Name=Канализационное Оборудование;Sewage Machinery
 
 [CA0007]
-Name=Sewage Machinery
+Name=Канализационное Оборудование;Sewage Machinery
 
 [CACRSH04]
 Immune=yes
@@ -148,97 +148,97 @@ LightIntensity=0.4
 LightVisibility=2400
 
 [CITY10]
-Name=Supply Storage
+Name=Хранилище Припасов;Supply Storage
 
 [CITY50]
-Name=Apartment Block
+Name=Многоквартирный Дом;Apartment Block
 
 [CITY52]
-Name=Apartment Block
+Name=Многоквартирный Дом;Apartment Block
 
 [CITY53]
-Name=Apartment Block
+Name=Многоквартирный Дом;Apartment Block
 
 [CITY54]
-Name=Apartment Block
+Name=Многоквартирный Дом;Apartment Block
 
 [CITY55]
-Name=Apartment Block
+Name=Многоквартирный Дом;Apartment Block
 
 [CITY56]
-Name=Apartment Block
+Name=Многоквартирный Дом;Apartment Block
 
 [CITY60]
-Name=Apartment Block
+Name=Многоквартирный Дом;Apartment Block
 
 [CITY61]
-Name=Apartment Block
+Name=Многоквартирный Дом;Apartment Block
 
 [CITY62]
-Name=Apartment Block
+Name=Многоквартирный Дом;Apartment Block
 
 [CITY63]
-Name=Apartment Block
+Name=Многоквартирный Дом;Apartment Block
 
 [CITY64]
-Name=Apartment Block
+Name=Многоквартирный Дом;Apartment Block
 
 [CITY65]
-Name=Apartment Block
+Name=Многоквартирный Дом;Apartment Block
 
 [CITY66]
-Name=Apartment Block
+Name=Многоквартирный Дом;Apartment Block
 
 [CITY67]
-Name=Apartment Block
+Name=Многоквартирный Дом;Apartment Block
 
 [CITY68]
-Name=Apartment Block
+Name=Многоквартирный Дом;Apartment Block
 
 [CITY69]
-Name=Apartment Block
+Name=Многоквартирный Дом;Apartment Block
 
 [CITY70]
-Name=Apartment Block
+Name=Многоквартирный Дом;Apartment Block
 
 [CITY71]
-Name=Apartment Block
+Name=Многоквартирный Дом;Apartment Block
 
 [CITY72]
-Name=Apartment Block
+Name=Многоквартирный Дом;Apartment Block
 
 [CITY73]
-Name=Apartment Block
+Name=Многоквартирный Дом;Apartment Block
 
 [CITY74]
-Name=Apartment Block
+Name=Многоквартирный Дом;Apartment Block
 
 [CITY75]
-Name=Apartment Block
+Name=Многоквартирный Дом;Apartment Block
 
 [CITY76]
-Name=Shopping Center
+Name=Торгово-Развлекательный Центр;Shopping Center
 
 [CITY77]
-Name=Shopping Center
+Name=Торгово-Развлекательный Центр;Shopping Center
 
 [CITY78]
-Name=Shopping Center
+Name=Торгово-Развлекательный Центр;Shopping Center
 
 [CITY79]
-Name=Shopping Center
+Name=Торгово-Развлекательный Центр;Shopping Center
 
 [CITY80]
-Name=Shopping Center
+Name=Торгово-Развлекательный Центр;Shopping Center
 
 [CITY81]
-Name=Shopping Center
+Name=Торгово-Развлекательный Центр;Shopping Center
 
 [CITY82]
-Name=Shopping Center
+Name=Торгово-Развлекательный Центр;Shopping Center
 
 [CITY83]
-Name=Shopping Center
+Name=Торгово-Развлекательный Центр;Shopping Center
 
 [CIV1]
 Points=1
@@ -302,7 +302,7 @@ VoiceSelect=FIEND2
 [DUMMYINF]
 Pip=white
 Cost=10
-Name=Railroad Crossing Blocker Opener
+Name=Стрелка На Железнодрожных Путях;Railroad Crossing Blocker Opener
 Armor=none
 Image=E1
 Owner=GDI,Nod
@@ -499,7 +499,7 @@ LightIntensity=-0.17
 LightVisibility=3500
 
 [POWGEN]
-Name=Emergency Power Generator
+Name=Экстренный Энергогенератор;Emergency Power Generator
 Power=0
 
 [STBUG]
@@ -512,7 +512,7 @@ Speed=6
 [TDMSM]
 ROT=6
 Cost=1400
-Name=Lancer
+Name=Копейщик;Lancer
 Image=GTMS
 Speed=9
 Points=14
@@ -2533,19 +2533,19 @@ Name=GT Hunters 1
 Name=GT Hunters 2
 
 [Briefing]
-1=INCOMING TRANSMISSION FROM DR. INCANDELA@@
-2=Greetings, Brother. Due to your impressive performance as of late, I have
-3=decided that it will be you who has the honor of being a part of my groundbreaking
-4=experiment.@@
-5=Meet the INFECTOR! A cybernetically enhanced elite commando, half man -
-6=half Tiberium! With his SMR.2 Mutation Rifle, he can turn any living being into a
-7=wonderously evolved Tiberium seraph!@@
-8=There's a GloboTech safe haven for civilians near your headquarters. Send the Infector,
-9=and leave no survivors! If everything goes as planned, the events of today will have
-10=our enemy talking for years!@@
-11=TRANSMISSION ENDS@@
-12=Objective 1: Infiltrate the GloboTech safe city.@@
-13=Objective 2: Evolve every inhabitant in the city.
+1=СООБЩЕНИЕ ОТ ДОКТОРА ИНКАНДЕЛА@@
+2=Приветствую, Брат. Благодаря вашим впечатляющим результатам за последнее время, я 
+3=решил, что это будете вы, кому выпадет честь принять участие в моём революционном
+4=эксперименте.@@
+5=Знакомьтесь - ИНФЕКТОР! Кибернетически улучшенный элитный командос. Наполовину человек, 
+6=наполовину тиберий. При помощи своей винтовки SMR.2 он может превращать любое живое существо в 
+7=удивительный эволюционирующий тибериевый серафим!@@
+8=Рядом с вашим штабом расположен безопасный рай ГлобоТех для гражданских. Отправьте туда Инфектора 
+9=и не оставляйте выживших! Если всё пройдёт как запланировано, то наши враги будут годами 
+10=говорить о событиях этого дня!@@
+11=КОНЕЦ СООБЩЕНИЯ@@
+12=Задача 1: Проникните в защищённый город ГлобоТех.@@
+13=Задача 2: Мутируйте каждого жителя в городе.
 
 [CellTags]
 33150=01000042

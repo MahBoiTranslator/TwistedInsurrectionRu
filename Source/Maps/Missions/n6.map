@@ -200,17 +200,17 @@ BuildWeapons=GAWEAP,CITY41
 01000401=3,57,0,16,0,0,0,0,A,80,1,01000408,0,0,0,0,AC,103,0,0,0,0,0,0,A
 
 [CA0015]
-Name=Unknown Device
+Name=Неизвестное Устройство;Unknown Device
 Immune=yes
 LegalTarget=no
 
 [CA0016]
-Name=Machinery
+Name=Обрудование;Machinery
 
 [CITY41]
 Bib=yes
 Cost=2000
-Name=Fist of Nod
+Name=Кулак Нод;Fist of Nod
 Armor=heavy
 Owner=Nod
 Power=0
@@ -249,7 +249,7 @@ DamageSmokeOffset=395, 750, 410
 DamageParticleSystems=SparkSys,SmallGreySSys,BigGreySmokeSys
 
 [CIVSWP]
-Name=Cistern
+Name=Цистерна;Cistern
 Capturable=no
 
 [CNVYTB]
@@ -444,7 +444,7 @@ Cost=1.0
 [FTNK]
 ROT=5
 Cost=1500
-Name=Anti-Tank Support
+Name=Противо-танковая Поддержка;Anti-Tank Support
 Armor=heavy
 Elite=TachyonCannonElite
 Image=NODBACK2
@@ -489,7 +489,7 @@ DamageParticleSystems=SparkSys,SmallGreySSys
 AllowedToStartInMultiplayer=yes
 
 [GAGATE_A]
-Name=GloboTech Gate
+Name=Врата ГлобоТех;Globotech Gate
 Immune=yes
 Nominal=yes
 Selectable=no
@@ -497,7 +497,7 @@ LegalTarget=no
 Insignificant=yes
 
 [GAGATE_B]
-Name=GloboTech Gate
+Name=Врата ГлобоТех;Globotech Gate
 Immune=yes
 Nominal=yes
 Selectable=no
@@ -505,13 +505,13 @@ LegalTarget=no
 Insignificant=yes
 
 [GSIL]
-Name=Liquid Container
+Name=Контейнер С Жидкостью;Liquid Container
 
 [GTCIVHO]
-Name=GloboTech Research Laboratory
+Name=Исследовательская Лаборатория ГлобоТех;GloboTech Research Laboratory
 
 [GTTIBMON]
-Name=GloboTech Storage
+Name=Хранилище ГлобоТех;GloboTech Storage
 
 [GTSNT]
 Power=0
@@ -540,7 +540,7 @@ PrerequisiteNodFactory=NAWEAP
 [HOWITZ]
 ROT=8
 Cost=1500
-Name=Anti-Infantry Support
+Name=Противо-пехотная Поддержка;Anti-Infantry Support
 Armor=light
 Elite=65mme
 Image=NODBACK3
@@ -590,7 +590,7 @@ LightVisibility=1800
 ROT=6
 Cost=1500
 Dock=NAREFN,DPREFN,GAREFN
-Name=Infantry Support
+Name=Пехотная Поддержка;Infantry Support
 Armor=heavy
 Image=NODBACK1
 Owner=Nod
@@ -2348,14 +2348,14 @@ TransportsReturnOnUnload=no
 AreTeamMembersRecruitable=no
 
 [Briefing]
-1=DATA LINK ESTABLISHED@@
-2=Great work, Brother. Your efforts on your previous mission have allowed us to infiltrate the
-3=GloboTech supply depot. We have no use for the supplies or equipment here, so ghost the
-4=facility for structural flaws. We will bring the place down with our Demolition Drones.
-5=This huge blow to GloboTech will have a ripple effect that will come crashing down on
-6=GDI.@@
-7=DATA LINK TERMINATED@@
-8=Objective: Find the facility's structural weak spots@@
+1=СВЯЗЬ УСТАНОВЛЕНА@@
+2=Великолепная работа, брат. Ваши успехи в предыдущей миссии позволили нам проникнуть внутрь
+3=склада ГлобоТех. Нам здесь не нужны ни припасы, ни оборудование, так что обыщите 
+4=комплекс на предмет структурных изъянов. Мы обрушим это место при помощи наших Дронов Бомбовоз.
+5=Этот большой удар по ГлобоТех станет ударной волной, которая со временем обрушится на
+6=ГСБ.@@ 
+7=СВЯЗЬ ПРЕРВАНА@@
+8=Задача: Найдите уязвимые места комплекса.
 
 [CellTags]
 73124=01000055

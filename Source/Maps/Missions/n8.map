@@ -107,16 +107,16 @@ TiberiumDeathToVisceroid=yes
 01000230=2,52,0,2,0,0,0,0,A,54,2,01000041,0,0,0,0,A
 
 [BILLGDI]
-Name=Stop! Out of use
+Name=Стойте! Опасно;Stop! Out of use
 
 [CA0005]
-Name=Barracks
+Name=Казармы;Barracks
 
 [CA0006]
-Name=Temp Labs
+Name=Временные Лаборатории;Temp Labs
 
 [CA0010]
-Name=Canteen
+Name=Военный Торговый Магазин;Canteen
 
 [CACRSH04]
 Immune=yes
@@ -125,10 +125,10 @@ LegalTarget=no
 InvisibleInGame=yes
 
 [CIVB19]
-Name=Heavy Weapons Factory
+Name=Тяжёлый Военный Завод;Heavy Weapons Factory
 
 [CIVB22]
-Name=Light Weapons Factory
+Name=Лёгкий Военный Завол;Light Weapons Factory
 
 [Events]
 01000005=1,13,0,10
@@ -212,10 +212,10 @@ Range=8
 Insignificant=yes
 
 [GDIBILLB]
-Name=Stop! Bridge out!
+Name=Стойте! Мост разрушен!;Stop! Bridge out!
 
 [GTCIVHO]
-Name=GloboTech Personnel Accomodations
+Name=Жилые Помещения Персонала ГлобоТех;GloboTech Personnel Accomodations
 
 [GTMCV]
 TechLevel=-1
@@ -296,7 +296,7 @@ LightVisibility=3000
 TechLevel=-1
 
 [POWGEN]
-Name=Power Relay
+Name=Реле;Power Relay
 Armor=Light
 Strength=200
 
@@ -1861,18 +1861,18 @@ Group=-1
 1=GDI,ORCA,256,58,58,64,Guard,None,0,0,1,0
 
 [Briefing]
-1=DATA LINK ESTABLISHED@@
-2=GDI and GloboTech have a strategically important base in this area. It must be destroyed.
-3=Our previous efforts to attack the base have been hindered by rough terrain and heavy
-4=anti-air defenses. Fortunately, a new weapon may turn the tide to our favor.@@
-5=Our new INFERNO FLAME TANKS make use of amphibious hover technology recovered from the
-6=GloboTech supply depot you destroyed. They should prove crucial in destroying the enemy base.@@
-7=There is an abandoned Nod base southeast of the GDI-GloboTech complex. Reclaim the base and use
-8=it as your staging ground. Capturing the Technology Center should bring the base back online.
-9=Good luck!@@
-10=DATA LINK TERMINATED@@
-11=Objective 1: Reclaim our base to the southeast by capturing the Technology Center.@@
-12=Objective 2: Destroy both GDI and GloboTech bases.@@
+1=СВЯЗЬ УСТАНОВЛЕНА@@
+2=ГСБ и ГлобоТех имеют стратегически важные базы в этом регионе. Они должны быть стёрты с лица земли.
+3=Наши предыдущие попытки атаковать базы были затруднены из-за холмисто-овражистого рельефа и тяжёлой 
+4=противовоздушной обороны. К счастью, новое вооружение может повернуть удачу в нашу сторону.@@
+5=Наши новые ОГНЕМЁТНЫЕ ТАНКИ ИНФЕРНО - это амфибии, использующие технологию парения, 
+6=заполученную после уничтожения склада ГлобоТех. Они послужат ключевым элементом в уничтожении вражеских баз.@@
+7=В регионе имеется заброшенная база Нод на юго-востоке от ГСБшно-ГлобоТеховского комплекса. Верните базу и используйте 
+8= её как плацдарм. Захват Техцентра должен включить базу. 
+9=Удачи!@@
+10=СВЯЗЬ ПРЕРВАНА@@
+11=Задача 1: Верните нашу базу на юго-востоке, захватив Техцентр.@@
+12=Задача 2: Уничтожьте базы ГСБ и ГлобоТех.
 
 [CellTags]
 30075=01000155

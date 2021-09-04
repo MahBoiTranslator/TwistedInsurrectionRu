@@ -293,7 +293,7 @@ Insignificant=no
 [MMKII]
 ROT=5
 Cost=900
-Name=Testing Unit
+Name=Тестовый Юнит;Testing Unit
 Armor=heavy
 Elite=TestUnitWeapon
 Owner=GDIA
@@ -1809,19 +1809,32 @@ TransportsReturnOnUnload=no
 AreTeamMembersRecruitable=no
 
 [Briefing]
-1=DATA LINK ESTABLISHED@@
-2=The GloboTech-GDI alliance grows stronger with every passing day, brother. Their
-3=union needs to be broken, no matter what the cost. Fortunately, we have discovered
-4=the perfect opportunity to break the alliance apart at the seams.@@
-5=This area houses a GDI harvesting facility and a GloboTech research facility in close
-6=proximity. We've intercepted a distress call from the GDI base, apparently they're having
-7=great trouble fending off the local Tiberium lifeforms. Brother, if you can capture this
-8=base and use the GDI equipment to destroy the GloboTech research facility, it should
-9=break GloboTech's trust in GDI. If you succeed, you will drastically change the course
-10=of the war.@@
-11=DATA LINK TERMINATED@@
-12=Objective 1: Capture the GDI harvesting facility@@
-13=Objective 2: Destroy the GloboTech research facility
+1=СВЯЗЬ УСТАНОВЛЕНА@@
+ ;DATA LINK ESTABLISHED@@
+2=Союз ГСБ и ГлобоТех становится крепче с каждым днём, брат. Их 
+ ;The GloboTech-GDI alliance grows stronger with every passing day, brother. Their
+3=союз необходимо разорвать. Не важно, какой ценой. К счастью, мы обнаружили 
+ ;union needs to be broken, no matter what the cost. Fortunately, we have discovered
+4=идеальную возможность заставить трещать союз по швам.@@
+ ;the perfect opportunity to break the alliance apart at the seams.@@
+5=В этом регионе располагается добывающий комплекс ГСБ и рядом с ним исследовательский комплекс ГлобоТех.
+ ;This area houses a GDI harvesting facility and a GloboTech research facility in close
+6=Мы перехватили сигнал SOS с базы ГСБ, которая испытывает 
+ ;proximity. We've intercepted a distress call from the GDI base, apparently they're having
+7=огромные проблемы с защитой от тибериевой фауны в этом регионе. Брат, если вы сможете захватить эту
+ ;great trouble fending off the local Tiberium lifeforms. Brother, if you can capture this
+8=базу и использовать технику ГСБшников для уничтожения исследовательского комплекса ГлобоТех, то это должно 
+ ;base and use the GDI equipment to destroy the GloboTech research facility, it should
+9=подорвать доверие ГлобоТех к ГСБ. Если у вас получится - вы кардинально поменяете ход
+ ;break GloboTech's trust in GDI. If you succeed, you will drastically change the course
+10=войны.@@
+ ;of the war.@@
+11=СВЯЗЬ ПРЕРВАНА@@
+ ;DATA LINK TERMINATED@@
+12=Задача 1: Захватите добывающий комплекс ГСБ.@@
+ ;Objective 1: Capture the GDI harvesting facility@@
+13=Задача 2: Уничтожьте исследовательский комплекс ГлобоТех.
+ ;Objective 2: Destroy the GloboTech research facility
 
 [Dummy1]
 IQ=0

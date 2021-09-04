@@ -250,7 +250,7 @@ TechLevel=-1
 [MMKII]
 ROT=5
 Cost=900
-Name=Testing Unit
+Name=Тестовый Юнит;Testing Unit
 Armor=heavy
 Elite=TestUnitWeapon
 Owner=GDIA
@@ -319,15 +319,15 @@ LightVisibility=3500
 TechLevel=-1
 
 [NODCITY1]
-Name=Office Buildings
+Name=Офисное Здание;Office Buildings
 Sight=7
 
 [NODCITY2]
-Name=Office Buildings
+Name=Офисное Здание;Office Buildings
 Sight=7
 
 [NODCITY3]
-Name=Office Buildings
+Name=Офисное Здание;Office Buildings
 Sight=7
 
 [NREPAIR]

@@ -1641,13 +1641,20 @@ AreTeamMembersRecruitable=no
 12=GDIEMP,ORCAEMP,256,117,68,64,Area Guard,None,0,0,1,0
 
 [Briefing]
-1=DATA LINK ESTABLISHED@@
-2=INNER CIRCLE DIRECT ORDER 1-1-5-6@@
-3=GDI FORCES DETECTED OUTSIDE LAZARUS COMPLEX, MAIN CYBERNETICS FACILITY.
-4=PRODUCTION MUST NOT BE COMPROMISED. PROTOTYPE WEAPONS AT STAKE.@@
-5=SECURE THE AREA. DESTROY ALL GDI PRESENCE.@@
-6=DATA LINK TERMINATED@@
-7=Objective: Destroy all GDI forces.
+1=ябъгэ сярюмнбкемю@@
+ ;DATA LINK ESTABLISHED@@
+2=опълни опхйюг бмсрпеммецн йпсцю 1-1-5-6@@
+ ;INNER CIRCLE DIRECT ORDER 1-1-5-6@@
+3=намюпсфемш бнияйю цяа б опедекюу дняхцюелнярх йнлокейяю кюгюпэ, цкюбмнцн йхаепмерхвеяйнцн йнлокейяю. 
+ ;GDI FORCES DETECTED OUTSIDE LAZARUS COMPLEX, MAIN CYBERNETICS FACILITY.
+4=опнхгбндярбн ме днкфмн ашрэ нярюмнбкемн. опнрнрхош бннпсфемхъ онд сцпнгни.@@
+ ;PRODUCTION MUST NOT BE COMPROMISED. PROTOTYPE WEAPONS AT STAKE.@@
+5=гювхярхре пецхнм. смхврнфэре бяе бнияйю цяа.@@
+ ;SECURE THE AREA. DESTROY ALL GDI PRESENCE.@@
+6=ябъгэ опепбюмю@@
+ ;DATA LINK TERMINATED@@
+7=гЮДЮВЮ: сМХВРНФЭРЕ БЯЕ БНИЯЙЮ цяа.
+ ;Objective: Destroy all GDI forces.
 
 [COBRA]
 TechLevel=1

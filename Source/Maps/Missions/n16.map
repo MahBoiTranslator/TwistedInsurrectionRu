@@ -246,7 +246,7 @@ AllyReveal=yes
 
 [BILLTORE]
 Cost=250
-Name=Support Scaffolding
+Name=Строительные Леса;Support Scaffolding
 Armor=wood
 Immune=yes
 Points=5
@@ -292,7 +292,7 @@ LightIntensity=0.1
 LightVisibility=3500
 
 [COMMCENT]
-Name=General Owen's Command Center
+Name=Штаб генерала Оуэна;General Owen's Command Center
 Armor=concrete
 Nominal=yes
 Strength=3000
@@ -542,7 +542,7 @@ TechLevel=-1
 SuperWeapon=none
 
 [GASPOT]
-Name=Lighthouse
+Name=Маяк;Lighthouse
 Owner=Neutral
 Nominal=yes
 
@@ -577,15 +577,15 @@ SuperWeapon=none
 CloakRadiusInCells=16
 
 [NODCITY2]
-Name=Nod Research Building
+Name=Исследовательское Здание Нод;Nod Research Building
 
 [NODCITY3]
-Name=Nod Research Building
+Name=Исследовательское Здание Нод;Nod Research Building
 
 [OXANNA]
 Pip=white
 Cost=50
-Name=Armed Civilian
+Name=Вооружённый Гражданский;Armed Civilian
 Armor=none
 Owner=GDI,Nod
 Sight=6
@@ -616,7 +616,7 @@ VeteranAbilities=STRONGER,FASTER
 AllowedToStartInMultiplayer=no
 
 [SCAFFOL2]
-Name=Support Scaffolding
+Name=Строительные Леса;Support Scaffolding
 
 [SCRINB]
 BuildLimit=9999
@@ -647,7 +647,7 @@ LightIntensity=0.007
 LightVisibility=2400
 
 [TRACAR]
-Name=Armored Train Wagon
+Name=Бронированный Вагон Поезда;Armored Train Wagon
 Armor=concrete
 Owner=Nod
 Speed=15
@@ -656,7 +656,7 @@ Passengers=0
 Selectable=no
 
 [TRACARGO]
-Name=Armored Train Cargo Wagon
+Name=Бронированный Грузовой Вагон Поезда;Armored Train Cargo Wagon
 Armor=concrete
 Owner=Nod
 Speed=15
@@ -665,7 +665,7 @@ Passengers=0
 Selectable=no
 
 [TRAENG]
-Name=Armored Train Locomotive
+Name=Бронированный Локомотив Поезда;Armored Train Locomotive
 Armor=concrete
 Owner=Nod
 Speed=15
@@ -678,7 +678,7 @@ Name=Trash disposal cart
 [UMAGON]
 Pip=white
 Cost=50
-Name=Armed Civilian
+Name=Вооружённый Гражданский;Armed Civilian
 Armor=none
 Owner=GDI,Nod
 Sight=6
@@ -2889,21 +2889,21 @@ AreTeamMembersRecruitable=no
 25=GDIBF,ORCA,256,265,233,64,Area Guard,None,0,0,1,0
 
 [Briefing]
-1=DATA LINK ESTABLISHED@@
-2=Despite your efforts, GDI has managed to get their Ion Cannon into orbit. In addition,
-3=we discovered something alarming while attacking the ICARUS development facility.
-4=GDI is mass producing MAMMOTH walkers, mobile battle stations with enormous firepower.
-5=Their production is centered in a recently built but heavily fortified facility. We cannot let
-6=this production continue, so we're launching a full-scale attack on the area.@@
-7=The Mammoths are not the only reason we're attacking this site, as GDI's General Owen has
-8=moved his Command Center to this location. Taking him out and crippling GDI's morale
-9=is your main objective.@@
-10=We must establish a base in the area. There's an abandoned Nod base nearby that GDI
-11=captured from the Sons of Kane. Liberating this base should gain us the foothold we need and
-12=open a route for further reinforcements. Good luck, Commander.@@
-13=DATA LINK TERMINATED@@
-14=Objective 1: Recapture the abandoned Nod base.@@
-15=Objective 2: Destroy GDI's Command Center.
+1=СВЯЗЬ УСТАНОВЛЕНА@@
+2=Несмотря на ваши усилия, ГСБ развернул своё Ионное Орудие на орбите. В дополнение 
+3=к этому, мы обнаружили кое-что тревожное во время атаки на конструкторский комплекс ИКАР.
+4=ГСБ массово производит шагоходы МАМОНТ - мобильные боевые станции с огромной боевой мощью. 
+5=Их производство было сосредоточено в недавно построенном укрепленном комплексе. Нельзя позволить 
+6=существовать этому комплексу, поэтому мы начинаем полномасштабную атаку на этот регион.@@
+7=Мамонты - не единственная причина, почему мы атакуем эту базу. Здесь расположен
+8=перемещённый Штаб генерала Оуэна. Его уничтожение и подрывание боевой дух ГСБшников -
+9=это ваша главная задача@@
+10=Нам необходимо развенуть базу в регионе. Поблизости есть заброшенная база Нод, которую
+11=ГСБ отбил у Сынов Кейна. Возвращение этой базы даст нам необходимый плацдарм и 
+12=откроет путь для будущих подкреплений. Удачи, брат.@@
+13=СВЯЗЬ ПРЕРВАНА@@
+14=Задача 1: Захватите заброшенную базу Нод.@@
+15=Задача 2: Уничтожьте Штаб ГСБ.
 
 [CellTags]
 135154=01000376

@@ -35,13 +35,13 @@ TiberiumDeathToVisceroid=no
 Insignificant=no
 
 [BBOARD01]
-Name=If You Are Reading This, You Are A Wuj
+Name=Если вы это читаете, то вы Вудж;If You Are Reading This, You Are A Wuj
 
 [BGGY]
 Sight=5
 
 [CHAMSPY]
-Name=Hijacker
+Name=Угонщик;Hijacker
 Agent=no
 Speed=4
 Cloakable=no
@@ -65,18 +65,18 @@ Primary=none
 WoodCrate=HealBase
 
 [E1]
-Name=Minigunner
+Name=Пулемётчик;Minigunner
 
 [E1NOD]
 Sight=5
-Name=Minigunner
+Name=Пулемётчик;Minigunner
 
 [E3]
 Sight=5
-Name=Rocket Soldier
+Name=Ракетчик;Rocket Soldier
 
 [ENGINERN]
-Name=Engineer
+Name=Инженер;Engineer
 Strength=60
 Sight=5
 Speed=5
@@ -97,7 +97,7 @@ Projectile=BouncyG
 Projectile=BouncyG
 
 [NODFLAME]
-Name=Flamethrower Infantry
+Name=Огнемётчик;Flamethrower Infantry
 Strength=160
 CollateralDamageCoefficient=.1
 Cost=200
@@ -420,12 +420,10 @@ Name=A-10 Script
 01000060=3,80,1,01000063,0,0,0,0,N,80,1,01000064,0,0,0,0,K,80,1,01000065,0,0,0,0,O
 
 [Briefing]
-1=A small village friendly to our cause has been increasingly
-2=harassed by GDI, and the Brotherhood wishes you to assist them
-3=in their efforts. Once you have liberted our followers, seek
-4=out the enemy village and destroy it by any means necessary.@@
-5=Objective 1: Locate and assist the villagers.@@
-6=Objective 2: Destroy the enemy village.@@
+1=Небольшая дружелюбная к нам деревня всё чаще подвергается преследованиям со стороны ГСБ, и Братство желает, чтобы вы 
+2=помогли им. Как только вы освободите наших последователей, найдите вражескую деревню и уничтожьте её любыми методами.@@ 
+3=Задача 1: Найдите и помогите жителям.@@
+4=Задача 2: Уничтожьте вражескую деревню.@@
 
 [CellTags]
 54098=01000010

@@ -39,11 +39,11 @@ BuildBarracks=TDPYLE,TDHAND
 UnloadingHarvester=TDHORV
 
 [E1]
-Name=Minigunner
+Name=Пулемётчик;Minigunner
 Prerequisite=TDPYLE
 
 [E1NOD]
-Name=Minigunner
+Name=Пулемётчик;Minigunner
 Prerequisite=TDHAND
 
 [ENGINERG]
@@ -51,7 +51,7 @@ Prerequisite=TDPYLE
 TechLevel=1
 
 [ENGINERN]
-Name=Engineer
+Name=Инженер;Engineer
 Prerequisite=TDHAND
 Strength=60
 Sight=5
@@ -83,7 +83,7 @@ Projectile=BouncyG
 Projectile=BouncyG
 
 [NAPOWR]
-Name=Power Plant
+Name=Энергостанция;Power Plant
 Prerequisite=TDFACT
 Storage=0
 PipScale=none
@@ -157,13 +157,11 @@ AreTeamMembersRecruitable=no
 01000023=2,11,0,2,0,0,0,0,A,21,0,212,0,0,0,0,A
 
 [Briefing]
-1=GDI has kept a stranglehold on Egypt for many years. Set up a
-2=forward attack base in your area. To do this you must deploy
-3=your Mobile Construction Vehicle (MCV). From here
-4=you can begin to build a base. This area contains plenty of Tiberium,
-5=so establishing the base should be easy.@@
-6=Objective 1: Establish a Base@@
-7=Objective 2: Destroy All GDI Forces & Structures@@
+1=ГСБ держит мёртвой хваткой Египет на протяжении много лет. Разверните передовую базу в этом регионе. Чтобы сделать это 
+2=вы должны развернуть на ваш Мобильный Сборочный Цех (МСЦ). Здесь вы можете начать строить базу. Этот регион содержит 
+3=уйму тиберия, так что развёртывание базы будет быстрым.@@
+4=Задача 1: Разверните базу.@@
+5=Задача 2: Уничтожьте все войска и здания ГСБ.
 
 [Events]
 01000000=1,13,0,50

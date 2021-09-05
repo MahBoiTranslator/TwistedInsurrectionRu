@@ -50,10 +50,10 @@ Primary=none
 Primary=none
 
 [E1]
-Name=Minigunner
+Name=Пулемётчик;Minigunner
 
 [E1NOD]
-Name=Minigunner
+Name=Пулемётчик;Minigunner
 
 [Grenade]
 Projectile=BouncyG
@@ -62,7 +62,7 @@ Projectile=BouncyG
 Projectile=BouncyG
 
 [TRATOS]
-Name=Nikoomba
+Name=Никумба;Nikoomba
 
 [Preview]
 
@@ -205,10 +205,9 @@ AreTeamMembersRecruitable=no
 01000019=4,21,0,50,0,0,0,0,A,11,0,1037,0,0,0,0,A,53,2,01000000,0,0,0,0,A,54,2,01000008,0,0,0,0,A
 
 [Briefing]
-1=In order for the Brotherhood to gain a foothold, we must begin by eliminating
-2=certain elements. Nikoomba, the nearby village's leader, is one such element.
-3=His views and ours do not coincide, and he must be eliminated.@@
-4=Objective 1: Locate and Assassinate Nikoomba
+1=Для того чтобы братство смогло закрепиться, мы должны начать с устранения некоторых элементов. Никумба, лидер 
+2=соседней деревни, является одним из таких элементов. Его взгляды и наши не совпадают, и он должен быть устранен.@@ 
+3=Задача 1: Найдите и убейте Никумбу.
 
 [CellTags]
 63038=01000005

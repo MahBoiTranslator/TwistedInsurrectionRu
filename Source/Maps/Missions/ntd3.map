@@ -76,7 +76,7 @@ BuildDefense=TDGUTO
 UnloadingHarvester=TDHORV
 
 [CITY40]
-Name=Prison Complex
+Name=Тюремный Комплекс;Prison Complex
 Strength=1200
 Capturable=true
 Insignificant=no
@@ -94,11 +94,11 @@ Primary=none
 Primary=none
 
 [E1]
-Name=Minigunner
+Name=Пулемётчик;Minigunner
 Prerequisite=TDPYLE
 
 [E1NOD]
-Name=Minigunner
+Name=Пулемётчик;Minigunner
 Prerequisite=TDHAND
 
 [E2]
@@ -106,7 +106,7 @@ Prerequisite=TDPYLE
 CollateralDamageCoefficient=.23
 
 [E3]
-Name=Rocket Soldier
+Name=Ракетчик;Rocket Soldier
 Prerequisite=TDHAND
 
 [ENGINERG]
@@ -114,7 +114,7 @@ Prerequisite=TDPYLE
 TechLevel=2
 
 [ENGINERN]
-Name=Engineer
+Name=Инженер;Engineer
 Prerequisite=TDHAND
 Strength=60
 Sight=5
@@ -183,7 +183,7 @@ LightIntensity=0.01
 LightVisibility=2000
 
 [NAPOWR]
-Name=Power Plant
+Name=Энергостанция;Power Plant
 Prerequisite=TDFACT
 Storage=0
 PipScale=none
@@ -193,7 +193,7 @@ Points=4
 
 [NARADR]
 TechLevel=2
-Name=Communications Center
+Name=Центр Связи;Communications Center
 SensorArray=no
 HasRadialIndicator=false
 CloakRadiusInCells=0
@@ -1375,10 +1375,9 @@ Name=NOD 5 reap, 3 cyb
 Group=-1
 
 [Briefing]
-1=GDI has established a prison camp, where they are detaining some
-2=of the local political leaders. Kane wishes to liberate these victims.
-3=Destroy the GDI forces and capture the prison, do not destroy it.@@
-4=Objective 1: Capture the Prison@@
+1=ГСБ развернули тюремный лагерь, где они незаконно удерживают несколько местных политических лидеров. Кейн желает 
+2=освободить этих жертв. Уничтожьте все войска ГСБ и захватите тюрьму. Не уничтожайте её.@@
+3=Задача: Захватите тюрьму.@@
 
 [CellTags]
 41071=01000009

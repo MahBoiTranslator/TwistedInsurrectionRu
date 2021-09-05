@@ -44,7 +44,7 @@ TechLevel=3
 [4TNK]
 ROT=1
 Cost=1000
-Name=Gunboat
+Name=Канонерка;Gunboat
 Armor=concrete
 Image=TDBOAT
 Owner=GDI
@@ -164,14 +164,14 @@ UnloadingHarvester=TDHORV
 TechLevel=2
 
 [BILLCRIM]
-Name=How'd you get here?
+Name=Как вы здесь оказались?;How'd you get here?
 
 [CA0011]
-Name=Gas Tank
+Name=Бензовоз;Gas Tank
 Explosion=DEBOOMEX
 
 [CITY44]
-Name=Supply Depot
+Name=Склад;Supply Depot
 Armor=wood
 Strength=1000
 BaseNormal=no
@@ -213,11 +213,11 @@ TechLevel=11
 PowersUpBuilding=TDFACT
 
 [E1]
-Name=Minigunner
+Name=Пулемётчик;Minigunner
 Prerequisite=TDPYLE
 
 [E1NOD]
-Name=Minigunner
+Name=Пулемётчик;Minigunner
 Prerequisite=TDHAND
 
 [E2]
@@ -225,7 +225,7 @@ Prerequisite=TDPYLE
 CollateralDamageCoefficient=.23
 
 [E3]
-Name=Rocket Soldier
+Name=Ракетчик;Rocket Soldier
 Prerequisite=TDHAND
 
 [E4]
@@ -235,7 +235,7 @@ TechLevel=11
 Prerequisite=TDPYLE
 
 [ENGINERN]
-Name=Engineer
+Name=Инженер;Engineer
 Owner=Nod
 Sight=5
 Speed=5
@@ -439,7 +439,7 @@ TechLevel=11
 CrateGoodie=no
 
 [MHIJACK]
-Name=Martyr
+Name=Мученик;Martyr
 Sight=4
 Speed=5
 Primary=SuicideBomber
@@ -494,7 +494,7 @@ TechLevel=11
 
 [NAPOWR]
 Cost=400
-Name=Power Plant
+Name=Энергостанция;Power Plant
 Points=4
 Storage=0
 Explodes=no
@@ -502,7 +502,7 @@ PipScale=none
 Prerequisite=TDFACT
 
 [NARADR]
-Name=Communications Center
+Name=Центр Связи;Communications Center
 SensorArray=no
 CloakRadiusInCells=0
 HasRadialIndicator=false
@@ -551,7 +551,7 @@ CrateGoodie=no
 
 [NODFLAME]
 Cost=200
-Name=Flamethrower Infantry
+Name=Огнемётчик;Flamethrower Infantry
 Strength=160
 TechLevel=4
 Prerequisite=TDHAND
@@ -2642,10 +2642,12 @@ AreTeamMembersRecruitable=no
 01000142=yes
 
 [Briefing]
-1=The liberation of Niger is hindered by GDI air strikes, conducted from an airbase near Lagos, Nigeria. Your mission is simple. Establish a base, then seek out and destroy the GDI airbase.@@
-2=The captured Gunboat will assist you in this mission, provided that you first secure ammunition from a nearby GDI supply depot. However, this is purely optional - concentrate on the destruction of the GDI airbase.@@
-3=Primary Objective: Destroy the GDI airbase.@@
-4=Secondary Objective: Capture the GDI supply depot.
+1=Освобождение Нигера осложнено авианалётами ГСБ, исходящими с авиабазы близ Лагоса. Ваша миссия проста. Разверните базу, 
+2=затем найдите и уничтожьте авиабазу ГСБ.@@ Захваченная Канонерка окажет вам помощь в этой миссии при условии, что вы 
+3=сначала обеспечите её амуницией с ближайшего склада ГСБ. Однако это чисто второстепенная задача. Сконцентрируйтесь на 
+4=уничтожении авиабазы ГСБ.@@
+5=Первостепенная Задача: Уничтожьте авиабазу ГСБ.@@
+6=Второстепенная Задача: Захватите склад ГСБ.
 
 [CellTags]
 23110=01000148

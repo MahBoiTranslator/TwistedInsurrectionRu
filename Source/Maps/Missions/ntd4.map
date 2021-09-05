@@ -43,11 +43,11 @@ UnloadingHarvester=TDHORV
 Sight=6
 
 [CA0008]
-Name=Village Building
+Name=Деревенское Здание;Village Building
 Insignificant=no
 
 [CA0009]
-Name=Village Building
+Name=Деревенское Здание;Village Building
 Insignificant=no
 
 [CITY09]
@@ -90,18 +90,18 @@ Insignificant=no
 WoodCrate=HealBase
 
 [E1]
-Name=Minigunner
+Name=Пулемётчик;Minigunner
 Prerequisite=TDPYLE
 
 [E1NOD]
-Name=Minigunner
+Name=Пулемётчик;Minigunner
 
 [E2]
 Prerequisite=TDPYLE
 CollateralDamageCoefficient=.23
 
 [E3]
-Name=Rocket Soldier
+Name=Ракетчик;Rocket Soldier
 
 [ENGINERG]
 Prerequisite=TDPYLE
@@ -614,14 +614,11 @@ AreTeamMembersRecruitable=no
 01000068=2,22,2,01000051,0,0,0,0,A,54,2,01000051,0,0,0,0,A
 
 [Briefing]
-1=GDI is attempting to relocate a village of sympathetic civilians.
-2=Intercept the convoy and destroy it. It is imperative that the
-3=villagers be totally destroyed, as a lesson to any other natives
-4=who may oppose us.@@
-5=Our spies have informed us of a GDI armor devision headed towards
-6=the local GDI base. Carry out the mission quickly before the enemy
-7=reinforcements can reach the region.@@
-8=Objective 1: Destroy the Village and GDI Rescue Operations Before Reinforcements Arrive@@
+1=ГСБ пытается передислоцировать деревню взволнованных гражданских. Перехватите конвой и уничтожьте его. Необходимо 
+2=полностью уничтожить этих гражданских. Это будет уроком для других туземцев, которые могут пойти против нас.@@ Наши шпионы 
+3=проинформировали нас, что бронетанковая дивизия ГСБ направилась в сторону местной базы ГСБ. Завершите миссию до того, 
+4=как вражеские подкрепления прибудут в регион.@@
+5=Задача: Уничтожьте деревню и спасательные войска ГСБ до к ним прибытия подкреплений.
 
 [CellTags]
 26068=01000037

@@ -180,7 +180,7 @@ TiberiumDeathToVisceroid=yes
 01000387=5,11,0,462,0,0,0,0,A,61,0,0,0,0,0,0,A,54,2,01000387,0,0,0,0,A,54,2,01000076,0,0,0,0,A,80,1,01000075,0,0,0,0,CE
 
 [BBOARD10]
-Name=Hitchhiking forbidden, punishable by death!
+Name=Автостоп запрещён, карается смертью!;Hitchhiking forbidden, punishable by death!
 
 [CABBB06]
 AlphaImage=none
@@ -192,7 +192,7 @@ LegalTarget=no
 InvisibleInGame=yes
 
 [CITY45]
-Name=Storage House
+Name=Дом-хранилище;Storage House
 
 [CIV1]
 Primary=none
@@ -212,7 +212,7 @@ Repairable=true
 RadarInvisible=no
 
 [CIVB20]
-Name=Launch Tower Prototype
+Name=Прототип Стартовой Площадки;Launch Tower Prototype
 
 [CIVB21]
 Capturable=true
@@ -228,7 +228,7 @@ RadarInvisible=no
 TechLevel=-1
 
 [DOCRNS]
-Name=Crane
+Name=Кран;Crane
 
 [Events]
 01000000=2,36,0,1,36,0,2
@@ -532,7 +532,7 @@ LightIntensity=0.013
 LightVisibility=2800
 
 [WTRSILOB]
-Name=Chemical Silo
+Name=Хранилище Химикатов;Chemical Silo
 
 [Preview]
 Size=0,0,200,110
@@ -2309,18 +2309,30 @@ Name=Easter Egg Harvester
 Group=-1
 
 [Briefing]
-1=DATA LINK ESTABLISHED@@
-2=You truly are the one to lead us to victory, brother. Thanks to you the Sons of Kane
-3=have seen the light, and we are reunited once again so that we may fulfill Kane's true legacy!@@
-4=During the conflict of brothers, the Inner Circle uncovered a large and heavily defended
-5=GDI facility. This facility is protected by some sort of energy barrier that nothing can get through.@
-6=GDI is going great lengths to hide something -- find a way to infiltrate the base and uncover their secrets.@@
-7=The Sons of Kane have set up an outpost nearby. Your task is to escort an MCV to
-8=that outpost without being detected by GDI. Once accomplished, await further instruction.
-9=Good luck, brother.@@
-10=DATA LINK TERMINATED@@
-11=Objective 1: Escort the M.C.V. to our surveillance outpost.@@
-12=Objective 2: Investigate GDI activity.
+1=СВЯЗЬ УСТАНОВЛЕНА@@
+ ;DATA LINK ESTABLISHED@@
+2=Вы действительно тот, кто приведёт нас к победе, брат. Благодаря вам Сыны Кейна
+ ;You truly are the one to lead us to victory, brother. Thanks to you the Sons of Kane
+3=увидели свет, и мы снова едины, чтобы выполнить истинные заветы Кейна!@@
+ ;have seen the light, and we are reunited once again so that we may fulfill Kane's true legacy!@@
+4=Во время конфликта братьев Внутренний Круг обнаружил огромный и тяжелоукреплённый 
+ ;During the conflict of brothers, the Inner Circle uncovered a large and heavily defended
+5=комплекс ГСБ. Этот комплекс защищён каким-то типом энергетичесого барьера, который ничего не пропускает.@
+ ;GDI facility. This facility is protected by some sort of energy barrier that nothing can get through.@
+6=ГСБ пошло на всё, чтобы сокрыть что-то. Найдите способ проникнуть на базу и узнать их секреты.@@
+ ;GDI is going great lengths to hide something -- find a way to infiltrate the base and uncover their secrets.@@
+7=Сыны Кейна развернули неподалёку аванпост. Ваша задача - сопроводить МСЦ до 
+ ;The Sons of Kane have set up an outpost nearby. Your task is to escort an MCV to
+8=этого аванпоста без обнаружения ГСБшниками. Как только выполните, ожидайте дальнейших инструкций. 
+ ;that outpost without being detected by GDI. Once accomplished, await further instruction.
+9=Удачи, брат.@@
+ ;Good luck, brother.@@
+10=СВЯЗЬ ПРЕРВАНА@@
+ ;DATA LINK TERMINATED@@
+11=Задача 1: Сопроводите МСЦ к нашему наблюдательному аванпосту.@@
+ ;Objective 1: Escort the M.C.V. to our surveillance outpost.@@
+12=Задача 2: Расследуйте деятельность ГСБ.
+ ;Objective 2: Investigate GDI activity.
 
 [CellTags]
 56114=01000250

@@ -2331,23 +2331,23 @@ AreTeamMembersRecruitable=yes
 1=GDIB,ORCA,256,203,102,64,Area Guard,01000185,0,0,1,0
 
 [Briefing]
-1=DATA LINK ESTABLISHED@@
-2=Sarajevo, home to our holiest temple, and the last known location of Kane, before
-3=the incident that reformed this entire region nearly 20 years ago.@@
-4=After our initial investigations the Inner Circle declare that the area be left undisturbed,
-5=naturally outposts were maintained to monitor the region, a cruel hope that he would
-6=return.@@
-7=We have reason to believe there are still unexplored vaults beneath the
-8=Temple that may contain the data we're looking for. Such evidence is crucial to us -
-9=- we MUST acquire the logs in order to prove to the "Sons of Kane" that
-10=cybernetics really are vital to Kane's vision, and to finally end this senseless
-11=conflict.@@
-12=Escort your Ghost to the derelict Temple of Nod so that he can secure
-13=the files, but be careful, Commander -- various hostiles have been noted throughout
-14=the region. Good luck, my brother. I prey Kane will forgive our trespass but it
-15=must be done.@@
-16=DATA LINK TERMINATED@@
-17=Objective: Locate and investigate the Temple of Nod.
+1=СВЯЗЬ УСТАНОВЛЕНА@@
+2=Сараево. Дом нашего священнейшего Храма и последнее местонахождение Кейна, перед 
+3=инцидентом, преобразившим весь регион 20 лет тому назад.@@
+4=После первоначальных расследований Внутренний Круг заявил, что регион должен быть остален нетронутым. 
+5=Конечно, были сохранены аванпосты для наблюдения за регионом в суровой надежде, что мессия 
+6=вернётся.@@
+7=У нас есть основания полагать, что под Храмом всё ещё имеются неиследованные хранилища, 
+8=которые могут содержать нужные нам данные. Эти данные крайне важны для нас. 
+9=Мы ДОЛЖНЫ заполучить записи Кейна на руки, чтобы доказать "Сынам Кейна"
+10=чрезвычайную важность кибернетики согласно планам Кейна, и положить конец этому бессмысленному
+11=конфликту.@@
+12=Сопроводите Призрака к заброшенному Храму Нод, чтобы он смог найти 
+13=файлы, и будьте осторожны, брат, т.к. в регионе было замечено большое количество противников. 
+14=Удачи, брат мой. Я верю, что Кейн простит наше нарушение, ибо мы 
+15=обязаны это сделать.@@
+16=СВЯЗЬ ПРЕРВАНА@@
+17=Задача: Найдите и проникните в Храм Нод.
 
 [CellTags]
 25144=01000192

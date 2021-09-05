@@ -281,15 +281,15 @@ LightIntensity=-0.15
 LightVisibility=3500
 
 [NODCITY1]
-Name=Office Buildings
+Name=Офисные Здания;Office Buildings
 Sight=7
 
 [NODCITY2]
-Name=Office Buildings
+Name=Офисные Здания;Office Buildings
 Sight=7
 
 [NODCITY3]
-Name=Office Buildings
+Name=Офисные Здания;Office Buildings
 Sight=7
 
 [Normal]
@@ -1511,21 +1511,21 @@ PercentBuilt=0
 PlayerControl=no
 
 [Briefing]
-1=DATA LINK ESTABLISHED@@
-2=Our own brethren have turned against us! How did we not see this? This rebellion must
-3=have been planned for quite some time. Our increased focus on the cybernetics
-4=program has always had its detractors but the malfunction must have been the
-5=justification they've waited for.@@
-6=Fools like these have doubted ever since the Sarajevo incident, refusing to believe
-7=that it was Kane himself that sanctioned this technology! We shall settle this once
-8=and for all!@@
-9=But for now your attention is needed at the Lazarus facility! We can't risk losing the
-10=materials required for the production line. With the underground labs held by
-11=these dissidents, we're going to have to fight through to the secondary
-12=conversion centre, it's the only safe-zone for miles. Escort the train to the other
-13=side of the facility and await further instruction!@@
-15=DATA LINK TERMINATED@@
-16=Objective: Escort the train to safety.
+1=СВЯЗЬ УСТАНОВЛЕНА@@
+2=Наши братья повернулись против нас! Как мы могли проглядеть это? Мятеж обязан 
+3=был быть спланирован очень давно. Наше увеличившееся внимание к программе 
+4=кибернетики всегда имело своих противников, однако неисправность 
+5=должна была стать подтверждением их опасений, которое они ждали.@@
+6=Подобные им глупцы сомневались со времём Сараевского Инцидента, отказываясь верить в то, 
+7=что Кейн лично санкционировал разработку этой технологии! Нам необходимо решить вопрос доверия раз 
+8=и навсегда!@@
+9=Но сейчас ваша внимательность требуется в комплексе Лазарь! Мы не можем рисковать потерей
+10=документацией, необходимой для массвого производства. Т.к. лаборатории 
+11=под контролем диссидентов, нам придётся пробиваться к вторичному 
+12=пересадочному центру. Это единственная безопасная зона на километры вокруг. Сопроводите поезд на другую 
+13=сторону комплекса и ждите дальнейших указаний!@@
+15=СВЯЗЬ ПРЕРВАНА@@
+16=Задача: Сопроводите поезд в безопасное место.
 
 [CellTags]
 51079=01000116

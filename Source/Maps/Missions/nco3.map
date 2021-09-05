@@ -1346,10 +1346,9 @@ TransportsReturnOnUnload=no
 AreTeamMembersRecruitable=no
 
 [Briefing]
-1=Nod Covert Operation: Pest Control@@
-2=Defend your fortress from the incoming waves of Tiberium lifeforms. Enemy numbers
-3=increase over time, and no reinforcements are available.
-4=Good luck.@@
+1=Спецоперация Нод: Дезинсекция@@
+2=Защищайте вашу базу от волн тибериевых организмов. С каждой волной количество организмов будет возрастать и 
+3=подкрепления будут не доступны. Удачи.@@
 
 [Dummy1]
 IQ=0

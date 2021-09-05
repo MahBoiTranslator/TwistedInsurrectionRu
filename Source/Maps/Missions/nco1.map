@@ -796,13 +796,13 @@ TransportsReturnOnUnload=no
 AreTeamMembersRecruitable=no
 
 [Briefing]
-1=Nod Covert Operation: Desperate Situation@@
-2=GDI, GloboTech and Forsaken are vying over control
-3=of this region. Unfortunately, our base is caught in
-4=the middle of it. Defend the base until the enemy
-5=attacks have been exhausted. Reinforcements are
-6=available dependent on your performance. Good luck,
-7=brother.@@
+1=Спецоперация Нод: Безвыходная Ситуация@@
+2=ГСБ, ГлобоТех и Покинутые соперничают за контроль
+3=над этим регионом. К сожалению, наша база находится прямо
+4=в сердце конфликта. Защищайте базу до тех пор,
+5=пока атаки противника не иссякнут. Подкрепления будут 
+6=доступны в зависимости от вашей результативности. Удачи,
+7=брат.
 
 [CellTags]
 26084=01000019

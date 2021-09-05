@@ -82,7 +82,7 @@ TiberiumDeathToVisceroid=yes
 01000138=1,32,0,0,0,0,0,0,A
 
 [CA0011]
-Name=Fuel Tank
+Name=Бензовоз;Fuel Tank
 Explodes=yes
 Explosion=AMMOXINI
 MaxDebris=1
@@ -97,7 +97,7 @@ DamageParticleSystems=SparkSys
 WoodCrate=HealBase
 
 [DOCRNS]
-Name=Crane
+Name=Кран;Crane
 
 [E4]
 TechLevel=-1
@@ -961,14 +961,14 @@ TransportsReturnOnUnload=no
 AreTeamMembersRecruitable=no
 
 [Briefing]
-0=Nod Covert Operation: Reaper Raid@@
-1=Interrogation has revealed the existence of a large depot of GDI heavy tanks.
-2=Infiltrate a GDI Comm. Center to locate this depot, and scan for any weak
-3=points in its perimeter. Three separate cyborg teams are en-route to your location.
-4=Use our new CYBORG REAPERS to destroy the depot once its defenses have been cleared.@@
-5=Objective 1: Capture the GDI COMMUNICATIONS CENTER@
-6=Objective 2: Disable the depot defenses@
-7=Objective 3: Destroy all GOLIATH TANKS in the depot.
+0=Спецоперация Нод: Набег Жнецов@@
+1=Допрос поднял на поверхность существование большого депо тяжёлых танков ГСБ. Проникните в Центр Связи ГСБ, чтобы 
+2=найти это депо, и просканируйте на наличие любых уязвимых точек в их периметре. Три отдельных команды КИБОРГОВ в пути 
+3=к вашей позиции. Используйте наших новых КИБОРГОВ ЖНЕЦОВ, чтобы уничтожить депо, как только его оборона будет 
+4=отключена.@@
+5=Задача 1: Захватите Центр Связи ГСБ.@@
+6=Задача 2: Деактивируйте оборону депо.@@ 
+7=Задача 3: Уничтожьте все ТАНКИ ГОЛИАФ в депо.
 
 [CellTags]
 27081=01000094

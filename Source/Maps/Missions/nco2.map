@@ -158,7 +158,7 @@ TechLevel=-1
 
 [DSHP]
 ROT=6
-Name=Chinook Transport
+Name=Транспортник Чинук;Chinook Transport
 Image=TDNTRAN
 Speed=16
 AuxSound1=HELUP01
@@ -2419,16 +2419,16 @@ AreTeamMembersRecruitable=no
 1=Nod,TDAPACHE,256,32,70,64,Guard,None,0,0,1,0
 
 [Briefing]
-1=Nod Covert Operation: Anachronia@@
-2=One of our factions in Northern China has gone rogue.
-3=One base remains loyal, but their equipment is woefully
-4=outdated. The insurgents are massing an assault on the
-5=base as we speak. They think they're on their way to
-6=an easy victory -- let hubris be their downfall. We
-7=will crush the insurrection once their assault has been
-8=exhausted.@@
-9=Reinforcements are available dependent on your performance.
-10=Good luck, brother.@@
+1=Спецоперация Нод: Анахрония@@
+2=Одна из наших ячеек на Севере Китая подняла мятеж.
+3=В регионе осталась лояльная база, однако её оборудование ужасающе
+4=устарело. В эти минуты мятежники готовят нападение на
+5=базу. Они думают, что им легко будет заполучить победу.
+6=Пусть высокомерие станет их погибелью. Мы
+7=сокрушим восстание, как только их силы будут
+8=исчерпаны.@@
+9=Подкрепления будут доступны в зависимости от вашей результативности.
+10=Удачи, брат.
 
 [Dummy1]
 IQ=0

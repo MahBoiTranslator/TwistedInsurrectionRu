@@ -433,7 +433,7 @@ Prerequisite=NAWEAP,NARADR,NASPOT
 
 [NAAPWC]
 Cost=750
-Name=Advanced Power Plant
+Name=Улучшенная Энергостанция;Advanced Power Plant
 Armor=light
 Image=NAAPWR
 Owner=Nod
@@ -466,7 +466,7 @@ Prerequisite=POWER
 
 [NADEPC]
 Cost=800
-Name=Service Depot
+Name=Ремдепо;Service Depot
 Armor=light
 Image=NADEPT
 Owner=Nod
@@ -499,7 +499,7 @@ Prerequisite=NACYBO
 
 [NAHANC]
 Cost=500
-Name=Hand Of Nod
+Name=Рука Нод;Hand Of Nod
 Armor=light
 Image=NAHAND
 Owner=Nod
@@ -530,7 +530,7 @@ Prerequisite=POWER,NASPOT
 
 [NAHPAC]
 Cost=1000
-Name=Helipad
+Name=Вертолётная Площадка;Helipad
 Armor=light
 Image=NAHPAD
 Owner=NodA,Nod
@@ -566,7 +566,7 @@ Insignificant=yes
 
 [NAOBEC]
 Cost=1500
-Name=Obelisk of Light
+Name=Обелиск;Obelisk of Light
 Armor=heavy
 Image=NAOBEL
 Owner=Nod
@@ -604,7 +604,7 @@ Insignificant=yes
 
 [NAPOWC]
 Cost=400
-Name=Power Plant
+Name=Энергостанция;Power Plant
 Armor=light
 Image=NAPOWR
 Owner=Nod
@@ -632,7 +632,7 @@ DamageParticleSystems=SparkSys,SmallGreySSys,BigGreySmokeSys
 
 [NARADC]
 Cost=0
-Name=Communications Center
+Name=Центр Связи;Communications Center
 Armor=light
 Image=NARADR
 Owner=NOD
@@ -678,7 +678,7 @@ SuperWeapon=none
 [NAREFC]
 Bib=yes
 Cost=0
-Name=Tiberium Refinery
+Name=Обогатитель;Tiberium Refinery
 Armor=heavy
 Image=NAREFN
 Owner=Nod
@@ -839,7 +839,7 @@ LightIntensity=0.008
 LightVisibility=3000
 
 [TRATOS]
-Name=Dr. Incandela
+Name=Доктор Инкандела;Dr. Incandela
 Immune=yes
 Category=Soldier
 Civilian=no
@@ -853,7 +853,7 @@ LegalTarget=no
 3=Arboreus
 
 [UMAGON]
-Name=Sons of Kane Leader
+Name=Лидер Сынов Кейна;Sons of Kane Leader
 Immune=yes
 Primary=none
 Category=Soldier

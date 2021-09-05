@@ -34,7 +34,7 @@ TiberiumDeathToVisceroid=yes
 [BGGY]
 ROT=8
 Cost=1000
-Name=Demolition Drone
+Name=Дрон Бомбовоз;Demolition Drone
 Armor=light
 Image=none
 Owner=Dummy2
@@ -85,7 +85,7 @@ ThreatPosed=100
 [CNVYWP]
 ROT=8
 Cost=1000
-Name=Bomb Truck
+Name=Бомбовоз;Bomb Truck
 Armor=heavy
 Owner=Dummy2
 Sight=6
@@ -256,15 +256,15 @@ LightIntensity=-0.15
 LightVisibility=3500
 
 [NODCITY1]
-Name=Office Buildings
+Name=Офисное Здание;Office Buildings
 Sight=7
 
 [NODCITY2]
-Name=Office Buildings
+Name=Офисное Здание;Office Buildings
 Sight=7
 
 [NODCITY3]
-Name=Office Buildings
+Name=Офисное Здание;Office Buildings
 Sight=7
 
 [NREPAIR]
@@ -2002,16 +2002,16 @@ AreTeamMembersRecruitable=no
 01000208=6,80,1,01000190,0,0,0,0,AZ,80,1,01000196,0,0,0,0,BD,80,1,01000192,0,0,0,0,BB,80,1,01000200,0,0,0,0,BF,80,1,01000194,0,0,0,0,AX,80,1,01000198,0,0,0,0,AP
 
 [Briefing]
-1=DATA LINK ESTABLISHED@@
-2=Thanks to your quick actions and the destruction of the facility's main entrances, we've been
-3=able to recover most of our technology. Unfortunately, your victory was but a short respite.
-4=Our intelligence reports show that these "Sons of Kane" have mobilized forces towards
-5=your position, most likely in an attempt to finish the program once and for all... Your mission
-6=is to defend the remaining base, by any means -- even if that means killing our own brethren.
-7=But with Kane still missing and this disturbing resurgence of GDI, we will do whatever
-8=we have to do to maintain our stewardship over humanity.@@
-9=DATA LINK TERMINATED@@
-10=Objective: Defend the evacuation process.
+1=СВЯЗЬ УСТАНОВЛЕНА@@
+2=Благодаря вашим быстрым действиям и разрушению главных входов комплекса, мы смогли 
+3=вернуть большую часть наших технологий. К сожалению, наша победа была лишь короткой передышкой. 
+4=Разведка докладывает, что эти "Сыны Кейна" перемещают войска прямо к
+5=вашей позиции, скорее всего, чтобы закрыть программу раз и навсегда... Ваша миссия -
+6=защищать оставшуюся базу любыми способами, даже если это означает убийство наших братьев. 
+7=Несмотря на то, что Кейна до сих пор нет, а ГСБ возродился, мы сделаем 
+8=всё возможное, чтобы сохранить наш контроль над человечеством.@@
+9=СВЯЗЬ ПРЕРВАНА@@
+10=Задача: Защищайте процесс эвакуации.
 
 [COBRA]
 TechLevel=1

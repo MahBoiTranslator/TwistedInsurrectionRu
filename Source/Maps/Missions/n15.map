@@ -2310,29 +2310,17 @@ Group=-1
 
 [Briefing]
 1=СВЯЗЬ УСТАНОВЛЕНА@@
- ;DATA LINK ESTABLISHED@@
 2=Вы действительно тот, кто приведёт нас к победе, брат. Благодаря вам Сыны Кейна
- ;You truly are the one to lead us to victory, brother. Thanks to you the Sons of Kane
 3=увидели свет, и мы снова едины, чтобы выполнить истинные заветы Кейна!@@
- ;have seen the light, and we are reunited once again so that we may fulfill Kane's true legacy!@@
 4=Во время конфликта братьев Внутренний Круг обнаружил огромный и тяжелоукреплённый 
- ;During the conflict of brothers, the Inner Circle uncovered a large and heavily defended
 5=комплекс ГСБ. Этот комплекс защищён каким-то типом энергетичесого барьера, который ничего не пропускает.@
- ;GDI facility. This facility is protected by some sort of energy barrier that nothing can get through.@
 6=ГСБ пошло на всё, чтобы сокрыть что-то. Найдите способ проникнуть на базу и узнать их секреты.@@
- ;GDI is going great lengths to hide something -- find a way to infiltrate the base and uncover their secrets.@@
 7=Сыны Кейна развернули неподалёку аванпост. Ваша задача - сопроводить МСЦ до 
- ;The Sons of Kane have set up an outpost nearby. Your task is to escort an MCV to
 8=этого аванпоста без обнаружения ГСБшниками. Как только выполните, ожидайте дальнейших инструкций. 
- ;that outpost without being detected by GDI. Once accomplished, await further instruction.
 9=Удачи, брат.@@
- ;Good luck, brother.@@
 10=СВЯЗЬ ПРЕРВАНА@@
- ;DATA LINK TERMINATED@@
 11=Задача 1: Сопроводите МСЦ к нашему наблюдательному аванпосту.@@
- ;Objective 1: Escort the M.C.V. to our surveillance outpost.@@
 12=Задача 2: Расследуйте деятельность ГСБ.
- ;Objective 2: Investigate GDI activity.
 
 [CellTags]
 56114=01000250

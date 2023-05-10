@@ -306,7 +306,7 @@ SuperWeapon=none
 Insignificant=yes
 
 [NASILO]
-Name=A.I. Linker
+Name=Линковщик ИИ;A.I. Linker
 
 [NEGLAMP]
 LightRedTint=0.03

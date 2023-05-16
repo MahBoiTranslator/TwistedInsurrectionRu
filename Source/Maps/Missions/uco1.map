@@ -13008,15 +13008,15 @@ DestroyableBridges=yes
 01000718=GDI,01000207,7C-UFOStolen Special,0,1,1,1,0
 
 [Tutorial]
-1=There are no more civilians trying to rush the base!  It looks like we CAN stop all of them!
-2=-COMMAND INTERFACE ENABLED-
-3=--ALERT! - The UFO Prototype has been stolen!  There's no stopping it now!--
-4=--ALERT! - The Chronosphere has been infiltrated!  Someone has attempted to use it and time is destabilizing!--
-5=--ALERT! - The Weather Control Lab has been infiltrated!  Something is happening in the clouds!--
-6=--ALERT! - The UFO Prototype has been destroyed!--
-7=--ALERT! - The Chronosphere has been destroyed!--
-8=--ALERT! - A portion of the Weather Control Site has been destroyed!--
-9=The UFO Prototype is now fully operational!
+1=Гражданские больше не атакуют базу! Похоже мы МОЖЕМ остановить их!;There are no more civilians trying to rush the base!  It looks like we CAN stop all of them!
+2=-УПРАВЛЕНИЕ ВКЛЮЧЕНО-
+3=--ТРЕВОГА! - Прототип НЛО был украден! Его теперь ничем не остановить!--;--ALERT! - The UFO Prototype has been stolen!  There's no stopping it now!--
+4=--ТРЕВОГА! - Хроносфера захвачена! Кто-то пытается использовать её, и время дестабилизируется!--;--ALERT! - The Chronosphere has been infiltrated!  Someone has attempted to use it and time is destabilizing!--
+5=--ТРЕВОГА! - В лабораторию Устройства Управления Погодой проникли! Что-то происходит в небе!--;--ALERT! - The Weather Control Lab has been infiltrated!  Something is happening in the clouds!--
+6=--ТРЕВОГА! - Прототип НЛО уничтожен!--;--ALERT! - The UFO Prototype has been destroyed!--
+7=--ТРЕВОГА! - Хроносфера уничтожена!--;--ALERT! - The Chronosphere has been destroyed!--
+8=--ТРЕВОГА! - Часть Устройства Управления Погодой была уничтожена!--;--ALERT! - A portion of the Weather Control Site has been destroyed!--
+9=Прототип НЛО полностью работоспособен!;The UFO Prototype is now fully operational!
 
 [UFO]
 IQ=0

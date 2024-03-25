@@ -11,7 +11,11 @@ echo Copy files...
 xcopy Source\* Build\* /e /y
 
 echo Compiling %mix%.mix...
-Tools\ccmix.exe --create --lmd --game=ts --dir "Source\%mix%" --mix Build\MIX\%mix%.mix
+for /f "tokens=*" %%f in ('dir "Build\MIX\" /a:d /b /s') do (
+	Tools\ccmix.exe --create --lmd --game=ra2 --dir "%%f" --mix %%f.mix
+	rmdir /q /s %%f > nul 2> nul
+	)
+cd ..\..\
 rmdir /q /s Build\%mix% > nul 2> nul
 
 echo Done. Please, check Build folder.

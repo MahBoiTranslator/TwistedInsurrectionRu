@@ -11,7 +11,7 @@ xcopy Source\* Build\* /e /y
 
 for /f "tokens=*" %%f in ('dir "Build\MIX\" /a:d /b') do (
 	echo Compiling %%f.mix...
-	Tools\ccmix.exe --create --lmd --game=ra2 --dir "Build\MIX\%%f" --mix "Build\MIX\%%f.mix"
+	Tools\ccmix.exe --create --lmd --game=ts --dir "Build\MIX\%%f" --mix "Build\MIX\%%f.mix"
 	rmdir /q /s Build\MIX\%%f
 	)
 

@@ -1,6 +1,5 @@
 # Русификатор модификации Twisted Insurrection для игры C&C: Tiberian Sun
-[![Github All Releases](https://img.shields.io/github/downloads/MahBoiTranslator/TwistedInsurrectionRu/total.svg)](https://github.com/MahBoiTranslator/TwistedInsurrectionRu/releases)
-
+[![Github All Releases](https://img.shields.io/github/downloads/MahBoiTranslator/TwistedInsurrectionRu/total.svg)](https://github.com/MahBoiTranslator/TwistedInsurrectionRu/releases) [![Support me on Boosty](https://img.shields.io/badge/boosty-50₽/месяц-green.svg?logo=boosty)](https://boosty.to/mah_boi)
 ## Описание локализатора
 Данный локализатор является неофициальным языковым патчем для мода Twisted Insurrection, который переводит интерфейс и почти весь текст мода с английского языка на русский язык. Перевод является любительским, поэтому возможны неточности перевода, которые будут решены со временем. Ниже приведено описание переведённых и не переведённых элементов.
 
